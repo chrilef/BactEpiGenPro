@@ -1,5 +1,6 @@
-#!/bin/bash
+# This is an example script on how to use SMRT Tools to generate methylation data (GFF file).
 
+#!/bin/bash
 #*** Enter your own server's job queuing parameters below:
 #-> qsub parameters
 #make sure to install these modules:
