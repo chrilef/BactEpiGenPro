@@ -1,4 +1,4 @@
-# BactEpiGenPro - Analayse and Visualise Methylation Patterns in Bacterial Genomes.
+# BactEpiGenPro - Analyse and Visualise Methylation Patterns in Bacterial Genomes.
 
 --- Under Development --- 
 
