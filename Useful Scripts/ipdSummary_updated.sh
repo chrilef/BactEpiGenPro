@@ -1,13 +1,7 @@
 #!/bin/bash
 
 #*** Enter your own server's job queuing parameters below:
-#PBS -l nodes=1:ppn=8
-#PBS -l walltime=30:00:00
-#PBS -q normal
-#PBS -o /nlustre/users/chrisl/msc/PacBio/stdout
-#PBS -e /nlustre/users/chrisl/msc/PacBio/stderr
-#PBS -N ipdSummary
-
+#-> qsub parameters
 #make sure to install these modules:
 module load samtools-1.10
 module load bowtie2-2.4.1
@@ -15,7 +9,10 @@ module load smrtlink_12.0.0.177059
 module load bcftools-1.7
 module load perl-5.32.0
 
-# The next section's values are populated by call_ipdSummary.sh
+# The next section's values are populated by call_ipdSummary.sh or edit this script to your liking. 
+#*** Grab desired output directory (must exist)***
+#make new directory for our results
+#will be named after the sample id 
 inp_ref="$1"
 inp_bam="$2"
 base=$(basename "$inp_bam")
@@ -29,15 +26,14 @@ cd $id
 cp --no-clobber "$inp_ref" .
 cp --no-clobber "$inp_bam" .
 
-#use this command only if you experience chemistry or kinetic analysis related errors
+#************************************************************************************************
+#Important: use this command only if you experience chemistry or kinetic analysis related errors
 ccs-kinetics-bystrandify \
     "${bam_name}.bam" \
     "ccs_kinetics_bystrandify.bystrand.${bam_name}.bam"
 bam_name=ccs_kinetics_bystrandify.bystrand.${bam_name}
-#*** Grab desired output directory (must exist)***
-#make new directory for our results
-#will be named after the sample id 
 
+#************************************************************************************************
 # Samtools indexing
 samtools faidx "${ref_name}.fa"
 
