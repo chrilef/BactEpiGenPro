@@ -1,0 +1,15 @@
+-u	/home/chrilef/scripts/web_dev_private/BactEpiGenPro/web_app/inputs
+-o	/home/chrilef/scripts/web_dev_private/BactEpiGenPro/web_app/outputs
+-x	./lib/bin
+-y	./lib/bin/tmp
+-i	6654cab24138b_S.aureus_150.gff
+-g	6654cab24138b_S.aureus_150.gbk
+-m	
+-w	GATC
+-d	2,4
+-r	0
+-c	21
+-n	3
+-z	Yes
+-p	75
+-f	M

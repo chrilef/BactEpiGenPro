@@ -1,0 +1,20 @@
+
+========================[ Dec 6, 2011  9:26 PM ]========================
+Version 2.2.21 [Jun-14-2009]
+Started database file "gi.fas"
+ERROR: [000.000] Could not open gi.fas
+
+
+========================[ Dec 6, 2011  9:27 PM ]========================
+Version 2.2.21 [Jun-14-2009]
+Started database file "gi.fst"
+WARNING: [000.000] Cannot add sequence number 357 (lcl|357_gi) because it has zero-length.
+
+Removed single-volume database gi
+FATAL ERROR: [001.000] Fatal error when adding sequence to BLAST database.
+
+========================[ Dec 6, 2011  9:48 PM ]========================
+Version 2.2.21 [Jun-14-2009]
+Started database file "gi.fst"
+Formatted 17704 sequences in volume 0
+SUCCESS: formatted database gi
