@@ -1,3 +1,4 @@
+# This script converts assembled genomes in FASTA format to GBK format.
 # Before you continue, make sure to download python3
 # Run the following command in your command line interface: pip3 install biopython
 from Bio import SeqIO
