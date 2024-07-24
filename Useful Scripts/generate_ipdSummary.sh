@@ -6,7 +6,7 @@ err_msg="Please enter inputs in the following order:\n
 		-Input Directory containing BAM and Fasta files \n
 		(Subsets of a sample i.e. sample1_1 and sample1_2 will incremented as follows: ipdSummary.sample1.qsub & ipdSummary.sample1.2.qsub).\n
 		-Path to output directory\"\n
-        	-Example usage: \"/nlustre/users/chrisl/msc/PacBio/assembly\" \"data/myfasta.fasta\" \"data/mybam.bam\""
+        	
 
 if [ $# -eq 0 ];then
 echo -e $err_msg
