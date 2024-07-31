@@ -76,15 +76,15 @@ You will receive two outputs:
 
 1. Overview of genomic methylation sites.
    
-![](https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825 | width=800 | height=800)
+<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="800" height="800">
 
 2. Text output including methylation motifs, locations, and gene annotations.
    
-![](https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12  |width=800 | height=800)
+<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' width="800" height="800">
 
 Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.
 
-![](https://github.com/user-attachments/assets/1d76f481-30dc-4ba4-979e-f7b97364b8a7 |width=800 | height=800)
+<img src= 'https://github.com/user-attachments/assets/1d76f481-30dc-4ba4-979e-f7b97364b8a7' width="800"  height="800">
 
 
 <pre>
