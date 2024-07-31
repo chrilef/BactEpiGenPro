@@ -5,12 +5,12 @@
 This software aims to provide a user friendly platform to determine methylation patterns and their effects on gene expression in bacterial genomes. Here you can download and run these tools on your own machine or from our website at http://begp.bi.up.ac.za. Additionally, we provide other potentially useful scripts for your methylation analysis.
 
 To visualise canonical methylation in your samples, you can run the SeqWord Motif Mapper program.
+
 <pre>
 Program SeqWord MotifMapper v3.0
 Author: O. Reva (oleg.reva@up.ac.za)
 Last time modified: 22 May, 2024
-
-python run.py [-arguments]
+Usage: python run.py [-arguments]
 python run.py -h / -H / --help - show this help
 python run.py -v / -V / --version - show version
 Arguments:
@@ -28,12 +28,15 @@ Arguments:
 	   -z:       # <Yes/No> allow motif mismatch, Yes by default
 	   -p:       # <INT> length of upstream promoter sequence, 75 by default
 	   -f:       # 'M' - show methylated motifs (default); 'U' - show unmenthylated motifs;
+</pre>
 
 Each parameter is explained below.
 
-#1. Dataset
+###1. Dataset
 -Annotated reference genome in GenBank Flat File Format (.gbk).
+
 -Modified nucleotides in General Feature Format (.gff).
+
 -Sequence regions to ignore in .gbk format (optional).
 
 An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the inputs folder.
@@ -41,23 +44,25 @@ An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the i
 There are a few ways to obtain these files.
 
 GBK files:
+
 -Find GenBank files from a public database such as the NCBI.
 -Use a genome annotation tool such as PROKKA and specify .gbk as your preferred output format.
 -Already have an annotated genome in FASTA format? Convert using fa2gbk.py.
 
 GFF files:
+
 We highly recommend using PacBio SMRT sequencing for methylation analysis. The SMRT Link software can be used to identify modified bases (see ipdSummary.sh).
 
-#2. Parameters
+###2. Parameters
 
-Basic
+Basic:
 Motif: A specific nucleotide sequence recognised by methyltransferases.
+
 -Modified base locations: Comma separated integer list of modified base positions within the motif. This value can be specified for both the forward and reverse strands.
 -Show methylated motifs: Show or hide methylated sites in the output.
-
 -Searching mode: Defines the searching mode for methylated sites in a motif. Sites are reported if one or more nucleotides are methylated, while motifs are reported only if all specified nucleotide positions are methylated.
 
-Advanced
+Advanced:
 
 -Filter regions: Sequence regions to ignore in .gbk format.
 -Allow context mismatches: Toggle context mismatches on or off (default = on).
@@ -76,12 +81,11 @@ You will receive two outputs:
 
 Additionally, you can plot sequencing depth aganst NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.
 ![image](https://github.com/user-attachments/assets/2b8a72d8-0aac-44b3-a59e-a0df4d609d84)
-
-Usage: python GFF_dotplot.py [-h] [-v] /path/my_file.gff [options]
-
+<pre>
 Program GFF_dotplot.py
 Author: O. Reva (oleg.reva@up.ac.za)
 Last time modified: 28 July, 2024
+Usage: python GFF_dotplot.py [-h] [-v] /path/my_file.gff [options]
 options:
         -o: output SVG files, empty by default to save the output into
             the input folder under the input file name.
