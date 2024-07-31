@@ -32,7 +32,7 @@ Arguments:
 
 Each parameter is explained below.
 
-###1. Dataset
+## 1. Dataset
 -Annotated reference genome in GenBank Flat File Format (.gbk).
 
 -Modified nucleotides in General Feature Format (.gff).
@@ -53,7 +53,7 @@ GFF files:
 
 We highly recommend using PacBio SMRT sequencing for methylation analysis. The SMRT Link software can be used to identify modified bases (see ipdSummary.sh).
 
-###2. Parameters
+## 2. Parameters
 
 Basic:
 Motif: A specific nucleotide sequence recognised by methyltransferases.
@@ -70,17 +70,22 @@ Advanced:
 -Cut-off score: Sets the strictness of the search. This is defined as the likelihood that a given nucleotide is methylated (default = unset). For example, a cut-off of 21 equates to p = 0.01.
 -Promoter sequence length: The length of the upstream promoter sequence (default = 75 bp).
 
-#3. Outputs
+## 3. Outputs
+
 You will receive two outputs:
 
 1. Overview of genomic methylation sites.
+   
 ![image](https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825)
 
 2. Text output including methylation motifs, locations, and gene annotations.
+   
 ![image](https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12)
 
 Additionally, you can plot sequencing depth aganst NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.
+
 ![image](https://github.com/user-attachments/assets/2b8a72d8-0aac-44b3-a59e-a0df4d609d84)
+
 <pre>
 Program GFF_dotplot.py
 Author: O. Reva (oleg.reva@up.ac.za)
