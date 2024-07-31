@@ -55,20 +55,22 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 
 ## 2. Parameters
 
-Basic:
+### Basic:
+
 Motif: A specific nucleotide sequence recognised by methyltransferases.
 
--Modified base locations: Comma separated integer list of modified base positions within the motif. This value can be specified for both the forward and reverse strands.
--Show methylated motifs: Show or hide methylated sites in the output.
--Searching mode: Defines the searching mode for methylated sites in a motif. Sites are reported if one or more nucleotides are methylated, while motifs are reported only if all specified nucleotide positions are methylated.
+- Modified base locations: Comma separated integer list of modified base positions within the motif. This value can be specified for both the forward and reverse strands.
+- Show methylated motifs: Show or hide methylated sites in the output.
+- Searching mode: Defines the searching mode for methylated sites in a motif. Sites are reported if one or more nucleotides are methylated, while motifs are reported only if all specified nucleotide positions are 
+  methylated.
 
-Advanced:
+### Advanced:
 
--Filter regions: Sequence regions to ignore in .gbk format.
--Allow context mismatches: Toggle context mismatches on or off (default = on).
--Context mismatches: The maximum number of context sequence mismatches allowed per methylation site (default = 2).
--Cut-off score: Sets the strictness of the search. This is defined as the likelihood that a given nucleotide is methylated (default = unset). For example, a cut-off of 21 equates to p = 0.01.
--Promoter sequence length: The length of the upstream promoter sequence (default = 75 bp).
+- Filter regions: Sequence regions to ignore in .gbk format.
+- Allow context mismatches: Toggle context mismatches on or off (default = on).
+- Context mismatches: The maximum number of context sequence mismatches allowed per methylation site (default = 2).
+- Cut-off score: Sets the strictness of the search. This is defined as the likelihood that a given nucleotide is methylated (default = unset). For example, a cut-off of 21 equates to p = 0.01.
+- Promoter sequence length: The length of the upstream promoter sequence (default = 75 bp).
 
 ## 3. Outputs
 
@@ -76,18 +78,15 @@ You will receive two outputs:
 
 1. Overview of genomic methylation sites.
    
-<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="800" height="800">
+<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="800" height="800"><br>
 
-2. Text output including methylation motifs, locations, and gene annotations.
+2. Text output including methylation motifs, locations, and gene annotations.<br>
    
-<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' width="1200" height="1000">
+<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' width="800" height="1000"><br>
 
-Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.
-
-<img src= 'https://github.com/user-attachments/assets/166b87f7-e252-4e73-8fdb-9ab349f52065' width="1200"  height="1200">
+Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.<br>
 
 <pre>
-	
 Program GFF_dotplot.py
 Author: O. Reva (oleg.reva@up.ac.za)
 Last time modified: 28 July, 2024
@@ -101,6 +100,7 @@ options:
         -c: score cut-off; 0 by default.
         -w: WIDTH - maximum coverage (X) value; 0 (AUTO) by default.
         -s: HEIGHT - maximum score (Y) value; 0 (AUTO) by default.
-</pre>
+</pre><br>
 
-   
+<img src= 'https://github.com/user-attachments/assets/166b87f7-e252-4e73-8fdb-9ab349f52065' width="800"  height="1200">
+
