@@ -57,8 +57,7 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 
 ### Basic
 
-Motif: A specific nucleotide sequence recognised by methyltransferases.
-
+- Motif: A specific nucleotide sequence recognised by methyltransferases.
 - Modified base locations: Comma separated integer list of modified base positions within the motif. This value can be specified for both the forward and reverse strands.
 - Show methylated motifs: Show or hide methylated sites in the output.
 - Searching mode: Defines the searching mode for methylated sites in a motif. Sites are reported if one or more nucleotides are methylated, while motifs are reported only if all specified nucleotide positions are 
