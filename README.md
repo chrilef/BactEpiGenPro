@@ -43,13 +43,13 @@ An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the i
 
 There are a few ways to obtain these files.
 
-###GBK files:
+### GBK files:
 
 - Find GenBank files from a public database such as the NCBI.
 - Use a genome annotation tool such as PROKKA and specify .gbk as your preferred output format.
 - Already have an annotated genome in FASTA format? Convert using fa2gbk.py.
 
-###GFF files:
+### GFF files:
 
 We highly recommend using PacBio SMRT sequencing for methylation analysis. The SMRT Link software can be used to identify modified bases (see ipdSummary.sh).
 
@@ -82,7 +82,7 @@ You will receive two outputs:
 
 2. Text output including methylation motifs, locations, and gene annotations.<br>
    
-<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' width="500" height="900"><br>
+<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' ><br>
 
 Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.<br>
 
@@ -102,5 +102,5 @@ options:
         -s: HEIGHT - maximum score (Y) value; 0 (AUTO) by default.
 </pre><br>
 
-<img src= 'https://github.com/user-attachments/assets/166b87f7-e252-4e73-8fdb-9ab349f52065' width="500"  height="900">
+<img src= 'https://github.com/user-attachments/assets/166b87f7-e252-4e73-8fdb-9ab349f52065'>
 
