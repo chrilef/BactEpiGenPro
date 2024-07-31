@@ -78,7 +78,7 @@ You will receive two outputs:
 
 1. Overview of genomic methylation sites.
    
-<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="800" height="800"><br>
+<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="500" height="500"><br>
 
 2. Text output including methylation motifs, locations, and gene annotations.<br>
    
