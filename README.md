@@ -5,7 +5,7 @@
 This software aims to provide a user friendly platform to determine methylation patterns and their effects on gene expression in bacterial genomes. Here you can download and run these tools on your own machine or from our website at http://begp.bi.up.ac.za. Additionally, we provide other potentially useful scripts for your methylation analysis.
 
 To visualise canonical methylation in your samples, you can run the SeqWord Motif Mapper program.
-
+<pre>
 Program SeqWord MotifMapper v3.0
 Author: O. Reva (oleg.reva@up.ac.za)
 Last time modified: 22 May, 2024
@@ -91,6 +91,6 @@ options:
         -c: score cut-off; 0 by default.
         -w: WIDTH - maximum coverage (X) value; 0 (AUTO) by default.
         -s: HEIGHT - maximum score (Y) value; 0 (AUTO) by default.
-
+</pre>
 
    
