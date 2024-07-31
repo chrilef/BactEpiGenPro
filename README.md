@@ -5,6 +5,24 @@ This software was designed as part of a project that aims to provide a user frie
 
 To visualise canonical methylation in your samples, you can run the SeqWord Motif Mapper program.
 
+## 1. Installation
+
+Either fork the repository or download the .zip file under the 'code' section in GitHub and extract to your desired file path. 
+
+###Hardware
+
+This program has been tested on Windows and Linux based systems. It requires minimal computational resources and takes between 1-20 minutes to complete, depending on the size of your files and the complexity of the search parameters. 
+
+### Software & dependencies
+
+1. You will need to install Python v3.0.0+ to run this program (https://www.python.org/downloads/). After installation, in a command-line interface, install the following dependency: 'pip3 install numpy'.
+
+## 2. Running
+
+Navigate into the SeqWord MotifMapper 3.1 directory: 
+	'cd SeqWord MotifMapper 3.1'
+ 
+Then run the program as follows:
 <pre>
 Program SeqWord MotifMapper v3.0
 Author: O. Reva (oleg.reva@up.ac.za)
@@ -31,7 +49,7 @@ Arguments:
 
 Each parameter is explained below.
 
-## 1. Dataset
+## 3. Dataset
 
 You will need the following files:
 
@@ -57,7 +75,7 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 
 ![image](https://github.com/user-attachments/assets/0531cdb4-a1e7-4a28-be32-7a935c9b2b56)<br><br>
 
-## 2. Parameter terminology
+## 4. Parameter terminology
 
 ### Basic
 
@@ -82,7 +100,7 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
   
 - Promoter sequence length: The length of the upstream promoter sequence (default = 75 bp).
 
-## 3. Outputs
+## 5. Outputs
 
 You will receive two outputs:
 
