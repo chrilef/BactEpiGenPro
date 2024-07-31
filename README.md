@@ -46,7 +46,9 @@ There are a few ways to obtain these files.
 ### GBK files:
 
 - Find GenBank files from a public database such as the NCBI.
+  
 - Use a genome annotation tool such as PROKKA and specify .gbk as your preferred output format.
+  
 - Already have an annotated genome in FASTA format? Convert using fa2gbk.py.
 
 ### GFF files:
@@ -58,17 +60,24 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 ### Basic
 
 - Motif: A specific nucleotide sequence recognised by methyltransferases.
+  
 - Modified base locations: Comma separated integer list of modified base positions within the motif. This value can be specified for both the forward and reverse strands.
+  
 - Show methylated motifs: Show or hide methylated sites in the output.
+  
 - Searching mode: Defines the searching mode for methylated sites in a motif. Sites are reported if one or more nucleotides are methylated, while motifs are reported only if all specified nucleotide positions are 
   methylated.
 
 ### Advanced
 
 - Filter regions: Sequence regions to ignore in .gbk format.
+  
 - Allow context mismatches: Toggle context mismatches on or off (default = on).
+  
 - Context mismatches: The maximum number of context sequence mismatches allowed per methylation site (default = 2).
+  
 - Cut-off score: Sets the strictness of the search. This is defined as the likelihood that a given nucleotide is methylated (default = unset). For example, a cut-off of 21 equates to p = 0.01.
+  
 - Promoter sequence length: The length of the upstream promoter sequence (default = 75 bp).
 
 ## 3. Outputs
