@@ -39,7 +39,8 @@ Each parameter is explained below.
 
 - Sequence regions to ignore in .gbk format (optional).
 
-An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the inputs folder.
+An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the inputs folder. Additionally, you can use the diagram below to guide your analysis.<br>
+![image](https://github.com/user-attachments/assets/0531cdb4-a1e7-4a28-be32-7a935c9b2b56)<br
 
 There are a few ways to obtain these files.
 
