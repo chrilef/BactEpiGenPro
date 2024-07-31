@@ -57,7 +57,7 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 
 ![image](https://github.com/user-attachments/assets/0531cdb4-a1e7-4a28-be32-7a935c9b2b56)<br><br>
 
-## 2. Parameters
+## 2. Parameter terminology
 
 ### Basic
 
