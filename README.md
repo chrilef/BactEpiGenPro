@@ -42,10 +42,6 @@ You will need the following files:
 
 - Sequence regions to ignore in .gbk format (optional).
 
-An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the inputs folder. Additionally, you can use the figure below to guide your methylation analysis.<br><br>
-
-![image](https://github.com/user-attachments/assets/0531cdb4-a1e7-4a28-be32-7a935c9b2b56)<br>
-
 There are a few ways to obtain these files.
 
 ### GBK files:
@@ -58,7 +54,9 @@ There are a few ways to obtain these files.
 
 ### GFF files:
 
-We highly recommend using PacBio SMRT sequencing for methylation analysis. The SMRT Link software can be used to identify modified bases (see ipdSummary.sh).
+We highly recommend using PacBio SMRT sequencing for methylation analysis. The SMRT Link software can be used to identify modified bases (see ipdSummary.sh). An example dataset, S.aureus_150.gbk and S.aureus_150.gff, can be found in the inputs folder. Additionally, you can use the figure below to guide your methylation analysis.<br><br>
+
+![image](https://github.com/user-attachments/assets/0531cdb4-a1e7-4a28-be32-7a935c9b2b56)<br><br>
 
 ## 2. Parameters
 
@@ -91,13 +89,13 @@ You will receive two outputs:
 
 1. Overview of genomic methylation sites.
    
-<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="500" height="500"><br>
+<img src='https://github.com/user-attachments/assets/8f6f4f36-5480-40c9-8d1c-56254f623825' width="500" height="500"><br><br>
 
-2. Text output including methylation motifs, locations, and gene annotations.<br>
+2. Text output including methylation motifs, locations, and gene annotations.<br><br>
    
-<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' ><br>
+<img src='https://github.com/user-attachments/assets/e12e9ced-a57a-4b81-a6e8-1f91118b8a12' ><br><br>
 
-Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.<br>
+Additionally, you can plot sequencing depth against NucMod scores using GFF_dotplot.py, located in the SeqWord Motif Mapper folder.<br><br>
 
 <pre>
 Program GFF_dotplot.py
@@ -113,7 +111,7 @@ options:
         -c: score cut-off; 0 by default.
         -w: WIDTH - maximum coverage (X) value; 0 (AUTO) by default.
         -s: HEIGHT - maximum score (Y) value; 0 (AUTO) by default.
-</pre><br>
+</pre><br><br>
 
 <img src= 'https://github.com/user-attachments/assets/166b87f7-e252-4e73-8fdb-9ab349f52065'>
 
