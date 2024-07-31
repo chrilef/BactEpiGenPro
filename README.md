@@ -9,13 +9,13 @@ To visualise canonical methylation in your samples, you can run the SeqWord Moti
 
 Either fork the repository or download the .zip file under the 'code' section in GitHub and extract to your desired file path. 
 
-###Hardware
+### Hardware
 
 This program has been tested on Windows and Linux based systems. It requires minimal computational resources and takes between 1-20 minutes to complete, depending on the size of your files and the complexity of the search parameters. 
 
 ### Software & dependencies
 
-1. You will need to install Python v3.0.0+ to run this program (https://www.python.org/downloads/). After installation, in a command-line interface, install the following dependency: 'pip3 install numpy'.
+You will need to install Python v3.0.0+ to run this program (https://www.python.org/downloads/). After installation, in a command-line interface, install the following dependency: 'pip3 install numpy'.
 
 ## 2. Running
 
