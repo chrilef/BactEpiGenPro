@@ -90,7 +90,7 @@ We highly recommend using PacBio SMRT sequencing for methylation analysis. The S
 
 ### Advanced
 
-- Filter regions: Sequence regions to ignore in .gbk format.
+- Filter regions: Sequence regions to ignore in text format.
   
 - Allow context mismatches: Toggle context mismatches on or off (default = on).
   
