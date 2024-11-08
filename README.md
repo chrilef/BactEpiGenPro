@@ -11,7 +11,7 @@ Either fork the repository or download the .zip file under the 'code' section in
 
 ### Hardware
 
-This program has been tested on Windows and Linux based systems. It requires minimal computational resources and takes between 1-20 minutes to complete, depending on the size of your files and the complexity of the search parameters. 
+This program is compatible on Windows, Linux, and MacOS operating systems. It requires minimal computational resources and takes between 1-20 minutes to complete, depending on the size of your files and the complexity of the search parameters. 
 
 ### Software & dependencies
 
