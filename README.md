@@ -12,7 +12,7 @@
   <h2>General Settings</h2>
   <table>
       <tr>
-          <th width="10">Short Option</th>
+          <th>Short Option</th>
           <th>Long Option</th>
           <th>Type</th>
           <th>Default</th>
@@ -39,7 +39,7 @@
   <h2>Circular Map Settings</h2>
   <table>
       <tr>
-          <th width="10">Short Option</th>
+          <th>Short Option</th>
           <th >Long Option</th>
           <th>Type</th>
           <th>Default</th>
@@ -58,7 +58,7 @@
   <h2>Dot-Plot Settings</h2>
   <table>
       <tr>
-          <th width="10">Short Option</th>
+          <th>Short Option</th>
           <th>Long Option</th>
           <th>Type</th>
           <th>Default</th>
@@ -77,7 +77,7 @@
   <h2>Statistics Panel Settings</h2>
   <table>
       <tr>
-          <th width="10">Short Option</th>
+          <th>Short Option</th>
           <th>Long Option</th>
           <th>Type</th>
           <th>Default</th>
