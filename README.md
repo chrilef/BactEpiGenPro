@@ -1,3 +1,10 @@
+<link rel="stylesheet" href="https://unpkg.com/remarkdown.css/dist/remarkdown.css">
+<div class="remarkdown">
+  <h1>Default styles</h1>
+</div>
+<div class="remarkdown h1-underline hr-center">
+  <h1>With options</h1>
+</div>
 <!DOCTYPE html>
 <html lang="en">
 <head>
