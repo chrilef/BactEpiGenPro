@@ -1,0 +1,25 @@
+66e41d4e41f79_filtered_598_dnamod.gbk
+
+Number of motifs found in reference sequence: 57
+Number of filtered motifs in reference sequence after masking: 57
+Expected number of methylated sites: 171
+Number of sites found in GFF file: 10
+Number of masked sites taken from GFF file: 0
+Number of sites prdecited in GFF file and not found: 0
+Number of sites found in GFF file, which were not present in the reference sequence: 0
+Total number of instances: 57
+Total number of modified sites: 10
+	metylated at location 1 = 10
+CRGKGATC modified at 1,6 and 7; 	10/57	
+
+Motif	Strand	Location	Match	Description	Location relative to TSS	Annotation
+CGGTGATC	DIR	1037177..1037184	Yes	modified_base	DIR	22	291	737	[1036440..1038629]; 'Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+CAGTGATC	DIR	1145639..1145646	Yes	modified_base	DIR	24	261	59	[1145580..1147193]; 'Glucosaminyl-malate:cysteine ligase'
+CGGTGATC	DIR	1159287..1159294	Yes	modified_base	DIR	35	271	211	[1159076..1159750]; 'Pyridoxal phosphate-containing protein YggS'
+CAGTGATC	DIR	2386456..2386463	Yes	modified_base	DIR	25	357	n/a	non-coding
+CGGTGATC	DIR	2675376..2675383	Yes	modified_base	DIR	43	330	n/a	non-coding
+CAGTGATC	DIR	2888736..2888743	Yes	modified_base	DIR	22	342	n/a	non-coding
+CAGGGATC	DIR	427087..427094	Yes	m4C	DIR	44	296	103	[426984..428321]; 'Sodium-dependent transporter'
+CAGTGATC	DIR	571937..571944	Yes	modified_base	DIR	23	341	1249	[570688..572160]; 'Probable poly(Glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)
+CGGTGATC	DIR	893194..893201	Yes	modified_base	DIR	28	321	n/a	non-coding
+CGGTGATC	REV	498736..498743	Yes	modified_base	REV	25	310	n/a	non-coding

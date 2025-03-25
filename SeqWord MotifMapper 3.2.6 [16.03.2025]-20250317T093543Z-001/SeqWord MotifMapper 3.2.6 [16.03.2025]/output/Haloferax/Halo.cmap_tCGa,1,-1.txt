@@ -1,0 +1,935 @@
+
+Genome Haloferax
+Motif tCGa is modified at sites 1, -1;
+890 modified sites were identified out of 103990 found motifs;
+	modified at location 1 = 432; modified at location -1 = 458;
+
+
+
+############################################################
+STATISTICS: Haloferax, 890 modified nucleotides
+	filtered by motifs tCGa,1,-1.
+
+		Locations of modified bases were VERIFIED
+	Genome properties:
+		GC	correlation SP	-0.09 [from -0.14 to -0.05] with p-value = 0.000
+		GCS	correlation SP	0.09 [from 0.05 to 0.13] with p-value = 0.000
+
+	Distribution across coding:
+		Z-score: 3.51 ± 0.05 with p-value = 0.000
+			expected / observed: 385 / 454
+
+	Distribution across promoter:
+		Z-score: -4.87 ± 0.19 with p-value = 0.000
+			expected / observed: 28 / 2
+
+	Distribution across noncoding:
+		Z-score: -1.98 ± 0.05 with p-value = 0.048
+			expected / observed: 477 / 434
+
+	Distribution across contigs:
+		[1..2776760] Z-score: 0.90 ± 0.04 with p-value = 0.367
+			expected / observed: 653 / 676
+
+		[2776761..3354560] Z-score: -0.33 ± 0.09 with p-value = 0.740
+			expected / observed: 136 / 132
+
+		[3354561..3639595] Z-score: -3.42 ± 0.12 with p-value = 0.001
+			expected / observed: 67 / 39
+
+		[3639596..3784795] Z-score: 1.52 ± 0.17 with p-value = 0.130
+			expected / observed: 34 / 43
+
+	The hypothesis of biased distribution of modified sites across contigs is confimed with p-value 0.030924239692570923;
+
+Motif	Strand	Location	Site	Match	Description	Score	Coverage	Site location relative to TSC	Annotation
+TCGA	DIR	737..740	737	Yes	modified_base	21	52	163	'SIVHX_0001' [574..2268]; 'CDC6'; 'Cdc6-related protein, AAA superfamily ATPase'
+TCGA	DIR	2860..2863	2860	Yes	modified_base	21	64	n/a	non-coding
+TCGA	DIR	5785..5788	5785	Yes	modified_base	24	71	769	'SIVHX_0004' [5016..6143]; 'NemA'; 'NADH:flavin oxidoreductase, Old Yellow Enzyme family
+TCGA	DIR	13960..13963	13960	Yes	modified_base	21	53	n/a	non-coding
+TCGA	DIR	14911..14914	14911	Yes	modified_base	22	57	n/a	non-coding
+AGCT	REV	22364..22367	22367	Yes	modified_base	31	67	355	'SIVHX_0021' [21586..22722]; 'ThiB'; 'ABC-type thiamine transport system, periplasmic component
+TCGA	DIR	25826..25829	25826	Yes	modified_base	21	74	n/a	non-coding
+AGCT	REV	29415..29418	29418	Yes	modified_base	24	62	n/a	non-coding
+TCGA	DIR	34248..34251	34248	Yes	modified_base	22	54	n/a	non-coding
+TCGA	DIR	37124..37127	37124	Yes	modified_base	22	54	n/a	non-coding
+AGCT	REV	45370..45373	45373	Yes	modified_base	21	55	-46,826	'SIVHX_0043' [44284..45327]; 'ArgC'; 'Acetylglutamate semialdehyde dehydrogenase'|'SIVHX_0044' [45324..46199]; 'LysX'; 'Lysine biosynthesis protein LysX'
+AGCT	REV	45553..45556	45556	Yes	modified_base	29	55	643	'SIVHX_0044' [45324..46199]; 'LysX'; 'Lysine biosynthesis protein LysX'
+TCGA	DIR	48380..48383	48380	Yes	modified_base	21	45	n/a	non-coding
+TCGA	DIR	51431..51434	51431	Yes	modified_base	21	57	n/a	non-coding
+TCGA	DIR	51682..51685	51682	Yes	modified_base	23	51	n/a	non-coding
+TCGA	DIR	52704..52707	52704	Yes	modified_base	30	59	n/a	non-coding
+TCGA	DIR	54439..54442	54439	Yes	modified_base	24	64	n/a	non-coding
+AGCT	REV	58065..58068	58068	Yes	modified_base	22	57	433	'SIVHX_0056' [57422..58501]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+AGCT	REV	77545..77548	77548	Yes	modified_base	22	47	532	'SIVHX_0073' [77337..78080]; 'HemD'; 'Uroporphyrinogen-III synthase'
+AGCT	REV	84378..84381	84381	Yes	modified_base	29	49	651	'SIVHX_0081' [83614..85032]; 'AmtB'; 'Ammonium transporter'
+TCGA	DIR	86142..86145	86142	Yes	modified_base	21	52	n/a	non-coding
+AGCT	REV	86922..86925	86925	Yes	modified_base	23	47	n/a	non-coding
+AGCT	REV	105637..105640	105640	Yes	modified_base	21	58	n/a	non-coding
+AGCT	REV	105754..105757	105757	Yes	modified_base	26	66	n/a	non-coding
+AGCT	REV	106405..106408	106408	Yes	modified_base	24	69	223	'SIVHX_0106' [106329..106631]; 'Uncharacterized protein'
+TCGA	DIR	108322..108325	108322	Yes	modified_base	27	68	214	'SIVHX_0109' [108108..108662]; 'LigT'; '2'-5' RNA ligase'
+TCGA	DIR	109645..109648	109645	Yes	modified_base	21	61	394	'SIVHX_0112' [109251..109916]; 'TIF6'; 'Translation initiation factor 6 (eIF-6)'
+AGCT	REV	126155..126158	126158	Yes	modified_base	22	41	784	'SIVHX_0136' [125956..126942]; 'TyrS'; 'Tyrosyl-tRNA synthetase'
+AGCT	REV	134320..134323	134323	Yes	modified_base	23	45	n/a	non-coding
+TCGA	DIR	138907..138910	138907	Yes	modified_base	23	64	n/a	non-coding
+AGCT	REV	175240..175243	175243	Yes	modified_base	24	68	n/a	non-coding
+TCGA	DIR	178977..178980	178977	Yes	modified_base	21	60	415	'SIVHX_0197' [178562..179254]; 'RpiA'; 'Ribose 5-phosphate isomerase'
+AGCT	REV	180213..180216	180216	Yes	modified_base	25	55	n/a	non-coding
+AGCT	REV	199917..199920	199920	Yes	modified_base	23	48	490	'SIVHX_0219' [199709..200410]; 'EcfA2'; 'Energy-coupling factor transporter ATP-binding protein EcfA2
+TCGA	DIR	203544..203547	203544	Yes	modified_base	26	44	1726	'SIVHX_0222' [201818..203926]; 'Mcm'; 'Replicative DNA helicase Mcm'
+AGCT	REV	206647..206650	206650	Yes	modified_base	23	42	508	'SIVHX_0224' [206418..207158]; 'Chromosome partitioning ATPase, ParA family'
+AGCT	REV	208729..208732	208732	Yes	modified_base	22	54	n/a	non-coding
+AGCT	REV	212148..212151	212151	Yes	modified_base	32	56	n/a	non-coding
+AGCT	REV	212767..212770	212770	Yes	modified_base	22	55	n/a	non-coding
+AGCT	REV	216232..216235	216235	Yes	modified_base	21	64	868	'SIVHX_0235' [215733..217103]; 'GlnA'; 'Glutamine synthetase'
+AGCT	REV	218733..218736	218736	Yes	modified_base	25	54	472	'SIVHX_0238' [218126..219208]; 'AmpS'; 'Leucyl aminopeptidase (aminopeptidase T)'
+AGCT	REV	221771..221774	221774	Yes	modified_base	25	59	n/a	non-coding
+AGCT	REV	222592..222595	222595	Yes	modified_base	22	45	591	'SIVHX_0242' [222215..223186]; 'ArsR'; 'Transcriptional regulator containing HTH domain, ArsR family
+TCGA	DIR	237033..237036	237033	Yes	modified_base	21	65	n/a	non-coding
+AGCT	REV	241719..241722	241722	Yes	modified_base	21	56	n/a	non-coding
+AGCT	REV	243074..243077	243077	Yes	modified_base	21	51	n/a	non-coding
+TCGA	DIR	244477..244480	244477	Yes	modified_base	26	59	n/a	non-coding
+TCGA	DIR	245373..245376	245373	Yes	modified_base	24	49	n/a	non-coding
+TCGA	DIR	246726..246729	246726	Yes	modified_base	24	47	n/a	non-coding
+AGCT	REV	247641..247644	247644	Yes	modified_base	31	57	184	'SIVHX_0265' [247439..247828]; 'Cupin domain containing protein'
+TCGA	DIR	253719..253722	253719	Yes	modified_base	23	57	211	'SIVHX_0274' [253508..253789]; 'Uncharacterized protein'
+TCGA	DIR	255957..255960	255957	Yes	modified_base	22	58	n/a	non-coding
+TCGA	DIR	261263..261266	261263	Yes	modified_base	23	51	1720	'SIVHX_0282' [259543..261432]; 'CheY'; 'Signal transduction histidine kinase, contains REC and PAS domains
+TCGA	DIR	267303..267306	267303	Yes	modified_base	21	43	274	'SIVHX_0288' [267029..268420]; 'Secreted protein, component of type IV pili like system
+AGCT	REV	270796..270799	270799	Yes	modified_base	22	41	n/a	non-coding
+AGCT	REV	277141..277144	277144	Yes	modified_base	23	62	n/a	non-coding
+AGCT	REV	278506..278509	278509	Yes	modified_base	24	60	n/a	non-coding
+TCGA	DIR	279515..279518	279515	Yes	modified_base	23	64	1502	'SIVHX_0299' [278013..279989]; 'AtoS'; 'Signal transduction regulator, contains PAS and HTH domains
+TCGA	DIR	279523..279526	279523	Yes	modified_base	21	61	1510	'SIVHX_0299' [278013..279989]; 'AtoS'; 'Signal transduction regulator, contains PAS and HTH domains
+TCGA	DIR	283165..283168	283165	Yes	modified_base	27	64	382	'SIVHX_0303' [282783..284486]; 'FlhG'; 'FleN family ATPase involved in flagellar biosynthesis
+TCGA	DIR	283771..283774	283771	Yes	modified_base	26	55	988	'SIVHX_0303' [282783..284486]; 'FlhG'; 'FleN family ATPase involved in flagellar biosynthesis
+AGCT	REV	287963..287966	287966	Yes	modified_base	23	56	n/a	non-coding
+AGCT	REV	305824..305827	305827	Yes	modified_base	25	56	n/a	non-coding
+AGCT	REV	310352..310355	310355	Yes	modified_base	33	57	n/a	non-coding
+TCGA	DIR	315557..315560	315557	Yes	modified_base	21	59	745	'SIVHX_0337' [314812..317058]; 'FusA'; 'Translation elongation factor G, EF-G (GTPase)'
+TCGA	DIR	316022..316025	316022	Yes	modified_base	22	60	1210	'SIVHX_0337' [314812..317058]; 'FusA'; 'Translation elongation factor G, EF-G (GTPase)'
+TCGA	DIR	324892..324895	324892	Yes	modified_base	24	54	172	'SIVHX_0347' [324720..325199]; 'Tma20'; 'Predicted RNA-binding protein, contains PUA domain
+TCGA	DIR	325292..325295	325292	Yes	modified_base	22	54	n/a	non-coding
+AGCT	REV	327238..327241	327241	Yes	modified_base	21	60	n/a	non-coding
+TCGA	DIR	327868..327871	327868	Yes	modified_base	23	58	1249	'SIVHX_0350' [326619..329570]; 'UvrA'; 'Excinuclease ABC subunit A, ATPase'
+AGCT	REV	328414..328417	328417	Yes	modified_base	22	55	n/a	non-coding
+TCGA	DIR	328930..328933	328930	Yes	modified_base	21	58	2311	'SIVHX_0350' [326619..329570]; 'UvrA'; 'Excinuclease ABC subunit A, ATPase'
+AGCT	REV	330968..330971	330971	Yes	modified_base	29	59	n/a	non-coding
+TCGA	DIR	331874..331877	331874	Yes	modified_base	22	57	487	'SIVHX_0353' [331387..332469]; 'FixC'; 'Electron-transferring-flavoprotein dehydrogenase/geranylgeranyl reductase
+TCGA	DIR	332799..332802	332799	Yes	modified_base	25	52	n/a	non-coding
+AGCT	REV	342273..342276	342276	Yes	modified_base	24	42	-40,331	'SIVHX_0363' [340830..342236]; 'CafA'; 'Ribonuclease G and E'|'SIVHX_0364' [342233..342607]; 'Uncharacterized protein'
+TCGA	DIR	346729..346732	346729	Yes	modified_base	24	58	n/a	non-coding
+AGCT	REV	348072..348075	348075	Yes	modified_base	25	48	625	'SIVHX_0370' [347540..348700]; 'PepP'; 'Xaa-Pro aminopeptidase'
+TCGA	DIR	348363..348366	348363	Yes	modified_base	21	50	n/a	non-coding
+AGCT	REV	372346..372349	372349	Yes	modified_base	23	52	n/a	non-coding
+TCGA	DIR	379856..379859	379856	Yes	modified_base	22	53	1054	'SIVHX_0407' [378802..381678]; 'LeuS'; 'Leucyl-tRNA synthetase'
+TCGA	DIR	381239..381242	381239	Yes	modified_base	28	55	2437	'SIVHX_0407' [378802..381678]; 'LeuS'; 'Leucyl-tRNA synthetase'
+TCGA	DIR	385505..385508	385505	Yes	modified_base	21	60	n/a	non-coding
+TCGA	DIR	390990..390993	390990	Yes	modified_base	22	63	n/a	non-coding
+AGCT	REV	395630..395633	395633	Yes	modified_base	24	60	n/a	non-coding
+AGCT	REV	398138..398141	398141	Yes	modified_base	27	79	n/a	non-coding
+AGCT	REV	398222..398225	398225	Yes	modified_base	24	79	n/a	non-coding
+TCGA	DIR	398944..398947	398944	Yes	modified_base	25	70	n/a	non-coding
+AGCT	REV	398974..398977	398977	Yes	modified_base	25	71	1213	'SIVHX_0427' [398832..400190]; 'Primase-polymerase (primpol) domain containing protein
+AGCT	REV	403940..403943	403943	Yes	modified_base	22	68	585	'SIVHX_0433' [403569..404528]; 'AmpS'; 'Leucyl aminopeptidase (aminopeptidase T)'
+AGCT	REV	423274..423277	423277	Yes	modified_base	24	76	n/a	non-coding
+AGCT	REV	424549..424552	424552	Yes	modified_base	27	79	n/a	non-coding
+TCGA	DIR	428929..428932	428929	Yes	modified_base	21	73	n/a	non-coding
+TCGA	DIR	429760..429763	429760	Yes	modified_base	21	73	12	'SIVHX_0474' [429748..430431]; 'TesA'; 'Lysophospholipase L1'
+AGCT	REV	430190..430193	430193	Yes	modified_base	21	72	n/a	non-coding
+AGCT	REV	431301..431304	431304	Yes	modified_base	21	76	n/a	non-coding
+TCGA	DIR	431806..431809	431806	Yes	modified_base	23	73	283	'SIVHX_0477' [431523..432995]; 'RPA1'; 'Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit
+AGCT	REV	431806..431809	431809	Yes	modified_base	21	77	n/a	non-coding
+AGCT	REV	432088..432091	432091	Yes	modified_base	30	75	n/a	non-coding
+AGCT	REV	432811..432814	432814	Yes	modified_base	21	72	n/a	non-coding
+TCGA	DIR	435023..435026	435023	Yes	modified_base	23	68	n/a	non-coding
+AGCT	REV	445164..445167	445167	Yes	modified_base	22	61	n/a	non-coding
+AGCT	REV	446126..446129	446129	Yes	modified_base	33	71	2571	'SIVHX_0494' [445884..448700]; 'AcnA'; 'Aconitate hydratase'
+AGCT	REV	446295..446298	446298	Yes	modified_base	22	74	2402	'SIVHX_0494' [445884..448700]; 'AcnA'; 'Aconitate hydratase'
+TCGA	DIR	446725..446728	446725	Yes	modified_base	23	63	n/a	non-coding
+TCGA	DIR	448006..448009	448006	Yes	modified_base	31	65	n/a	non-coding
+AGCT	REV	448144..448147	448147	Yes	modified_base	23	64	553	'SIVHX_0494' [445884..448700]; 'AcnA'; 'Aconitate hydratase'
+AGCT	REV	448468..448471	448471	Yes	modified_base	21	70	229	'SIVHX_0494' [445884..448700]; 'AcnA'; 'Aconitate hydratase'
+AGCT	REV	456495..456498	456498	Yes	modified_base	21	65	2058	'SIVHX_0504' [456310..458556]; 'MutL'; 'DNA mismatch repair enzyme (predicted ATPase)'
+TCGA	DIR	456794..456797	456794	Yes	modified_base	26	62	n/a	non-coding
+AGCT	REV	456918..456921	456921	Yes	modified_base	28	61	1635	'SIVHX_0504' [456310..458556]; 'MutL'; 'DNA mismatch repair enzyme (predicted ATPase)'
+TCGA	DIR	457985..457988	457985	Yes	modified_base	25	62	n/a	non-coding
+AGCT	REV	472568..472571	472571	Yes	modified_base	24	55	969	'SIVHX_0516' [472242..473540]; 'MalE'; 'Maltose-binding periplasmic protein'
+AGCT	REV	477677..477680	477680	Yes	modified_base	23	56	n/a	non-coding
+TCGA	DIR	494870..494873	494870	Yes	modified_base	22	39	261	'SIVHX_0539' [494609..495511]; 'CobD'; 'Cobalamin biosynthesis protein CobD/CbiB'
+AGCT	REV	506037..506040	506040	Yes	modified_base	22	67	n/a	non-coding
+TCGA	DIR	509518..509521	509518	Yes	modified_base	25	80	525	'SIVHX_0556' [508993..509889]; 'NAD+ dependent glucose-6-phosphate dehydrogenase
+AGCT	REV	510887..510890	510890	Yes	modified_base	21	90	n/a	non-coding
+TCGA	DIR	513980..513983	513980	Yes	modified_base	26	73	886	'SIVHX_0560' [513094..514137]; 'Tdh'; 'Threonine dehydrogenase or related Zn-dependent dehydrogenase
+AGCT	REV	513980..513983	513983	Yes	modified_base	21	72	n/a	non-coding
+TCGA	DIR	514715..514718	514715	Yes	modified_base	22	69	n/a	non-coding
+TCGA	DIR	514734..514737	514734	Yes	modified_base	33	69	n/a	non-coding
+AGCT	REV	517103..517106	517106	Yes	modified_base	23	66	n/a	non-coding
+TCGA	DIR	519577..519580	519577	Yes	modified_base	21	75	166	'SIVHX_0566' [519411..520058]; 'GloB'; 'MBL fold metallo-hydrolase'
+TCGA	DIR	519697..519700	519697	Yes	modified_base	24	75	286	'SIVHX_0566' [519411..520058]; 'GloB'; 'MBL fold metallo-hydrolase'
+TCGA	DIR	520065..520068	520065	Yes	modified_base	21	78	n/a	non-coding
+TCGA	DIR	526176..526179	526176	Yes	modified_base	40	84	373	'SIVHX_0573' [525803..526687]; 'Zincin superfamily protease'
+AGCT	REV	528292..528295	528295	Yes	modified_base	22	74	n/a	non-coding
+AGCT	REV	528581..528584	528584	Yes	modified_base	26	76	n/a	non-coding
+TCGA	DIR	532956..532959	532956	Yes	modified_base	25	81	n/a	non-coding
+TCGA	DIR	533317..533320	533317	Yes	modified_base	23	74	n/a	non-coding
+AGCT	REV	546191..546194	546194	Yes	modified_base	26	56	1312	'SIVHX_0591' [544930..547506]; 'AtoS'; 'Signal transduction histidine kinase with PAS and PocR sensory domains
+TCGA	DIR	552876..552879	552876	Yes	modified_base	24	53	172	'SIVHX_0596' [552704..553972]; 'Uncharacterized membrane anchored protein with extracellular vWF domain and Ig-like domain
+TCGA	DIR	553335..553338	553335	Yes	modified_base	23	52	631	'SIVHX_0596' [552704..553972]; 'Uncharacterized membrane anchored protein with extracellular vWF domain and Ig-like domain
+TCGA	DIR	557665..557668	557665	Yes	modified_base	23	41	n/a	non-coding
+TCGA	DIR	561997..562000	561997	Yes	modified_base	34	36	1072	'SIVHX_0607' [560925..562838]; 'Predicted membrane associated lipid hydrolase, neutral ceramidase superfamily
+AGCT	REV	562267..562270	562270	Yes	modified_base	21	39	n/a	non-coding
+TCGA	DIR	571142..571145	571142	Yes	modified_base	26	59	262	'SIVHX_0621' [570880..571779]; 'Predicted transcriptional regulator fused phosphomethylpyrimidine kinase, involved in the thiamin biosynthesis
+TCGA	DIR	572444..572447	572444	Yes	modified_base	23	60	652	'SIVHX_0622' [571792..572523]; 'SAM-dependent methyltransferase'
+AGCT	REV	575466..575469	575469	Yes	modified_base	25	63	n/a	non-coding
+TCGA	DIR	582320..582323	582320	Yes	modified_base	21	53	n/a	non-coding
+AGCT	REV	585946..585949	585949	Yes	modified_base	21	66	n/a	non-coding
+AGCT	REV	592426..592429	592429	Yes	modified_base	21	75	n/a	non-coding
+AGCT	REV	592527..592530	592530	Yes	modified_base	29	69	n/a	non-coding
+AGCT	REV	593072..593075	593075	Yes	modified_base	25	68	1162	'SIVHX_0643' [592747..594237]; 'GatB'; 'Aspartyl-tRNA(Asn)/Glutamyl-tRNA(Gln) amidotransferase subunit
+AGCT	REV	593165..593168	593168	Yes	modified_base	23	69	1069	'SIVHX_0643' [592747..594237]; 'GatB'; 'Aspartyl-tRNA(Asn)/Glutamyl-tRNA(Gln) amidotransferase subunit
+AGCT	REV	599962..599965	599965	Yes	modified_base	22	64	n/a	non-coding
+TCGA	DIR	600835..600838	600835	Yes	modified_base	21	68	3160	'SIVHX_0648' [597675..601397]; 'Smc'; 'Chromosome segregation protein SMC'
+TCGA	DIR	606900..606903	606900	Yes	modified_base	26	82	598	'SIVHX_0655' [606302..607201]; 'Predicted epimerase, PhzC/PhzF'
+AGCT	REV	607056..607059	607059	Yes	modified_base	24	74	n/a	non-coding
+TCGA	DIR	616315..616318	616315	Yes	modified_base	25	66	n/a	non-coding
+AGCT	REV	616315..616318	616318	Yes	modified_base	21	63	448	'SIVHX_0669' [616047..616766]; 'TrpG'; 'Anthranilate/para-aminobenzoate synthase component II
+TCGA	DIR	618012..618015	618012	Yes	modified_base	21	54	n/a	non-coding
+TCGA	DIR	622050..622053	622050	Yes	modified_base	27	56	712	'SIVHX_0674' [621338..622657]; 'DtdA'; 'D-aminoacyl-tRNA deacylase'
+AGCT	REV	623781..623784	623784	Yes	modified_base	23	52	n/a	non-coding
+TCGA	DIR	625221..625224	625221	Yes	modified_base	22	58	n/a	non-coding
+AGCT	REV	627140..627143	627143	Yes	modified_base	24	46	148	'SIVHX_0681' [626761..627291]; 'CinA'; 'Nicotinamide-nucleotide amidase'
+AGCT	REV	627521..627524	627524	Yes	modified_base	24	52	n/a	non-coding
+AGCT	REV	629903..629906	629906	Yes	modified_base	26	57	598	'SIVHX_0684' [629668..630504]; 'Nfi'; 'Endonuclease V'
+AGCT	REV	630176..630179	630179	Yes	modified_base	21	62	325	'SIVHX_0684' [629668..630504]; 'Nfi'; 'Endonuclease V'
+AGCT	REV	630203..630206	630206	Yes	modified_base	22	64	298	'SIVHX_0684' [629668..630504]; 'Nfi'; 'Endonuclease V'
+AGCT	REV	635688..635691	635691	Yes	modified_base	21	64	n/a	non-coding
+AGCT	REV	636668..636671	636671	Yes	modified_base	21	58	n/a	non-coding
+TCGA	DIR	641433..641436	641433	Yes	modified_base	23	44	n/a	non-coding
+TCGA	DIR	641586..641589	641586	Yes	modified_base	21	43	n/a	non-coding
+TCGA	DIR	648420..648423	648420	Yes	modified_base	23	63	696	'SIVHX_0706' [647724..649706]; 'VirB11'; 'ATPase involved in archaellum/pili biosynthesis'
+TCGA	DIR	648451..648454	648451	Yes	modified_base	24	61	727	'SIVHX_0706' [647724..649706]; 'VirB11'; 'ATPase involved in archaellum/pili biosynthesis'
+TCGA	DIR	653012..653015	653012	Yes	modified_base	34	56	657	'SIVHX_0710' [652355..653239]; 'Predicted pilin/flagellin'
+TCGA	DIR	662785..662788	662785	Yes	modified_base	23	63	987	'SIVHX_0718' [661798..662904]; 'GpgS'; 'Glycosyl transferase family 2'
+AGCT	REV	665466..665469	665469	Yes	modified_base	25	44	n/a	non-coding
+TCGA	DIR	666204..666207	666204	Yes	modified_base	24	47	61	'SIVHX_0723' [666143..667309]; 'SoxB'; 'Sarcosine oxidase beta subunit'
+TCGA	DIR	671699..671702	671699	Yes	modified_base	23	50	n/a	non-coding
+TCGA	DIR	673154..673157	673154	Yes	modified_base	21	57	343	'SIVHX_0732' [672811..673575]; 'SAM-dependent methyltransferase'
+AGCT	REV	680953..680956	680956	Yes	modified_base	22	51	322	'SIVHX_0740' [680490..681278]; 'S-adenosyl-l-methionine hydroxide adenosyltransferase
+AGCT	REV	689601..689604	689604	Yes	modified_base	23	59	n/a	non-coding
+TCGA	DIR	695700..695703	695700	Yes	modified_base	24	60	163	'SIVHX_0755' [695537..696343]; 'FepB'; 'ABC-type Fe3+-hydroxamate transport system, periplasmic component
+TCGA	DIR	695814..695817	695814	Yes	modified_base	21	60	277	'SIVHX_0755' [695537..696343]; 'FepB'; 'ABC-type Fe3+-hydroxamate transport system, periplasmic component
+TCGA	DIR	696915..696918	696915	Yes	modified_base	24	59	n/a	non-coding
+TCGA	DIR	696962..696965	696962	Yes	modified_base	22	59	n/a	non-coding
+AGCT	REV	697580..697583	697583	Yes	modified_base	27	52	1201	'SIVHX_0757' [696910..698784]; 'AglD'; 'Glycosyl transferase family 2'
+TCGA	DIR	711349..711352	711349	Yes	modified_base	29	49	n/a	non-coding
+AGCT	REV	711555..711558	711558	Yes	modified_base	22	45	1945	'SIVHX_0770' [711218..713503]; 'PpsA'; 'Phosphoenolpyruvate synthase/pyruvate phosphate dikinase
+TCGA	DIR	716044..716047	716044	Yes	modified_base	25	53	550	'SIVHX_0774' [715494..716186]; 'Predicted phosphohydrolase, MPP superfamily'
+AGCT	REV	730674..730677	730677	Yes	modified_base	21	46	n/a	non-coding
+TCGA	DIR	741967..741970	741967	Yes	modified_base	22	59	n/a	non-coding
+AGCT	REV	743957..743960	743960	Yes	modified_base	24	52	847	'SIVHX_0808' [743590..744807]; 'RPT1'; 'ATP-dependent 26S proteasome regulatory subunit'
+AGCT	REV	747878..747881	747881	Yes	modified_base	27	51	n/a	non-coding
+TCGA	DIR	748184..748187	748184	Yes	modified_base	28	57	1177	'SIVHX_0812' [747007..749688]; 'SbcC'; 'ATPase involved in DNA repair, SbcC'
+TCGA	DIR	748820..748823	748820	Yes	modified_base	22	52	1813	'SIVHX_0812' [747007..749688]; 'SbcC'; 'ATPase involved in DNA repair, SbcC'
+TCGA	DIR	749663..749666	749663	Yes	modified_base	26	40	2656	'SIVHX_0812' [747007..749688]; 'SbcC'; 'ATPase involved in DNA repair, SbcC'
+TCGA	DIR	755551..755554	755551	Yes	modified_base	22	61	229	'SIVHX_0817' [755322..756230]; 'SufC'; 'Cysteine desulfurase activator ATPase'
+TCGA	DIR	757861..757864	757861	Yes	modified_base	27	60	184	'SIVHX_0819' [757677..758885]; 'SufB'; 'Cysteine desulfurase activator SufB'
+TCGA	DIR	764069..764072	764069	Yes	modified_base	21	70	n/a	non-coding
+AGCT	REV	764081..764084	764084	Yes	modified_base	23	68	4264	'SIVHX_0827' [763813..768348]; 'GltS'; 'Glutamate synthase (ferredoxin)'
+AGCT	REV	764565..764568	764568	Yes	modified_base	22	70	3780	'SIVHX_0827' [763813..768348]; 'GltS'; 'Glutamate synthase (ferredoxin)'
+AGCT	REV	764811..764814	764814	Yes	modified_base	22	73	3534	'SIVHX_0827' [763813..768348]; 'GltS'; 'Glutamate synthase (ferredoxin)'
+TCGA	DIR	766040..766043	766040	Yes	modified_base	21	62	n/a	non-coding
+AGCT	REV	773891..773894	773894	Yes	modified_base	22	68	n/a	non-coding
+AGCT	REV	774144..774147	774147	Yes	modified_base	22	66	n/a	non-coding
+AGCT	REV	774895..774898	774898	Yes	modified_base	25	60	299	'SIVHX_0834' [774391..775197]; 'Nth'; 'Endonuclease III'
+AGCT	REV	775271..775274	775274	Yes	modified_base	25	61	418	'SIVHX_0835' [775267..775692]; 'Uncharacterized protein'
+AGCT	REV	775277..775280	775280	Yes	modified_base	26	64	412	'SIVHX_0835' [775267..775692]; 'Uncharacterized protein'
+AGCT	REV	786597..786600	786600	Yes	modified_base	22	55	1545	'SIVHX_0847' [786220..788145]; 'NosD'; 'Copper ABC transporter substrate-binding protein
+AGCT	REV	787103..787106	787106	Yes	modified_base	42	57	1039	'SIVHX_0847' [786220..788145]; 'NosD'; 'Copper ABC transporter substrate-binding protein
+TCGA	DIR	787448..787451	787448	Yes	modified_base	23	57	n/a	non-coding
+AGCT	REV	787533..787536	787536	Yes	modified_base	28	54	609	'SIVHX_0847' [786220..788145]; 'NosD'; 'Copper ABC transporter substrate-binding protein
+AGCT	REV	788024..788027	788027	Yes	modified_base	23	60	118	'SIVHX_0847' [786220..788145]; 'NosD'; 'Copper ABC transporter substrate-binding protein
+AGCT	REV	792230..792233	792233	Yes	modified_base	21	48	n/a	non-coding
+TCGA	DIR	800932..800935	800932	Yes	modified_base	22	47	283	'SIVHX_0858' [800649..801329]; 'TrxA'; 'Thiol-disulfide isomerase or thioredoxin'
+TCGA	DIR	807526..807529	807526	Yes	modified_base	24	67	n/a	non-coding
+TCGA	DIR	807674..807677	807674	Yes	modified_base	25	72	n/a	non-coding
+TCGA	DIR	809020..809023	809020	Yes	modified_base	21	76	253	'SIVHX_0868' [808767..809546]; 'GloA'; 'Lactoylglutathione lyase'
+AGCT	REV	809188..809191	809191	Yes	modified_base	23	76	n/a	non-coding
+AGCT	REV	859960..859963	859963	Yes	modified_base	26	67	690	'SIVHX_0924' [858734..860653]; 'HelS'; 'Replicative superfamily II helicase'
+AGCT	REV	860282..860285	860285	Yes	modified_base	29	64	368	'SIVHX_0924' [858734..860653]; 'HelS'; 'Replicative superfamily II helicase'
+TCGA	DIR	864508..864511	864508	Yes	modified_base	23	45	1276	'SIVHX_0928' [863232..864980]; 'Predicted membrane-bound mannosyltransferase'
+AGCT	REV	865903..865906	865906	Yes	modified_base	22	43	n/a	non-coding
+AGCT	REV	866098..866101	866101	Yes	modified_base	22	47	n/a	non-coding
+AGCT	REV	893091..893094	893094	Yes	modified_base	22	50	817	'SIVHX_0959' [892958..893911]; 'ABC-type multidrug transport system, ATPase component
+AGCT	REV	906177..906180	906180	Yes	modified_base	25	46	1162	'SIVHX_0973' [905681..907342]; 'Cls'; 'Phosphatidylserine/phosphatidylglycerophosphate/c ardiolipin synthase
+AGCT	REV	918057..918060	918060	Yes	modified_base	23	55	220	'SIVHX_0985' [917252..918280]; 'TrxB'; 'Thioredoxin reductase (NADPH)'
+AGCT	REV	918956..918959	918959	Yes	modified_base	28	52	94	'SIVHX_0986' [918400..919053]; 'TRM9'; 'tRNA (uracil-5-)-methyltransferase TRM9'
+AGCT	REV	919775..919778	919778	Yes	modified_base	21	51	1483	'SIVHX_0987' [919138..921261]; 'TadC'; 'Pilus assembly protein TadC'
+AGCT	REV	921543..921546	921546	Yes	modified_base	25	56	1411	'SIVHX_0988' [921263..922957]; 'VirB11'; 'ATPase involved in archaellum/pili biosynthesis'
+AGCT	REV	922605..922608	922608	Yes	modified_base	24	54	349	'SIVHX_0988' [921263..922957]; 'VirB11'; 'ATPase involved in archaellum/pili biosynthesis'
+AGCT	REV	924648..924651	924651	Yes	modified_base	25	59	n/a	non-coding
+AGCT	REV	937942..937945	937945	Yes	modified_base	21	45	967	'SIVHX_1007' [937914..938912]; 'SUA7'; 'Transcription initiation factor TFIIB'
+AGCT	REV	950333..950336	950336	Yes	modified_base	25	54	156	'SIVHX_1018' [950073..950492]; 'MnhG'; 'Multisubunit Na+/H+ antiporter, MnhG subunit'
+TCGA	DIR	968925..968928	968925	Yes	modified_base	26	44	n/a	non-coding
+TCGA	DIR	973506..973509	973506	Yes	modified_base	22	39	1873	'SIVHX_1042' [971633..974149]; 'FolCP'; 'Dihydrofolate synthase/dihydropteroate synthase'
+TCGA	DIR	983210..983213	983210	Yes	modified_base	21	39	n/a	non-coding
+AGCT	REV	1003866..1003869	1003869	Yes	modified_base	21	46	917	'SIVHX_1080' [1003008..1004786]; 'Tar'; 'Methyl-accepting chemotaxis protein'
+AGCT	REV	1008890..1008893	1008893	Yes	modified_base	22	51	1042	'SIVHX_1086' [1008604..1009935]; 'PurA'; 'Adenylosuccinate synthase'
+AGCT	REV	1008908..1008911	1008911	Yes	modified_base	28	51	1024	'SIVHX_1086' [1008604..1009935]; 'PurA'; 'Adenylosuccinate synthase'
+TCGA	DIR	1014863..1014866	1014863	Yes	modified_base	28	47	n/a	non-coding
+AGCT	REV	1021631..1021634	1021634	Yes	modified_base	24	44	280	'SIVHX_1097' [1021243..1021914]; 'PssA'; 'Phosphatidylserine synthase'
+AGCT	REV	1029352..1029355	1029355	Yes	modified_base	24	40	324	'SIVHX_1108' [1029227..1029679]; 'Pilin/Flagellin, FlaG/FlaF family'
+TCGA	DIR	1040975..1040978	1040975	Yes	modified_base	22	56	n/a	non-coding
+TCGA	DIR	1042689..1042692	1042689	Yes	modified_base	22	52	1051	'SIVHX_1121' [1041638..1042699]; 'BgsA'; 'Glycosyltransferase'
+AGCT	REV	1044693..1044696	1044696	Yes	modified_base	29	52	484	'SIVHX_1124' [1044434..1045180]; 'DUF2797 domain-containing protein'
+TCGA	DIR	1047991..1047994	1047991	Yes	modified_base	28	58	439	'SIVHX_1128' [1047552..1048229]; 'Uncharacterized protein, DUF2100 family'
+TCGA	DIR	1048442..1048445	1048442	Yes	modified_base	23	61	208	'SIVHX_1129' [1048234..1048989]; 'Uncharacterized membrane protein'
+AGCT	REV	1054329..1054332	1054332	Yes	modified_base	31	66	442	'SIVHX_1135' [1053635..1054774]; 'LEA14-like dessication related protein'
+AGCT	REV	1058616..1058619	1058619	Yes	modified_base	22	54	n/a	non-coding
+AGCT	REV	1065635..1065638	1065638	Yes	modified_base	21	58	298	'SIVHX_1148' [1065139..1065936]; 'RIO1'; 'Serine/threonine protein kinase'
+TCGA	DIR	1071534..1071537	1071534	Yes	modified_base	26	36	n/a	non-coding
+AGCT	REV	1073446..1073449	1073449	Yes	modified_base	23	51	1027	'SIVHX_1156' [1073289..1074476]; 'CheC'; 'Chemotaxis protein CheC, inhibitor of MCP methylation
+AGCT	REV	1073737..1073740	1073740	Yes	modified_base	23	57	736	'SIVHX_1156' [1073289..1074476]; 'CheC'; 'Chemotaxis protein CheC, inhibitor of MCP methylation
+TCGA	DIR	1075267..1075270	1075267	Yes	modified_base	37	58	n/a	non-coding
+TCGA	DIR	1077681..1077684	1077681	Yes	modified_base	22	58	n/a	non-coding
+TCGA	DIR	1088161..1088164	1088161	Yes	modified_base	23	68	n/a	non-coding
+TCGA	DIR	1088203..1088206	1088203	Yes	modified_base	21	66	n/a	non-coding
+AGCT	REV	1089645..1089648	1089648	Yes	modified_base	35	65	1363	'SIVHX_1173' [1088795..1091011]; 'CheA'; 'Chemotaxis protein sensor kinase CheA'
+AGCT	REV	1090615..1090618	1090618	Yes	modified_base	24	63	393	'SIVHX_1173' [1088795..1091011]; 'CheA'; 'Chemotaxis protein sensor kinase CheA'
+AGCT	REV	1090641..1090644	1090644	Yes	modified_base	22	65	367	'SIVHX_1173' [1088795..1091011]; 'CheA'; 'Chemotaxis protein sensor kinase CheA'
+AGCT	REV	1092724..1092727	1092727	Yes	modified_base	24	61	n/a	non-coding
+TCGA	DIR	1097940..1097943	1097940	Yes	modified_base	22	68	1921	'SIVHX_1178' [1096019..1098484]; 'PetE'; 'Halocyanin'
+AGCT	REV	1103044..1103047	1103047	Yes	modified_base	27	61	28	'SIVHX_1184' [1101579..1103075]; 'Deoxyribodipyrimidine photolyase related protein
+AGCT	REV	1112575..1112578	1112578	Yes	modified_base	24	42	n/a	non-coding
+TCGA	DIR	1126273..1126276	1126273	Yes	modified_base	22	55	n/a	non-coding
+AGCT	REV	1132025..1132028	1132028	Yes	modified_base	21	53	n/a	non-coding
+TCGA	DIR	1132537..1132540	1132537	Yes	modified_base	27	63	466	'SIVHX_1217' [1132071..1133222]; 'Aspartate/tyrosine/aromatic aminotransferase'
+TCGA	DIR	1135592..1135595	1135592	Yes	modified_base	27	72	916	'SIVHX_1221' [1134676..1136805]; 'Uncharacterized protein'
+TCGA	DIR	1141585..1141588	1141585	Yes	modified_base	26	78	346	'SIVHX_1227' [1141239..1142198]; 'Uncharacterized membrane protein'
+AGCT	REV	1142011..1142014	1142014	Yes	modified_base	27	73	n/a	non-coding
+TCGA	DIR	1151066..1151069	1151066	Yes	modified_base	24	60	n/a	non-coding
+TCGA	DIR	1162747..1162750	1162747	Yes	modified_base	26	59	70	'SIVHX_1256' [1162677..1163186]; 'Fap7'; 'Adenylate kinase'
+TCGA	DIR	1183223..1183226	1183223	Yes	modified_base	23	39	844	'SIVHX_1276' [1182379..1183866]; 'Rsm22'; 'Ribosomal protein RSM22 (predicted mitochondrial rRNA methylase)
+AGCT	REV	1194061..1194064	1194064	Yes	modified_base	21	67	n/a	non-coding
+TCGA	DIR	1194151..1194154	1194151	Yes	modified_base	21	66	1462	'SIVHX_1293' [1192689..1194917]; 'Cdc48'; 'ATPase of the AAA+ class, CDC48 family'
+AGCT	REV	1194172..1194175	1194175	Yes	modified_base	23	65	n/a	non-coding
+TCGA	DIR	1194877..1194880	1194877	Yes	modified_base	42	59	2188	'SIVHX_1293' [1192689..1194917]; 'Cdc48'; 'ATPase of the AAA+ class, CDC48 family'
+TCGA	DIR	1202526..1202529	1202526	Yes	modified_base	22	48	n/a	non-coding
+TCGA	DIR	1218567..1218570	1218567	Yes	modified_base	23	47	n/a	non-coding
+TCGA	DIR	1228844..1228847	1228844	Yes	modified_base	21	66	n/a	non-coding
+TCGA	DIR	1235222..1235225	1235222	Yes	modified_base	21	57	n/a	non-coding
+TCGA	DIR	1238188..1238191	1238188	Yes	modified_base	23	77	n/a	non-coding
+AGCT	REV	1246343..1246346	1246346	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	1262755..1262758	1262755	Yes	modified_base	25	45	n/a	non-coding
+TCGA	DIR	1270936..1270939	1270936	Yes	modified_base	21	65	n/a	non-coding
+TCGA	DIR	1273626..1273629	1273626	Yes	modified_base	26	60	901	'SIVHX_1379' [1272725..1273858]; 'Ndh'; 'NADH dehydrogenase, FAD-containing subunit'
+TCGA	DIR	1276311..1276314	1276311	Yes	modified_base	25	72	490	'SIVHX_1381' [1275821..1276513]; 'HAD superfamily hydrolase'
+TCGA	DIR	1276389..1276392	1276389	Yes	modified_base	22	74	568	'SIVHX_1381' [1275821..1276513]; 'HAD superfamily hydrolase'
+AGCT	REV	1276389..1276392	1276392	Yes	modified_base	22	70	n/a	non-coding
+AGCT	REV	1285258..1285261	1285261	Yes	modified_base	25	45	1179	'SIVHX_1392' [1284569..1286440]; 'NatB'; 'ABC-type Na+ efflux pump, permease component'
+AGCT	REV	1286262..1286265	1286265	Yes	modified_base	21	45	175	'SIVHX_1392' [1284569..1286440]; 'NatB'; 'ABC-type Na+ efflux pump, permease component'
+AGCT	REV	1303088..1303091	1303091	Yes	modified_base	28	60	388	'SIVHX_1409' [1302763..1303479]; 'ThuA'; 'Trehalose utilization protein'
+AGCT	REV	1331147..1331150	1331150	Yes	modified_base	24	48	556	'SIVHX_1438' [1330468..1331706]; 'GnaD'; 'Gluconate/galactonate dehydratase'
+TCGA	DIR	1333528..1333531	1333528	Yes	modified_base	35	62	n/a	non-coding
+TCGA	DIR	1336103..1336106	1336103	Yes	modified_base	22	67	n/a	non-coding
+TCGA	DIR	1343745..1343748	1343745	Yes	modified_base	30	66	n/a	non-coding
+TCGA	DIR	1344370..1344373	1344370	Yes	modified_base	26	60	n/a	non-coding
+AGCT	REV	1350021..1350024	1350024	Yes	modified_base	25	75	972	'SIVHX_1459' [1349950..1350996]; 'LeuA'; '2-isopropylmalate synthase'
+TCGA	DIR	1350029..1350032	1350029	Yes	modified_base	24	76	n/a	non-coding
+TCGA	DIR	1350227..1350230	1350227	Yes	modified_base	21	74	n/a	non-coding
+AGCT	REV	1350665..1350668	1350668	Yes	modified_base	27	80	328	'SIVHX_1459' [1349950..1350996]; 'LeuA'; '2-isopropylmalate synthase'
+AGCT	REV	1351815..1351818	1351818	Yes	modified_base	26	79	n/a	non-coding
+TCGA	DIR	1352042..1352045	1352042	Yes	modified_base	23	84	40	'SIVHX_1461' [1352002..1352688]; 'Metallo-beta-lactamase superfamily enzyme'
+AGCT	REV	1352042..1352045	1352045	Yes	modified_base	21	83	n/a	non-coding
+TCGA	DIR	1353190..1353193	1353190	Yes	modified_base	22	84	502	'SIVHX_1462' [1352688..1353224]; 'hypothetical protein'
+TCGA	DIR	1353448..1353451	1353448	Yes	modified_base	23	84	n/a	non-coding
+AGCT	REV	1364521..1364524	1364524	Yes	modified_base	23	57	n/a	non-coding
+TCGA	DIR	1366733..1366736	1366733	Yes	modified_base	23	70	628	'SIVHX_1476' [1366105..1369269]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+AGCT	REV	1367477..1367480	1367480	Yes	modified_base	24	57	n/a	non-coding
+TCGA	DIR	1368752..1368755	1368752	Yes	modified_base	22	57	2647	'SIVHX_1476' [1366105..1369269]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+TCGA	DIR	1369605..1369608	1369605	Yes	modified_base	24	60	n/a	non-coding
+AGCT	REV	1370442..1370445	1370445	Yes	modified_base	23	55	274	'SIVHX_1477' [1369427..1370719]; 'AglM'; 'UDP-glucose 6-dehydrogenase'
+TCGA	DIR	1373955..1373958	1373955	Yes	modified_base	22	58	n/a	non-coding
+AGCT	REV	1376078..1376081	1376081	Yes	modified_base	22	62	n/a	non-coding
+TCGA	DIR	1392220..1392223	1392220	Yes	modified_base	21	56	n/a	non-coding
+AGCT	REV	1392220..1392223	1392223	Yes	modified_base	21	51	118	'SIVHX_1497' [1391886..1392341]; 'Uncharacterized protein'
+AGCT	REV	1396593..1396596	1396596	Yes	modified_base	30	51	n/a	non-coding
+AGCT	REV	1399739..1399742	1399742	Yes	modified_base	22	54	n/a	non-coding
+TCGA	DIR	1401797..1401800	1401797	Yes	modified_base	21	52	n/a	non-coding
+AGCT	REV	1412168..1412171	1412171	Yes	modified_base	21	55	1573	'SIVHX_1519' [1411348..1413744]; 'Top6B'; 'DNA topoisomerase VI subunit B'
+AGCT	REV	1414383..1414386	1414386	Yes	modified_base	26	58	n/a	non-coding
+TCGA	DIR	1414393..1414396	1414393	Yes	modified_base	27	59	391	'SIVHX_1520' [1414002..1415921]; 'GyrB'; 'DNA gyrase subunit B'
+TCGA	DIR	1418725..1418728	1418725	Yes	modified_base	21	56	127	'SIVHX_1522' [1418598..1419014]; 'hypothetical protein'
+TCGA	DIR	1437536..1437539	1437536	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	1438010..1438013	1438010	Yes	modified_base	25	51	n/a	non-coding
+AGCT	REV	1438301..1438304	1438304	Yes	modified_base	28	52	n/a	non-coding
+TCGA	DIR	1438793..1438796	1438793	Yes	modified_base	26	56	564	'SIVHX_1543' [1438229..1439251]; 'RsmB'; 'RsmB/NOP family class I SAM-dependent RNA methyltransferase
+AGCT	REV	1452368..1452371	1452371	Yes	modified_base	27	55	595	'SIVHX_1558' [1452094..1452966]; 'Uncharacterized protein, DUF4349 family'
+TCGA	DIR	1460506..1460509	1460506	Yes	modified_base	24	50	218	'SIVHX_1567' [1460288..1461337]; 'XerC'; 'XerD/XerC family integrase'
+TCGA	DIR	1462755..1462758	1462755	Yes	modified_base	23	51	111	'SIVHX_1570' [1462644..1463627]; 'Uncharacterized protein'
+AGCT	REV	1463287..1463290	1463290	Yes	modified_base	22	51	n/a	non-coding
+AGCT	REV	1465039..1465042	1465042	Yes	modified_base	23	55	1528	'SIVHX_1572' [1464576..1466570]; 'Uncharacterized protein'
+AGCT	REV	1465186..1465189	1465189	Yes	modified_base	21	51	1381	'SIVHX_1572' [1464576..1466570]; 'Uncharacterized protein'
+AGCT	REV	1465345..1465348	1465348	Yes	modified_base	22	50	1222	'SIVHX_1572' [1464576..1466570]; 'Uncharacterized protein'
+AGCT	REV	1466860..1466863	1466863	Yes	modified_base	25	55	694	'SIVHX_1573' [1466724..1467557]; 'Zn-dependent hydrolase of the beta-lactamase fold
+AGCT	REV	1475052..1475055	1475055	Yes	modified_base	21	60	910	'SIVHX_1584' [1475036..1475965]; 'SlpA'; 'FKBP-type peptidyl-prolyl cis-trans isomerase 2'
+AGCT	REV	1494591..1494594	1494594	Yes	modified_base	29	45	1690	'SIVHX_1605' [1494173..1496284]; 'Prenyltransferase family protein containing thioredoxin domain
+TCGA	DIR	1496850..1496853	1496850	Yes	modified_base	22	55	376	'SIVHX_1606' [1496474..1497760]; 'PurD'; 'Phosphoribosylamine--glycine ligase'
+TCGA	DIR	1498415..1498418	1498415	Yes	modified_base	21	54	n/a	non-coding
+AGCT	REV	1514768..1514771	1514771	Yes	modified_base	29	73	138	'SIVHX_1625' [1514265..1514909]; 'Fibrillarin-like rRNA methylase'
+AGCT	REV	1514806..1514809	1514809	Yes	modified_base	33	71	100	'SIVHX_1625' [1514265..1514909]; 'Fibrillarin-like rRNA methylase'
+AGCT	REV	1514840..1514843	1514843	Yes	modified_base	30	73	66	'SIVHX_1625' [1514265..1514909]; 'Fibrillarin-like rRNA methylase'
+AGCT	REV	1515923..1515926	1515926	Yes	modified_base	21	76	n/a	non-coding
+TCGA	DIR	1522350..1522353	1522350	Yes	modified_base	23	67	n/a	non-coding
+AGCT	REV	1522662..1522665	1522665	Yes	modified_base	22	64	166	'SIVHX_1637' [1521917..1522831]; 'AlkA'; '8-oxoguanine DNA glycosylase'
+TCGA	DIR	1522774..1522777	1522774	Yes	modified_base	24	63	n/a	non-coding
+AGCT	REV	1534325..1534328	1534328	Yes	modified_base	22	41	1222	'SIVHX_1648' [1533349..1535550]; 'LutB'; 'L-lactate utilization protein LutB, contains ferredoxin domain
+TCGA	DIR	1534814..1534817	1534814	Yes	modified_base	27	43	n/a	non-coding
+AGCT	REV	1535042..1535045	1535045	Yes	modified_base	21	36	505	'SIVHX_1648' [1533349..1535550]; 'LutB'; 'L-lactate utilization protein LutB, contains ferredoxin domain
+TCGA	DIR	1546340..1546343	1546340	Yes	modified_base	21	45	n/a	non-coding
+AGCT	REV	1548654..1548657	1548657	Yes	modified_base	21	45	n/a	non-coding
+AGCT	REV	1559120..1559123	1559123	Yes	modified_base	21	57	711	'SIVHX_1665' [1558521..1559834]; 'NarK'; 'Nitrate/nitrite transporter'
+AGCT	REV	1561492..1561495	1561495	Yes	modified_base	26	65	664	'SIVHX_1666' [1560126..1562159]; 'AmyA'; 'Cyclomaltodextrinase, glycosyl hydrolase family 13
+AGCT	REV	1561963..1561966	1561966	Yes	modified_base	26	65	193	'SIVHX_1666' [1560126..1562159]; 'AmyA'; 'Cyclomaltodextrinase, glycosyl hydrolase family 13
+TCGA	DIR	1563832..1563835	1563832	Yes	modified_base	27	64	1498	'SIVHX_1667' [1562334..1566869]; 'SGA1'; 'Glucan 1,4-alpha-glucosidase, glycosyl hydrolase family 15
+TCGA	DIR	1564369..1564372	1564369	Yes	modified_base	21	67	2035	'SIVHX_1667' [1562334..1566869]; 'SGA1'; 'Glucan 1,4-alpha-glucosidase, glycosyl hydrolase family 15
+AGCT	REV	1568027..1568030	1568030	Yes	modified_base	27	78	1579	'SIVHX_1669' [1567531..1569609]; 'CheY'; 'Signal transduction histidine kinase'
+AGCT	REV	1568165..1568168	1568168	Yes	modified_base	22	77	1441	'SIVHX_1669' [1567531..1569609]; 'CheY'; 'Signal transduction histidine kinase'
+AGCT	REV	1568430..1568433	1568433	Yes	modified_base	24	77	1176	'SIVHX_1669' [1567531..1569609]; 'CheY'; 'Signal transduction histidine kinase'
+TCGA	DIR	1570686..1570689	1570686	Yes	modified_base	26	60	n/a	non-coding
+AGCT	REV	1570913..1570916	1570916	Yes	modified_base	23	58	79	'SIVHX_1671' [1570708..1570995]; 'SAM-dependent methyltransferase'
+AGCT	REV	1571365..1571368	1571368	Yes	modified_base	25	61	522	'SIVHX_1672' [1571156..1571890]; 'QueC'; '7-cyano-7-deazaguanine synthase'
+AGCT	REV	1575382..1575385	1575385	Yes	modified_base	28	72	1711	'SIVHX_1679' [1575009..1577096]; 'xpb'; 'DNA excision repair protein ERCC-3'
+AGCT	REV	1575691..1575694	1575694	Yes	modified_base	24	70	1402	'SIVHX_1679' [1575009..1577096]; 'xpb'; 'DNA excision repair protein ERCC-3'
+AGCT	REV	1577014..1577017	1577017	Yes	modified_base	22	68	79	'SIVHX_1679' [1575009..1577096]; 'xpb'; 'DNA excision repair protein ERCC-3'
+AGCT	REV	1577279..1577282	1577282	Yes	modified_base	25	62	n/a	non-coding
+AGCT	REV	1578921..1578924	1578924	Yes	modified_base	31	86	n/a	non-coding
+AGCT	REV	1581797..1581800	1581800	Yes	modified_base	22	87	214	'SIVHX_1683' [1581454..1582014]; 'SPT15'; 'TATA-box binding protein (TBP), component of TFIID and TFIIIB
+TCGA	DIR	1586834..1586837	1586834	Yes	modified_base	22	66	n/a	non-coding
+TCGA	DIR	1589769..1589772	1589769	Yes	modified_base	24	76	n/a	non-coding
+TCGA	DIR	1589913..1589916	1589913	Yes	modified_base	24	75	n/a	non-coding
+TCGA	DIR	1590105..1590108	1590105	Yes	modified_base	28	75	n/a	non-coding
+AGCT	REV	1591972..1591975	1591975	Yes	modified_base	21	66	n/a	non-coding
+AGCT	REV	1592246..1592249	1592249	Yes	modified_base	22	72	583	'SIVHX_1693' [1592233..1592832]; 'Sortase or related acyltransferase'
+TCGA	DIR	1596075..1596078	1596075	Yes	modified_base	22	46	n/a	non-coding
+TCGA	DIR	1599023..1599026	1599023	Yes	modified_base	21	57	n/a	non-coding
+AGCT	REV	1601336..1601339	1601339	Yes	modified_base	23	53	480	'SIVHX_1704' [1600821..1601819]; 'ThyA'; 'Thymidylate synthase'
+TCGA	DIR	1602234..1602237	1602234	Yes	modified_base	21	52	298	'SIVHX_1705' [1601936..1602514]; 'GloB'; 'Hydroxyacylglutathione hydrolase'
+TCGA	DIR	1603047..1603050	1603047	Yes	modified_base	23	56	n/a	non-coding
+TCGA	DIR	1608545..1608548	1608545	Yes	modified_base	22	78	n/a	non-coding
+TCGA	DIR	1614568..1614571	1614568	Yes	modified_base	27	68	n/a	non-coding
+TCGA	DIR	1625942..1625945	1625942	Yes	modified_base	23	63	763	'SIVHX_1731' [1625179..1626837]; 'ELP3'; 'Histone acetyltransferase, ELP3 family'
+AGCT	REV	1661747..1661750	1661750	Yes	modified_base	22	56	235	'SIVHX_1769' [1661605..1661985]; 'Uncharacterized protein'
+AGCT	REV	1670549..1670552	1670552	Yes	modified_base	22	52	n/a	non-coding
+AGCT	REV	1671268..1671271	1671271	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	1671705..1671708	1671705	Yes	modified_base	24	55	834	'SIVHX_1775' [1670871..1672382]; 'PhrB'; 'Deoxyribodipyrimidine photolyase'
+TCGA	DIR	1674079..1674082	1674079	Yes	modified_base	23	55	n/a	non-coding
+AGCT	REV	1683911..1683914	1683914	Yes	modified_base	24	92	985	'SIVHX_1787' [1682914..1684899]; 'FadB'; '3-hydroxyacyl-CoA dehydrogenase/Enoyl-CoA hydratase
+AGCT	REV	1685924..1685927	1685927	Yes	modified_base	22	51	1171	'SIVHX_1789' [1685737..1687098]; 'RimK'; 'Glutathione synthase/glutaminyl transferase/alpha-L-glutamate ligase
+TCGA	DIR	1686179..1686182	1686179	Yes	modified_base	21	52	n/a	non-coding
+AGCT	REV	1686569..1686572	1686572	Yes	modified_base	23	51	526	'SIVHX_1789' [1685737..1687098]; 'RimK'; 'Glutathione synthase/glutaminyl transferase/alpha-L-glutamate ligase
+TCGA	DIR	1689630..1689633	1689630	Yes	modified_base	23	50	499	'SIVHX_1793' [1689131..1690012]; 'SdhB'; 'Succinate dehydrogenase/fumarate reductase, iron-sulfur subunit
+AGCT	REV	1690960..1690963	1690963	Yes	modified_base	21	43	n/a	non-coding
+AGCT	REV	1691053..1691056	1691056	Yes	modified_base	21	45	n/a	non-coding
+TCGA	DIR	1691476..1691479	1691476	Yes	modified_base	22	49	1408	'SIVHX_1794' [1690068..1691915]; 'SdhA'; 'Succinate dehydrogenase/fumarate reductase, flavoprotein subunit
+TCGA	DIR	1696913..1696916	1696913	Yes	modified_base	22	57	166	'SIVHX_1802' [1696747..1697610]; 'LivG'; 'ABC-type branched-chain amino acid transport system, ATPase component
+TCGA	DIR	1697129..1697132	1697129	Yes	modified_base	34	57	382	'SIVHX_1802' [1696747..1697610]; 'LivG'; 'ABC-type branched-chain amino acid transport system, ATPase component
+TCGA	DIR	1700030..1700033	1700030	Yes	modified_base	21	60	n/a	non-coding
+TCGA	DIR	1701968..1701971	1701968	Yes	modified_base	21	59	n/a	non-coding
+AGCT	REV	1706227..1706230	1706230	Yes	modified_base	28	81	492	'SIVHX_1813' [1705682..1706722]; 'Mrp'; 'Mrp family protein, ATPase, contains iron-sulfur cluster
+AGCT	REV	1706371..1706374	1706374	Yes	modified_base	22	82	348	'SIVHX_1813' [1705682..1706722]; 'Mrp'; 'Mrp family protein, ATPase, contains iron-sulfur cluster
+AGCT	REV	1706404..1706407	1706407	Yes	modified_base	27	81	315	'SIVHX_1813' [1705682..1706722]; 'Mrp'; 'Mrp family protein, ATPase, contains iron-sulfur cluster
+AGCT	REV	1708213..1708216	1708216	Yes	modified_base	29	69	n/a	non-coding
+AGCT	REV	1711070..1711073	1711073	Yes	modified_base	24	69	n/a	non-coding
+AGCT	REV	1714612..1714615	1714615	Yes	modified_base	22	68	n/a	non-coding
+TCGA	DIR	1722539..1722542	1722539	Yes	modified_base	25	64	1912	'SIVHX_1836' [1720627..1723281]; 'Dna2'; 'DNA replication ATP-dependent helicase/nuclease Dna2
+TCGA	DIR	1723338..1723341	1723338	Yes	modified_base	21	64	n/a	non-coding
+TCGA	DIR	1724100..1724103	1724100	Yes	modified_base	21	59	n/a	non-coding
+TCGA	DIR	1726029..1726032	1726029	Yes	modified_base	22	57	n/a	non-coding
+TCGA	DIR	1751691..1751694	1751691	Yes	modified_base	24	52	n/a	non-coding
+TCGA	DIR	1765459..1765462	1765459	Yes	modified_base	24	41	892	'SIVHX_1884' [1764567..1765763]; 'AlaS'; 'Alanyl-tRNA synthetase'
+TCGA	DIR	1774805..1774808	1774805	Yes	modified_base	22	45	n/a	non-coding
+TCGA	DIR	1776797..1776800	1776797	Yes	modified_base	22	32	484	'SIVHX_1898' [1776313..1777122]; 'PanB'; '3-methyl-2-oxobutanoate hydroxymethyltransferase
+TCGA	DIR	1781426..1781429	1781426	Yes	modified_base	21	41	n/a	non-coding
+TCGA	DIR	1795911..1795914	1795911	Yes	modified_base	23	61	n/a	non-coding
+AGCT	REV	1797725..1797728	1797728	Yes	modified_base	25	64	195	'SIVHX_1918' [1797126..1797923]; 'Transcriptional regulator, contains HTH domain'
+TCGA	DIR	1798655..1798658	1798655	Yes	modified_base	22	59	n/a	non-coding
+AGCT	REV	1800481..1800484	1800484	Yes	modified_base	33	62	82	'SIVHX_1923' [1800201..1800566]; 'IscA'; 'Fe-S cluster assembly iron-binding protein IscA'
+AGCT	REV	1809563..1809566	1809566	Yes	modified_base	26	56	192	'SIVHX_1930' [1809183..1809758]; 'HemG'; 'Menaquinone-dependent protoporphyrinogen oxidase
+TCGA	DIR	1818205..1818208	1818205	Yes	modified_base	25	59	n/a	non-coding
+TCGA	DIR	1830498..1830501	1830498	Yes	modified_base	21	64	718	'SIVHX_1950' [1829780..1830739]; 'Ddh'; 'D-2-hydroxyacid dehydrogenase (NADP+)'
+TCGA	DIR	1830690..1830693	1830690	Yes	modified_base	26	63	910	'SIVHX_1950' [1829780..1830739]; 'Ddh'; 'D-2-hydroxyacid dehydrogenase (NADP+)'
+AGCT	REV	1837243..1837246	1837246	Yes	modified_base	26	63	n/a	non-coding
+TCGA	DIR	1839269..1839272	1839269	Yes	modified_base	21	52	235	'SIVHX_1960' [1839034..1840071]; 'L-alanine-DL-glutamate epimerase'
+TCGA	DIR	1839944..1839947	1839944	Yes	modified_base	26	54	910	'SIVHX_1960' [1839034..1840071]; 'L-alanine-DL-glutamate epimerase'
+AGCT	REV	1847092..1847095	1847095	Yes	modified_base	25	63	907	'SIVHX_1969' [1847040..1848002]; 'Beta-ribofuranosylaminobenzene 5'-phosphate synthase
+TCGA	DIR	1847311..1847314	1847311	Yes	modified_base	21	56	n/a	non-coding
+TCGA	DIR	1858937..1858940	1858937	Yes	modified_base	25	53	n/a	non-coding
+TCGA	DIR	1860115..1860118	1860115	Yes	modified_base	24	51	n/a	non-coding
+TCGA	DIR	1860307..1860310	1860307	Yes	modified_base	22	50	n/a	non-coding
+AGCT	REV	1866690..1866693	1866693	Yes	modified_base	21	56	274	'SIVHX_1987' [1866158..1866967]; 'Uncharacterized membrane protein'
+AGCT	REV	1880434..1880437	1880437	Yes	modified_base	21	60	790	'SIVHX_2001' [1880187..1881227]; 'AcoB'; 'Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit
+TCGA	DIR	1894666..1894669	1894666	Yes	modified_base	21	56	622	'SIVHX_2016' [1894044..1895678]; 'Amidohydrolase'
+AGCT	REV	1898842..1898845	1898845	Yes	modified_base	29	37	n/a	non-coding
+AGCT	REV	1903312..1903315	1903315	Yes	modified_base	23	48	n/a	non-coding
+AGCT	REV	1917232..1917235	1917235	Yes	modified_base	21	55	n/a	non-coding
+TCGA	DIR	1925027..1925030	1925027	Yes	modified_base	23	35	256	'SIVHX_2060' [1924771..1925127]; 'Uncharacterized protein'
+TCGA	DIR	1941553..1941556	1941553	Yes	modified_base	24	51	n/a	non-coding
+TCGA	DIR	1948108..1948111	1948108	Yes	modified_base	24	63	22	'SIVHX_2086' [1948086..1948787]; 'Uncharacterized membrane protein, DUF1405 family
+AGCT	REV	1950053..1950056	1950056	Yes	modified_base	21	65	-49	'SIVHX_2088' [1949510..1950007]; 'Uncharacterized membrane protein'
+TCGA	DIR	1952846..1952849	1952846	Yes	modified_base	23	53	n/a	non-coding
+TCGA	DIR	1952909..1952912	1952909	Yes	modified_base	21	51	n/a	non-coding
+AGCT	REV	1956388..1956391	1956391	Yes	modified_base	22	48	n/a	non-coding
+AGCT	REV	1956445..1956448	1956448	Yes	modified_base	25	50	n/a	non-coding
+AGCT	REV	1957084..1957087	1957087	Yes	modified_base	25	54	n/a	non-coding
+AGCT	REV	1963841..1963844	1963844	Yes	modified_base	22	33	241	'SIVHX_2102' [1963615..1964085]; 'UspA'; 'Nucleotide-binding protein, UspA family'
+AGCT	REV	1964664..1964667	1964667	Yes	modified_base	26	30	5	'SIVHX_2103' [1964277..1964672]; 'Uncharacterized protein'
+AGCT	REV	1984613..1984616	1984616	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	1996352..1996355	1996352	Yes	modified_base	23	37	280	'SIVHX_2140' [1996072..1998375]; 'Tar'; 'Methyl-accepting chemotaxis protein'
+TCGA	DIR	2001658..2001661	2001658	Yes	modified_base	23	56	277	'SIVHX_2148' [2001381..2002046]; 'TrpF'; 'Phosphoribosylanthranilate isomerase'
+TCGA	DIR	2006335..2006338	2006335	Yes	modified_base	22	68	1261	'SIVHX_2152' [2005074..2008175]; 'NrdA'; 'Ribonucleoside-diphosphate reductase alpha chain
+TCGA	DIR	2007294..2007297	2007294	Yes	modified_base	23	73	2220	'SIVHX_2152' [2005074..2008175]; 'NrdA'; 'Ribonucleoside-diphosphate reductase alpha chain
+AGCT	REV	2010942..2010945	2010945	Yes	modified_base	24	83	604	'SIVHX_2157' [2010566..2011549]; 'Tas'; 'Aryl-alcohol dehydrogenase related enzyme'
+AGCT	REV	2015971..2015974	2015974	Yes	modified_base	23	78	249	'SIVHX_2162' [2015033..2016223]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+TCGA	DIR	2025205..2025208	2025205	Yes	modified_base	23	69	n/a	non-coding
+AGCT	REV	2025391..2025394	2025394	Yes	modified_base	22	64	13	'SIVHX_2169' [2024301..2025407]; 'PepQ'; 'Xaa-Pro aminopeptidase'
+TCGA	DIR	2028267..2028270	2028267	Yes	modified_base	21	60	705	'SIVHX_2172' [2027562..2028395]; 'HisM'; 'ABC-type amino acid transport system, permease component
+AGCT	REV	2031895..2031898	2031898	Yes	modified_base	28	73	196	'SIVHX_2176' [2030619..2032094]; 'RfcL'; 'Replication factor C large subunit'
+TCGA	DIR	2051419..2051422	2051419	Yes	modified_base	22	49	1717	'SIVHX_2196' [2049702..2052149]; 'Uncharacterized protein'
+TCGA	DIR	2063660..2063663	2063660	Yes	modified_base	25	89	82	'SIVHX_2211' [2063578..2064111]; 'PduO'; 'Cob(I)alamin adenosyltransferase'
+AGCT	REV	2063898..2063901	2063901	Yes	modified_base	26	82	n/a	non-coding
+AGCT	REV	2078661..2078664	2078664	Yes	modified_base	25	69	766	'SIVHX_2226' [2077700..2079430]; 'Uncharacterized surface protein, possible component of pili like system
+AGCT	REV	2084273..2084276	2084276	Yes	modified_base	21	53	1723	'SIVHX_2229' [2083726..2085999]; 'VirB11'; 'ATPase involved in archaellum/pili biosynthesis'
+TCGA	DIR	2085542..2085545	2085542	Yes	modified_base	23	52	n/a	non-coding
+AGCT	REV	2097121..2097124	2097124	Yes	modified_base	21	45	625	'SIVHX_2238' [2096790..2097749]; 'PstC'; 'ABC-type phosphate transport system, permease component
+AGCT	REV	2118176..2118179	2118179	Yes	modified_base	22	68	n/a	non-coding
+TCGA	DIR	2121807..2121810	2121807	Yes	modified_base	28	84	469	'SIVHX_2264' [2121338..2122996]; 'Thioredoxin domain-containing protein'
+AGCT	REV	2121807..2121810	2121810	Yes	modified_base	23	69	n/a	non-coding
+TCGA	DIR	2123294..2123297	2123294	Yes	modified_base	22	93	223	'SIVHX_2265' [2123071..2123874]; 'Sugar-specific transcriptional regulator TrmB'
+TCGA	DIR	2123444..2123447	2123444	Yes	modified_base	28	94	373	'SIVHX_2265' [2123071..2123874]; 'Sugar-specific transcriptional regulator TrmB'
+AGCT	REV	2123925..2123928	2123928	Yes	modified_base	23	78	n/a	non-coding
+TCGA	DIR	2130129..2130132	2130129	Yes	modified_base	27	59	n/a	non-coding
+TCGA	DIR	2132033..2132036	2132033	Yes	modified_base	27	62	n/a	non-coding
+TCGA	DIR	2132279..2132282	2132279	Yes	modified_base	21	61	n/a	non-coding
+TCGA	DIR	2134361..2134364	2134361	Yes	modified_base	21	48	1189	'SIVHX_2276' [2133172..2134902]; 'Signal transduction histidine kinase, contains PAS domain
+TCGA	DIR	2136697..2136700	2136697	Yes	modified_base	28	59	n/a	non-coding
+TCGA	DIR	2148334..2148337	2148334	Yes	modified_base	21	61	742	'SIVHX_2292' [2147592..2149010]; 'DnaG'; 'DNA primase'
+TCGA	DIR	2150273..2150276	2150273	Yes	modified_base	22	66	n/a	non-coding
+TCGA	DIR	2150690..2150693	2150690	Yes	modified_base	28	65	n/a	non-coding
+TCGA	DIR	2150708..2150711	2150708	Yes	modified_base	25	72	n/a	non-coding
+AGCT	REV	2150708..2150711	2150711	Yes	modified_base	23	59	127	'SIVHX_2294' [2149525..2150838]; 'DUF92 domain-containing protein'
+TCGA	DIR	2159868..2159871	2159868	Yes	modified_base	25	54	n/a	non-coding
+AGCT	REV	2160258..2160261	2160261	Yes	modified_base	21	58	1429	'SIVHX_2307' [2159786..2161690]; 'MoeA'; 'Molybdopterin biosynthesis enzyme'
+TCGA	DIR	2066307..2066310	2066307	Yes	modified_base	25	420	777	'SIVHX_2215' [2065530..2066414]; 'Transposase'
+AGCT	REV	2038040..2038043	2038043	Yes	modified_base	42	445	n/a	non-coding
+AGCT	REV	2173557..2173560	2173560	Yes	modified_base	22	47	n/a	non-coding
+AGCT	REV	2181118..2181121	2181121	Yes	modified_base	22	46	n/a	non-coding
+AGCT	REV	2181134..2181137	2181137	Yes	modified_base	22	45	n/a	non-coding
+AGCT	REV	2181737..2181740	2181740	Yes	modified_base	21	41	178	'SIVHX_2330' [2181646..2181918]; 'hypothetical protein'
+TCGA	DIR	2196486..2196489	2196486	Yes	modified_base	23	61	n/a	non-coding
+TCGA	DIR	2201239..2201242	2201239	Yes	modified_base	22	69	1078	'SIVHX_2354' [2200161..2202554]; 'Mcp'; 'Methyl-accepting chemotaxis protein'
+TCGA	DIR	2201755..2201758	2201755	Yes	modified_base	23	61	1594	'SIVHX_2354' [2200161..2202554]; 'Mcp'; 'Methyl-accepting chemotaxis protein'
+TCGA	DIR	2203472..2203475	2203472	Yes	modified_base	24	54	n/a	non-coding
+TCGA	DIR	2205101..2205104	2205101	Yes	modified_base	21	51	n/a	non-coding
+AGCT	REV	2213604..2213607	2213607	Yes	modified_base	23	49	219	'SIVHX_2369' [2213278..2213826]; 'Predicted membrane-bound metal-dependent hydrolase
+AGCT	REV	2226913..2226916	2226916	Yes	modified_base	23	47	n/a	non-coding
+AGCT	REV	2227042..2227045	2227045	Yes	modified_base	23	45	n/a	non-coding
+AGCT	REV	2234944..2234947	2234947	Yes	modified_base	21	55	286	'SIVHX_2392' [2233656..2235233]; 'Smc'; 'Chromosome segregation protein'
+AGCT	REV	2240373..2240376	2240376	Yes	modified_base	22	41	n/a	non-coding
+AGCT	REV	2240487..2240490	2240490	Yes	modified_base	28	38	n/a	non-coding
+AGCT	REV	2256626..2256629	2256629	Yes	modified_base	31	46	661	'SIVHX_2408' [2250511..2257290]; 'Cell surface protein containing PGF C-terminal sorting motif
+AGCT	REV	2259771..2259774	2259774	Yes	modified_base	21	53	n/a	non-coding
+AGCT	REV	2264116..2264119	2264119	Yes	modified_base	23	53	1396	'SIVHX_2415' [2264067..2265515]; 'ThiC'; 'Phosphomethylpyrimidine synthase'
+AGCT	REV	2271173..2271176	2271176	Yes	modified_base	23	45	n/a	non-coding
+AGCT	REV	2271696..2271699	2271699	Yes	modified_base	21	41	n/a	non-coding
+TCGA	DIR	2281704..2281707	2281704	Yes	modified_base	29	50	n/a	non-coding
+TCGA	DIR	2286395..2286398	2286395	Yes	modified_base	21	89	n/a	non-coding
+AGCT	REV	2287940..2287943	2287943	Yes	modified_base	26	64	949	'SIVHX_2443' [2287636..2288892]; 'ArgE'; 'Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase
+TCGA	DIR	2295003..2295006	2295003	Yes	modified_base	26	71	745	'SIVHX_2448' [2294258..2295340]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+AGCT	REV	2295087..2295090	2295090	Yes	modified_base	22	62	n/a	non-coding
+TCGA	DIR	2320547..2320550	2320547	Yes	modified_base	24	69	n/a	non-coding
+AGCT	REV	2322995..2322998	2322998	Yes	modified_base	25	65	n/a	non-coding
+TCGA	DIR	2323818..2323821	2323818	Yes	modified_base	21	62	n/a	non-coding
+AGCT	REV	2329688..2329691	2329691	Yes	modified_base	21	57	n/a	non-coding
+AGCT	REV	2329939..2329942	2329942	Yes	modified_base	32	56	n/a	non-coding
+AGCT	REV	2330942..2330945	2330945	Yes	modified_base	22	55	n/a	non-coding
+AGCT	REV	2333251..2333254	2333254	Yes	modified_base	29	57	n/a	non-coding
+AGCT	REV	2333778..2333781	2333781	Yes	modified_base	21	51	n/a	non-coding
+TCGA	DIR	2338260..2338263	2338260	Yes	modified_base	22	50	n/a	non-coding
+AGCT	REV	2342893..2342896	2342896	Yes	modified_base	28	53	736	'SIVHX_2489' [2340504..2343632]; 'Pectin lyase domain protein'
+AGCT	REV	2345345..2345348	2345348	Yes	modified_base	26	44	n/a	non-coding
+TCGA	DIR	2345709..2345712	2345709	Yes	modified_base	22	49	166	'SIVHX_2491' [2345543..2347801]; 'Predicted exporter of the RND superfamily'
+TCGA	DIR	2345908..2345911	2345908	Yes	modified_base	21	50	365	'SIVHX_2491' [2345543..2347801]; 'Predicted exporter of the RND superfamily'
+AGCT	REV	2349165..2349168	2349168	Yes	modified_base	24	58	679	'SIVHX_2493' [2348738..2349847]; 'Cell surface protein'
+AGCT	REV	2354136..2354139	2354139	Yes	modified_base	23	66	2163	'SIVHX_2496' [2353810..2356302]; 'Cell surface protein'
+AGCT	REV	2359417..2359420	2359420	Yes	modified_base	29	60	n/a	non-coding
+TCGA	DIR	2359520..2359523	2359520	Yes	modified_base	21	61	724	'SIVHX_2498' [2358796..2360364]; 'S-layer protein, possibly associated with type IV pili like system
+AGCT	REV	2360381..2360384	2360384	Yes	modified_base	21	67	n/a	non-coding
+AGCT	REV	2362528..2362531	2362531	Yes	modified_base	24	90	n/a	non-coding
+AGCT	REV	2363419..2363422	2363422	Yes	modified_base	24	88	n/a	non-coding
+AGCT	REV	2363449..2363452	2363452	Yes	modified_base	40	82	n/a	non-coding
+TCGA	DIR	2365223..2365226	2365223	Yes	modified_base	27	89	n/a	non-coding
+AGCT	REV	2365313..2365316	2365316	Yes	modified_base	28	92	975	'SIVHX_2502' [2365083..2366291]; 'S-layer domain'
+AGCT	REV	2365333..2365336	2365336	Yes	modified_base	28	91	955	'SIVHX_2502' [2365083..2366291]; 'S-layer domain'
+TCGA	DIR	2365363..2365366	2365363	Yes	modified_base	23	90	n/a	non-coding
+AGCT	REV	2365403..2365406	2365406	Yes	modified_base	27	91	885	'SIVHX_2502' [2365083..2366291]; 'S-layer domain'
+TCGA	DIR	2365489..2365492	2365489	Yes	modified_base	31	86	n/a	non-coding
+TCGA	DIR	2365555..2365558	2365555	Yes	modified_base	23	91	n/a	non-coding
+AGCT	REV	2365643..2365646	2365646	Yes	modified_base	30	89	645	'SIVHX_2502' [2365083..2366291]; 'S-layer domain'
+AGCT	REV	2365804..2365807	2365807	Yes	modified_base	38	95	484	'SIVHX_2502' [2365083..2366291]; 'S-layer domain'
+TCGA	DIR	2367067..2367070	2367067	Yes	modified_base	25	110	205	'SIVHX_2504' [2366862..2367356]; 'hypothetical protein'
+AGCT	REV	2367067..2367070	2367070	Yes	modified_base	29	102	n/a	non-coding
+TCGA	DIR	2402627..2402630	2402627	Yes	modified_base	21	99	n/a	non-coding
+AGCT	REV	2402667..2402670	2402670	Yes	modified_base	31	96	610	'SIVHX_2539' [2402030..2403280]; 'Transposase'
+TCGA	DIR	2403204..2403207	2403204	Yes	modified_base	22	110	n/a	non-coding
+TCGA	DIR	2403549..2403552	2403549	Yes	modified_base	23	124	n/a	non-coding
+AGCT	REV	2405038..2405041	2405041	Yes	modified_base	22	101	n/a	non-coding
+AGCT	REV	2407640..2407643	2407643	Yes	modified_base	26	107	178	'SIVHX_2548' [2407462..2407821]; 'MazF'; 'Toxin-antitoxin addiction module toxin component MazF (an endoRNAse)
+TCGA	DIR	2408667..2408670	2408667	Yes	modified_base	26	102	n/a	non-coding
+AGCT	REV	2409645..2409648	2409648	Yes	modified_base	22	87	n/a	non-coding
+AGCT	REV	2410014..2410017	2410017	Yes	modified_base	27	92	n/a	non-coding
+AGCT	REV	2410812..2410815	2410815	Yes	modified_base	36	91	n/a	non-coding
+AGCT	REV	2411341..2411344	2411344	Yes	modified_base	32	92	n/a	non-coding
+AGCT	REV	2411354..2411357	2411357	Yes	modified_base	28	89	n/a	non-coding
+AGCT	REV	2419190..2419193	2419193	Yes	modified_base	21	69	181	'SIVHX_2560' [2418445..2419374]; 'SUA7'; 'Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+AGCT	REV	2419498..2419501	2419501	Yes	modified_base	25	74	195	'SIVHX_2561' [2419454..2419696]; 'SWIM zinc finger containing protein'
+AGCT	REV	2424773..2424776	2424776	Yes	modified_base	21	124	301	'SIVHX_2567' [2424205..2425077]; 'RPA1'; 'Single-stranded DNA-binding replication protein A (RPA)
+AGCT	REV	2426552..2426555	2426555	Yes	modified_base	25	80	n/a	non-coding
+TCGA	DIR	2429221..2429224	2429221	Yes	modified_base	25	85	3259	'SIVHX_2568' [2425962..2429582]; 'TraG/TraD/VirD4 family enzyme, ATPase'
+AGCT	REV	2432886..2432889	2432889	Yes	modified_base	28	73	520	'SIVHX_2570' [2432477..2433409]; 'Uncharacterized membrane protein'
+AGCT	REV	2433183..2433186	2433186	Yes	modified_base	22	76	223	'SIVHX_2570' [2432477..2433409]; 'Uncharacterized membrane protein'
+AGCT	REV	2433254..2433257	2433257	Yes	modified_base	22	74	152	'SIVHX_2570' [2432477..2433409]; 'Uncharacterized membrane protein'
+AGCT	REV	2434027..2434030	2434030	Yes	modified_base	21	72	n/a	non-coding
+AGCT	REV	2434201..2434204	2434204	Yes	modified_base	23	63	874	'SIVHX_2572' [2434158..2435078]; 'GalE'; 'UDP-glucose 4-epimerase'
+TCGA	DIR	2441679..2441682	2441679	Yes	modified_base	23	59	n/a	non-coding
+AGCT	REV	2441793..2441796	2441796	Yes	modified_base	24	60	904	'SIVHX_2584' [2441582..2442700]; 'Sugar-specific transcriptional regulator TrmB'
+AGCT	REV	2441830..2441833	2441833	Yes	modified_base	21	60	867	'SIVHX_2584' [2441582..2442700]; 'Sugar-specific transcriptional regulator TrmB'
+AGCT	REV	2441850..2441853	2441853	Yes	modified_base	23	59	847	'SIVHX_2584' [2441582..2442700]; 'Sugar-specific transcriptional regulator TrmB'
+AGCT	REV	2443372..2443375	2443375	Yes	modified_base	28	64	496	'SIVHX_2585' [2442816..2443871]; 'Uncharacterized ABC-type transport system, permease component
+TCGA	DIR	2446016..2446019	2446016	Yes	modified_base	24	81	n/a	non-coding
+AGCT	REV	2446170..2446173	2446173	Yes	modified_base	21	64	390	'SIVHX_2587' [2444995..2446563]; 'ABC-type uncharacterized transport system, ATPase component
+TCGA	DIR	2448734..2448737	2448734	Yes	modified_base	23	80	n/a	non-coding
+AGCT	REV	2449226..2449229	2449229	Yes	modified_base	26	84	1516	'SIVHX_2590' [2448568..2450745]; 'AtoS'; 'Signal transduction histidine kinase, contains REC and PAS domains
+TCGA	DIR	2450057..2450060	2450057	Yes	modified_base	23	77	n/a	non-coding
+AGCT	REV	2452364..2452367	2452367	Yes	modified_base	21	51	460	'SIVHX_2593' [2451640..2452827]; 'AtoS'; 'Signal transduction histidine kinase, contains PAS domains
+TCGA	DIR	2459461..2459464	2459461	Yes	modified_base	26	66	523	'SIVHX_2600' [2458938..2460317]; 'Pentapeptide repeats containing protein'
+TCGA	DIR	2459860..2459863	2459860	Yes	modified_base	23	62	922	'SIVHX_2600' [2458938..2460317]; 'Pentapeptide repeats containing protein'
+AGCT	REV	2459860..2459863	2459863	Yes	modified_base	30	56	n/a	non-coding
+TCGA	DIR	2462134..2462137	2462134	Yes	modified_base	22	68	676	'SIVHX_2602' [2461458..2462495]; 'FtsA'; 'Cell division ATPase FtsA'
+AGCT	REV	2462545..2462548	2462548	Yes	modified_base	24	61	n/a	non-coding
+AGCT	REV	2464324..2464327	2464327	Yes	modified_base	32	69	n/a	non-coding
+TCGA	DIR	2468543..2468546	2468543	Yes	modified_base	22	67	n/a	non-coding
+TCGA	DIR	2470910..2470913	2470910	Yes	modified_base	21	61	n/a	non-coding
+AGCT	REV	2471298..2471301	2471301	Yes	modified_base	26	59	1143	'SIVHX_2612' [2470405..2472444]; 'S-layer-forming halobacterial major cell surface glycoprotein
+TCGA	DIR	2472158..2472161	2472158	Yes	modified_base	23	57	n/a	non-coding
+TCGA	DIR	2476359..2476362	2476359	Yes	modified_base	26	61	7	'SIVHX_2618' [2476352..2477860]; 'Mcp'; 'Methyl-accepting chemotaxis protein'
+AGCT	REV	2478662..2478665	2478665	Yes	modified_base	22	62	1150	'SIVHX_2619' [2477944..2479815]; 'CitT'; 'Di- and tricarboxylate transporter'
+TCGA	DIR	2478881..2478884	2478881	Yes	modified_base	24	63	n/a	non-coding
+TCGA	DIR	2481579..2481582	2481579	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	2482999..2483002	2482999	Yes	modified_base	29	62	n/a	non-coding
+AGCT	REV	2483155..2483158	2483158	Yes	modified_base	22	58	397	'SIVHX_2624' [2482938..2483555]; 'SAM-dependent methyltransferase'
+TCGA	DIR	2483197..2483200	2483197	Yes	modified_base	24	63	n/a	non-coding
+TCGA	DIR	2483414..2483417	2483414	Yes	modified_base	24	64	n/a	non-coding
+TCGA	DIR	2483428..2483431	2483428	Yes	modified_base	22	64	n/a	non-coding
+AGCT	REV	2487953..2487956	2487956	Yes	modified_base	23	49	243	'SIVHX_2631' [2487150..2488199]; 'Uncharacterized secreted protein'
+AGCT	REV	2487980..2487983	2487983	Yes	modified_base	24	49	216	'SIVHX_2631' [2487150..2488199]; 'Uncharacterized secreted protein'
+AGCT	REV	2489975..2489978	2489978	Yes	modified_base	21	62	16	'SIVHX_2633' [2489218..2489994]; 'ABC-type multidrug transport system, permease component
+TCGA	DIR	2492740..2492743	2492740	Yes	modified_base	28	58	168	'SIVHX_2637' [2492572..2493873]; 'AceB'; 'Bifunctional (S)-malyl-CoA lyase/thioesterase'
+TCGA	DIR	2497164..2497167	2497164	Yes	modified_base	21	50	475	'SIVHX_2641' [2496689..2497972]; 'Pus10'; 'tRNA pseudouridine synthase 10'
+TCGA	DIR	2501389..2501392	2501389	Yes	modified_base	26	49	n/a	non-coding
+TCGA	DIR	2511308..2511311	2511308	Yes	modified_base	24	75	1762	'SIVHX_2657' [2509546..2511348]; 'InfB'; 'Translation initiation factor 2 (IF-2; GTPase)'
+TCGA	DIR	2519905..2519908	2519905	Yes	modified_base	22	51	676	'SIVHX_2667' [2519229..2522459]; 'AtoS'; 'Signal transduction regulator, containsPAS and HTH domains
+TCGA	DIR	2526473..2526476	2526473	Yes	modified_base	21	50	n/a	non-coding
+TCGA	DIR	2550573..2550576	2550573	Yes	modified_base	22	60	n/a	non-coding
+TCGA	DIR	2552019..2552022	2552019	Yes	modified_base	23	66	n/a	non-coding
+AGCT	REV	2552157..2552160	2552160	Yes	modified_base	21	52	391	'SIVHX_2698' [2551169..2552551]; 'SerS'; 'Seryl-tRNA synthetase'
+TCGA	DIR	2552253..2552256	2552253	Yes	modified_base	24	65	n/a	non-coding
+AGCT	REV	2552325..2552328	2552328	Yes	modified_base	29	50	223	'SIVHX_2698' [2551169..2552551]; 'SerS'; 'Seryl-tRNA synthetase'
+AGCT	REV	2558167..2558170	2558170	Yes	modified_base	21	66	n/a	non-coding
+TCGA	DIR	2558344..2558347	2558344	Yes	modified_base	21	73	424	'SIVHX_2703' [2557920..2559827]; 'TrkA'; 'TrkA, K+ transport system, NAD-binding component
+AGCT	REV	2562911..2562914	2562914	Yes	modified_base	41	65	490	'SIVHX_2707' [2561650..2563404]; 'NirA'; 'Ferredoxin-nitrite reductase'
+AGCT	REV	2563701..2563704	2563704	Yes	modified_base	23	63	598	'SIVHX_2708' [2563670..2564302]; 'MobA'; 'Molybdenum cofactor guanylyltransferase'
+TCGA	DIR	2569694..2569697	2569694	Yes	modified_base	21	57	n/a	non-coding
+AGCT	REV	2570006..2570009	2570009	Yes	modified_base	29	55	322	'SIVHX_2713' [2569348..2570331]; 'Uncharacterized protein'
+AGCT	REV	2572538..2572541	2572541	Yes	modified_base	21	61	n/a	non-coding
+TCGA	DIR	2572794..2572797	2572794	Yes	modified_base	41	60	34	'SIVHX_2716' [2572760..2573128]; 'PilT'; 'Twitching motility protein PilT'
+AGCT	REV	2572794..2572797	2572797	Yes	modified_base	23	65	n/a	non-coding
+TCGA	DIR	2572818..2572821	2572818	Yes	modified_base	22	58	58	'SIVHX_2716' [2572760..2573128]; 'PilT'; 'Twitching motility protein PilT'
+AGCT	REV	2577929..2577932	2577932	Yes	modified_base	26	57	n/a	non-coding
+TCGA	DIR	2581292..2581295	2581292	Yes	modified_base	24	53	250	'SIVHX_2730' [2581042..2581908]; 'TupC'; 'ABC-type tungstate transport system, ATPase component
+AGCT	REV	2591553..2591556	2591556	Yes	modified_base	21	61	n/a	non-coding
+AGCT	REV	2595024..2595027	2595027	Yes	modified_base	26	62	952	'SIVHX_2747' [2594195..2595979]; 'PDZ domain-containing protein'
+TCGA	DIR	2596168..2596171	2596168	Yes	modified_base	21	68	n/a	non-coding
+TCGA	DIR	2609105..2609108	2609105	Yes	modified_base	27	54	1183	'SIVHX_2762' [2607922..2609217]; 'HisS'; 'Histidyl-tRNA synthetase'
+TCGA	DIR	2609165..2609168	2609165	Yes	modified_base	25	51	1243	'SIVHX_2762' [2607922..2609217]; 'HisS'; 'Histidyl-tRNA synthetase'
+TCGA	DIR	2609407..2609410	2609407	Yes	modified_base	22	54	67	'SIVHX_2763' [2609340..2609786]; 'UspA'; 'Nucleotide-binding protein, UspA family'
+TCGA	DIR	2610439..2610442	2610439	Yes	modified_base	21	53	582	'SIVHX_2764' [2609857..2610708]; 'TruA'; 'tRNA pseudouridine synthase'
+AGCT	REV	2610551..2610554	2610554	Yes	modified_base	21	55	n/a	non-coding
+TCGA	DIR	2611088..2611091	2611088	Yes	modified_base	30	56	292	'SIVHX_2765' [2610796..2611443]; 'Gph'; 'Phosphoglycolate phosphatase'
+TCGA	DIR	2623824..2623827	2623824	Yes	modified_base	24	50	411	'SIVHX_2779' [2623413..2623901]; 'DNA-binding transcriptional regulator, Lrp family
+AGCT	REV	2624373..2624376	2624376	Yes	modified_base	23	47	1969	'SIVHX_2781' [2624237..2626345]; 'Signal transduction histidine kinase with PAS and PocR sensory domains
+AGCT	REV	2634115..2634118	2634118	Yes	modified_base	29	47	580	'SIVHX_2789' [2633532..2634698]; 'PncB'; 'Nicotinate phosphoribosyltransferase'
+TCGA	DIR	2640506..2640509	2640506	Yes	modified_base	26	68	681	'SIVHX_2795' [2639825..2642404]; 'Two-component system, OmpR family, sensor kinase
+TCGA	DIR	2645962..2645965	2645962	Yes	modified_base	23	60	298	'SIVHX_2799' [2645664..2646350]; 'LplA'; 'Lipoate-protein ligase A'
+TCGA	DIR	2646116..2646119	2646116	Yes	modified_base	21	60	452	'SIVHX_2799' [2645664..2646350]; 'LplA'; 'Lipoate-protein ligase A'
+AGCT	REV	2656154..2656157	2656157	Yes	modified_base	27	66	55	'SIVHX_2813' [2655118..2656212]; 'AmpS'; 'Leucyl aminopeptidase (aminopeptidase T)'
+AGCT	REV	2656172..2656175	2656175	Yes	modified_base	31	65	37	'SIVHX_2813' [2655118..2656212]; 'AmpS'; 'Leucyl aminopeptidase (aminopeptidase T)'
+TCGA	DIR	2656596..2656599	2656596	Yes	modified_base	33	77	292	'SIVHX_2814' [2656304..2657203]; 'Gnd'; '6-phosphogluconate dehydrogenase'
+TCGA	DIR	2656641..2656644	2656641	Yes	modified_base	27	72	337	'SIVHX_2814' [2656304..2657203]; 'Gnd'; '6-phosphogluconate dehydrogenase'
+TCGA	DIR	2656893..2656896	2656893	Yes	modified_base	21	71	589	'SIVHX_2814' [2656304..2657203]; 'Gnd'; '6-phosphogluconate dehydrogenase'
+TCGA	DIR	2657685..2657688	2657685	Yes	modified_base	31	68	301	'SIVHX_2815' [2657384..2657965]; 'Fdx'; 'Ferredoxin'
+AGCT	REV	2914210..2914213	2914213	Yes	modified_base	26	63	n/a	non-coding
+AGCT	REV	2913162..2913165	2913165	Yes	modified_base	24	69	n/a	non-coding
+TCGA	DIR	2912332..2912335	2912332	Yes	modified_base	25	53	490	'SIVHX_3115' [2911842..2912960]; 'WD40/PQQ-like beta propeller repeat containing protein
+AGCT	REV	2912140..2912143	2912143	Yes	modified_base	21	62	n/a	non-coding
+AGCT	REV	2903497..2903500	2903500	Yes	modified_base	28	54	1199	'SIVHX_3105' [2903476..2904699]; 'Transposable element, IS605 OrfB family, contains RNAse H fold nuclease and Zn finger domains
+TCGA	DIR	2899823..2899826	2899823	Yes	modified_base	24	54	995	'SIVHX_3100' [2898828..2899832]; 'Signal transduction histidine kinase, contains REC and PAS domains
+AGCT	REV	2899453..2899456	2899456	Yes	modified_base	21	62	n/a	non-coding
+AGCT	REV	2898229..2898232	2898232	Yes	modified_base	23	58	372	'SIVHX_3099' [2897939..2898604]; 'AIM24'; 'Uncharacterized protein, AIM24 family'
+AGCT	REV	3061947..3061950	3061950	Yes	modified_base	27	61	n/a	non-coding
+AGCT	REV	3062205..3062208	3062208	Yes	modified_base	24	68	n/a	non-coding
+TCGA	DIR	3065539..3065542	3065539	Yes	modified_base	22	88	217	'SIVHX_3284' [3065322..3065987]; 'Transcriptional regulator, contains HTH domain'
+TCGA	DIR	3066428..3066431	3066428	Yes	modified_base	30	86	403	'SIVHX_3285' [3066025..3066453]; 'Predicted trancriptional regulator, ArsR family'
+AGCT	REV	3068282..3068285	3068285	Yes	modified_base	21	79	n/a	non-coding
+AGCT	REV	3068512..3068515	3068515	Yes	modified_base	23	87	n/a	non-coding
+TCGA	DIR	3068762..3068765	3068762	Yes	modified_base	30	86	817	'SIVHX_3288' [3067945..3069156]; 'Protein containing two CBS domains'
+AGCT	REV	3071457..3071460	3071460	Yes	modified_base	23	90	n/a	non-coding
+TCGA	DIR	3071475..3071478	3071475	Yes	modified_base	21	90	361	'SIVHX_3292' [3071114..3072364]; 'MgtE'; 'Mg/Co/Ni transporter MgtE (contains CBS domain)'
+AGCT	REV	3071475..3071478	3071478	Yes	modified_base	33	90	n/a	non-coding
+AGCT	REV	3078671..3078674	3078674	Yes	modified_base	28	73	673	'SIVHX_3298' [3078097..3079347]; 'UspA'; 'Nucleotide-binding protein, UspA family'
+TCGA	DIR	2893778..2893781	2893778	Yes	modified_base	26	66	529	'SIVHX_3093' [2893249..2894031]; 'IclR'; 'DNA-binding transcriptional regulator, IclR family
+TCGA	DIR	2893721..2893724	2893721	Yes	modified_base	30	66	472	'SIVHX_3093' [2893249..2894031]; 'IclR'; 'DNA-binding transcriptional regulator, IclR family
+AGCT	REV	2892095..2892098	2892098	Yes	modified_base	21	62	646	'SIVHX_3092' [2891647..2892744]; 'UgpC'; 'ABC-type sugar transport system, ATPase component
+AGCT	REV	2891356..2891359	2891359	Yes	modified_base	21	65	241	'SIVHX_3091' [2890845..2891600]; 'Creatinine amidohydrolase'
+TCGA	DIR	2891157..2891160	2891157	Yes	modified_base	21	58	n/a	non-coding
+AGCT	REV	2879635..2879638	2879638	Yes	modified_base	26	59	n/a	non-coding
+TCGA	DIR	2873744..2873747	2873744	Yes	modified_base	26	52	310	'SIVHX_3076' [2873434..2874717]; 'Signal transduction histidine kinase'
+TCGA	DIR	2868259..2868262	2868259	Yes	modified_base	22	46	526	'SIVHX_3071' [2867733..2868470]; 'ComB'; '2-phosphosulfolactate phosphatase'
+AGCT	REV	2852623..2852626	2852626	Yes	modified_base	22	62	n/a	non-coding
+AGCT	REV	2848778..2848781	2848781	Yes	modified_base	32	55	1060	'SIVHX_3054' [2848531..2849841]; 'AceB'; 'Malate synthase, Citrate lyase beta subunit'
+TCGA	DIR	2848706..2848709	2848706	Yes	modified_base	21	49	n/a	non-coding
+AGCT	REV	2806707..2806710	2806710	Yes	modified_base	22	45	n/a	non-coding
+AGCT	REV	2798042..2798045	2798045	Yes	modified_base	21	50	n/a	non-coding
+TCGA	DIR	2797559..2797562	2797559	Yes	modified_base	28	47	972	'SIVHX_3018' [2796587..2798104]; 'NuoF'; 'NADH-quinone oxidoreductase subunit F'
+AGCT	REV	2791379..2791382	2791382	Yes	modified_base	22	48	1042	'SIVHX_3012' [2790670..2792424]; 'Aor'; 'Aldehyde:ferredoxin oxidoreductase'
+AGCT	REV	2791124..2791127	2791127	Yes	modified_base	24	48	1297	'SIVHX_3012' [2790670..2792424]; 'Aor'; 'Aldehyde:ferredoxin oxidoreductase'
+AGCT	REV	2783416..2783419	2783419	Yes	modified_base	23	43	438	'SIVHX_3006' [2783054..2783857]; 'SuhB'; 'Inositol-1(or 4)-monophosphatase/fructose-1,6-bisphosphatase
+AGCT	REV	2780288..2780291	2780291	Yes	modified_base	31	45	n/a	non-coding
+AGCT	REV	2780098..2780101	2780101	Yes	modified_base	23	46	n/a	non-coding
+AGCT	REV	2779008..2779011	2779011	Yes	modified_base	26	42	658	'SIVHX_3003' [2778290..2779669]; 'EctB'; '4-aminobutyrate aminotransferase family protein'
+TCGA	DIR	2778498..2778501	2778498	Yes	modified_base	25	46	n/a	non-coding
+TCGA	DIR	3319227..3319230	3319227	Yes	modified_base	23	51	n/a	non-coding
+TCGA	DIR	3318679..3318682	3318679	Yes	modified_base	22	50	405	'SIVHX_3514' [3318274..3319038]; 'SuhB'; 'Inositol-1(or 4)-monophosphatase/fructose-1,6-bisphosphatase
+TCGA	DIR	3303799..3303802	3303799	Yes	modified_base	22	44	1210	'SIVHX_3498' [3302589..3304415]; 'SpeE'; 'Spermidine synthase'
+AGCT	REV	3292342..3292345	3292345	Yes	modified_base	21	48	1078	'SIVHX_3488' [3292110..3293423]; 'DmsC'; 'Dimethylsulfoxide reductase subunit C'
+AGCT	REV	3292034..3292037	3292037	Yes	modified_base	22	49	76	'SIVHX_3487' [3291520..3292113]; 'TorD'; 'Chaperone protein TorD'
+AGCT	REV	3289849..3289852	3289852	Yes	modified_base	22	41	295	'SIVHX_3484' [3289230..3290147]; 'WtpA'; 'ABC-type molybdate/tungstate transport system, periplasmic component
+TCGA	DIR	3282113..3282116	3282113	Yes	modified_base	22	41	1492	'SIVHX_3475' [3280621..3282150]; 'PutP'; 'Na+/proline symporter'
+AGCT	REV	3276645..3276648	3276648	Yes	modified_base	23	43	913	'SIVHX_3471' [3276329..3277561]; 'CDC6'; 'Cdc6-related protein, AAA superfamily ATPase'
+AGCT	REV	3269797..3269800	3269800	Yes	modified_base	21	38	415	'SIVHX_3465' [3269565..3270215]; 'Transcriptional regulator, contains HTH domain'
+TCGA	DIR	3263497..3263500	3263497	Yes	modified_base	23	36	n/a	non-coding
+AGCT	REV	3250153..3250156	3250156	Yes	modified_base	22	30	n/a	non-coding
+AGCT	REV	3246399..3246402	3246402	Yes	modified_base	21	29	586	'SIVHX_3444' [3245816..3246988]; 'XacA'; 'D-xylose 1-dehydrogenase (NADP+, D-xylono-1,4-lactone-forming)
+AGCT	REV	3244927..3244930	3244930	Yes	modified_base	26	29	825	'SIVHX_3443' [3244778..3245755]; 'Xdh'; 'D-xylose 1-dehydrogenase (NADP+, D-xylono-1,5-lactone-forming)
+AGCT	REV	3237163..3237166	3237166	Yes	modified_base	21	50	199	'SIVHX_3435' [3236214..3237365]; 'UgpC'; 'ABC-type sugar transport system, ATPase component
+TCGA	DIR	3227822..3227825	3227822	Yes	modified_base	21	47	268	'SIVHX_3429' [3227554..3228195]; 'IucB'; 'Acetyl CoA:N6-hydroxylysine acetyl transferase'
+AGCT	REV	3227774..3227777	3227777	Yes	modified_base	21	48	n/a	non-coding
+AGCT	REV	3225399..3225402	3225402	Yes	modified_base	25	53	n/a	non-coding
+AGCT	REV	3194783..3194786	3194786	Yes	modified_base	29	44	n/a	non-coding
+TCGA	DIR	3192963..3192966	3192963	Yes	modified_base	30	53	115	'SIVHX_3398' [3192848..3193936]; 'Uncharacterized protein, DUF917 family'
+TCGA	DIR	3188946..3188949	3188946	Yes	modified_base	22	77	898	'SIVHX_3394' [3188048..3189160]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+TCGA	DIR	3184631..3184634	3184631	Yes	modified_base	22	67	249	'SIVHX_3391' [3184382..3186127]; 'DdpA'; 'ABC-type dipeptide/oligopeptide/nickel transport system, periplasmic component
+AGCT	REV	3181663..3181666	3181666	Yes	modified_base	23	58	n/a	non-coding
+AGCT	REV	3181642..3181645	3181645	Yes	modified_base	24	54	n/a	non-coding
+TCGA	DIR	3174482..3174485	3174482	Yes	modified_base	22	59	430	'SIVHX_3382' [3174052..3175074]; 'DppC'; 'ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+TCGA	DIR	3174266..3174269	3174266	Yes	modified_base	21	63	214	'SIVHX_3382' [3174052..3175074]; 'DppC'; 'ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+TCGA	DIR	3169659..3169662	3169659	Yes	modified_base	30	60	1237	'SIVHX_3377' [3168422..3170080]; 'Right-handed parallel beta-helix repeat-containing protein
+AGCT	REV	3168925..3168928	3168928	Yes	modified_base	21	57	n/a	non-coding
+TCGA	DIR	3165415..3165418	3165415	Yes	modified_base	25	46	n/a	non-coding
+AGCT	REV	3162517..3162520	3162520	Yes	modified_base	23	40	949	'SIVHX_3372' [3162018..3163469]; 'DopD'; '2,5-dioxopentanoate dehydrogenase'
+AGCT	REV	3154885..3154888	3154888	Yes	modified_base	33	42	432	'SIVHX_3365' [3154394..3155320]; 'UgpA'; 'ABC-type sugar transport system, permease component
+TCGA	DIR	3150681..3150684	3150681	Yes	modified_base	21	37	n/a	non-coding
+TCGA	DIR	3150606..3150609	3150606	Yes	modified_base	22	38	n/a	non-coding
+AGCT	REV	3142742..3142745	3142745	Yes	modified_base	22	49	594	'SIVHX_3354' [3141390..3143339]; 'DndD'; 'DNA sulfur modification protein DndD, ATPase'
+AGCT	REV	3140906..3140909	3140909	Yes	modified_base	21	61	n/a	non-coding
+TCGA	DIR	3135486..3135489	3135486	Yes	modified_base	21	55	n/a	non-coding
+AGCT	REV	3134842..3134845	3134845	Yes	modified_base	22	46	202	'SIVHX_3348' [3134061..3135047]; 'DppC'; 'ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+TCGA	DIR	3125130..3125133	3125130	Yes	modified_base	22	35	n/a	non-coding
+TCGA	DIR	3120993..3120996	3120993	Yes	modified_base	22	33	496	'SIVHX_3337' [3120497..3121315]; 'MhpC'; 'Alpha/beta superfamily hydrolase'
+TCGA	DIR	3114276..3114279	3114276	Yes	modified_base	21	46	n/a	non-coding
+TCGA	DIR	3105879..3105882	3105879	Yes	modified_base	25	65	n/a	non-coding
+TCGA	DIR	3690760..3690763	3690760	Yes	modified_base	27	107	357	'SIVHX_5036' [3690403..3690948]; 'ArsR'; 'Transcriptional regulator containing HTH domain, ArsR family
+TCGA	DIR	3691545..3691548	3691545	Yes	modified_base	24	148	n/a	non-coding
+AGCT	REV	3694486..3694489	3694489	Yes	modified_base	31	113	187	'SIVHX_5041' [3694470..3694676]; 'RAYT'; 'REP element-mobilizing transposase RayT'
+AGCT	REV	3695517..3695520	3695520	Yes	modified_base	23	110	n/a	non-coding
+TCGA	DIR	3700223..3700226	3700223	Yes	modified_base	30	94	n/a	non-coding
+TCGA	DIR	3701722..3701725	3701722	Yes	modified_base	22	83	343	'SIVHX_5049' [3701379..3703115]; 'Cell surface protein'
+TCGA	DIR	3702342..3702345	3702342	Yes	modified_base	21	80	963	'SIVHX_5049' [3701379..3703115]; 'Cell surface protein'
+AGCT	REV	3702457..3702460	3702460	Yes	modified_base	23	89	n/a	non-coding
+TCGA	DIR	3705488..3705491	3705488	Yes	modified_base	27	66	466	'SIVHX_5052' [3705022..3706143]; 'Uncharacterized membrane protein'
+AGCT	REV	3705488..3705491	3705491	Yes	modified_base	21	61	n/a	non-coding
+TCGA	DIR	3706913..3706916	3706913	Yes	modified_base	23	81	777	'SIVHX_5053' [3706136..3708340]; 'VirB4'; 'Type IV secretory pathway, VirB4 component'
+AGCT	REV	3707887..3707890	3707890	Yes	modified_base	23	68	n/a	non-coding
+AGCT	REV	3714040..3714043	3714043	Yes	modified_base	23	65	n/a	non-coding
+TCGA	DIR	3716967..3716970	3716967	Yes	modified_base	27	72	302	'SIVHX_5058' [3716665..3717105]; 'Uncharacterized protein'
+TCGA	DIR	3719414..3719417	3719414	Yes	modified_base	26	79	n/a	non-coding
+TCGA	DIR	3722335..3722338	3722335	Yes	modified_base	21	89	472	'SIVHX_5064' [3721863..3723308]; 'MerA'; 'Mercuric reductase'
+TCGA	DIR	3722551..3722554	3722551	Yes	modified_base	25	92	688	'SIVHX_5064' [3721863..3723308]; 'MerA'; 'Mercuric reductase'
+TCGA	DIR	3722749..3722752	3722749	Yes	modified_base	32	91	886	'SIVHX_5064' [3721863..3723308]; 'MerA'; 'Mercuric reductase'
+AGCT	REV	3722749..3722752	3722752	Yes	modified_base	24	86	n/a	non-coding
+AGCT	REV	3728324..3728327	3728327	Yes	modified_base	26	60	n/a	non-coding
+AGCT	REV	3728339..3728342	3728342	Yes	modified_base	22	62	n/a	non-coding
+TCGA	DIR	3733050..3733053	3733050	Yes	modified_base	22	72	375	'SIVHX_5077' [3732675..3734087]; 'Arylsulfatase A'
+TCGA	DIR	3735551..3735554	3735551	Yes	modified_base	23	75	1246	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3735647..3735650	3735647	Yes	modified_base	21	75	1342	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3735841..3735844	3735841	Yes	modified_base	24	76	1536	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3735953..3735956	3735953	Yes	modified_base	24	72	1648	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+AGCT	REV	3735953..3735956	3735956	Yes	modified_base	23	71	n/a	non-coding
+TCGA	DIR	3735962..3735965	3735962	Yes	modified_base	25	75	1657	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3735995..3735998	3735995	Yes	modified_base	37	73	1690	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3736019..3736022	3736019	Yes	modified_base	22	68	1714	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+AGCT	REV	3736019..3736022	3736022	Yes	modified_base	22	65	n/a	non-coding
+TCGA	DIR	3736265..3736268	3736265	Yes	modified_base	32	72	1960	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+TCGA	DIR	3736274..3736277	3736274	Yes	modified_base	29	78	1969	'SIVHX_5078' [3734305..3736650]; 'Uncharacterized protein containing  right handed beta helix region
+AGCT	REV	3739343..3739346	3739346	Yes	modified_base	27	80	274	'SIVHX_5080' [3738550..3739620]; 'Gfo/Idh/MocA family oxidoreductase'
+TCGA	DIR	3739472..3739475	3739472	Yes	modified_base	24	77	n/a	non-coding
+TCGA	DIR	3739785..3739788	3739785	Yes	modified_base	29	75	n/a	non-coding
+TCGA	DIR	3739917..3739920	3739917	Yes	modified_base	36	75	n/a	non-coding
+TCGA	DIR	3739989..3739992	3739989	Yes	modified_base	22	75	n/a	non-coding
+TCGA	DIR	3740011..3740014	3740011	Yes	modified_base	24	74	n/a	non-coding
+TCGA	DIR	3740034..3740037	3740034	Yes	modified_base	29	70	n/a	non-coding
+TCGA	DIR	3740136..3740139	3740136	Yes	modified_base	25	71	n/a	non-coding
+AGCT	REV	3740493..3740496	3740496	Yes	modified_base	36	85	862	'SIVHX_5081' [3739760..3741358]; 'NosL family protein'
+AGCT	REV	3034311..3034314	3034314	Yes	modified_base	24	74	1210	'SIVHX_3246' [3034010..3035524]; 'S-layer domain'
+AGCT	REV	3033765..3033768	3033768	Yes	modified_base	21	68	245	'SIVHX_3245' [3033351..3034013]; 'SalX'; 'ABC-type antimicrobial peptide transport system, ATPase component
+TCGA	DIR	3029745..3029748	3029745	Yes	modified_base	21	68	n/a	non-coding
+AGCT	REV	3029475..3029478	3029478	Yes	modified_base	27	79	1250	'SIVHX_3241' [3027951..3030728]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+AGCT	REV	3029386..3029389	3029389	Yes	modified_base	24	84	1339	'SIVHX_3241' [3027951..3030728]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+AGCT	REV	3028834..3028837	3028837	Yes	modified_base	23	94	1891	'SIVHX_3241' [3027951..3030728]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+AGCT	REV	3028333..3028336	3028336	Yes	modified_base	25	92	2392	'SIVHX_3241' [3027951..3030728]; 'AglB'; 'Dolichyl-phosphooligosaccharide-protein glycotransferase
+TCGA	DIR	3023855..3023858	3023855	Yes	modified_base	40	80	n/a	non-coding
+AGCT	REV	3023808..3023811	3023811	Yes	modified_base	32	76	1272	'SIVHX_3236' [3023482..3025083]; 'IS4 transposase'
+AGCT	REV	3023767..3023770	3023770	Yes	modified_base	32	80	1313	'SIVHX_3236' [3023482..3025083]; 'IS4 transposase'
+TCGA	DIR	3145008..3145011	3145008	Yes	modified_base	22	63	n/a	non-coding
+TCGA	DIR	3021362..3021365	3021362	Yes	modified_base	22	69	n/a	non-coding
+TCGA	DIR	3021270..3021273	3021270	Yes	modified_base	24	71	n/a	non-coding
+AGCT	REV	3017896..3017899	3017899	Yes	modified_base	21	77	652	'SIVHX_3228' [3017727..3018551]; 'SWIM zinc finger containing protein'
+TCGA	DIR	3017198..3017201	3017198	Yes	modified_base	24	60	n/a	non-coding
+TCGA	DIR	3016493..3016496	3016493	Yes	modified_base	25	51	n/a	non-coding
+AGCT	REV	3015226..3015229	3015229	Yes	modified_base	24	65	n/a	non-coding
+AGCT	REV	3014310..3014313	3014313	Yes	modified_base	24	61	n/a	non-coding
+TCGA	DIR	3013151..3013154	3013151	Yes	modified_base	34	62	805	'SIVHX_3221' [3012346..3013578]; 'PKD repeats containing protein'
+TCGA	DIR	3012584..3012587	3012584	Yes	modified_base	24	60	238	'SIVHX_3221' [3012346..3013578]; 'PKD repeats containing protein'
+TCGA	DIR	3010739..3010742	3010739	Yes	modified_base	21	72	n/a	non-coding
+TCGA	DIR	3010111..3010114	3010111	Yes	modified_base	22	74	n/a	non-coding
+AGCT	REV	3007499..3007502	3007502	Yes	modified_base	28	77	95	'SIVHX_3213' [3007256..3007597]; 'PemK/MazF family  toxin'
+AGCT	REV	3006854..3006857	3006857	Yes	modified_base	23	83	172	'SIVHX_3212' [3006844..3007029]; 'Uncharacterized protein'
+AGCT	REV	3004227..3004230	3004230	Yes	modified_base	22	67	n/a	non-coding
+AGCT	REV	3004101..3004104	3004104	Yes	modified_base	22	67	n/a	non-coding
+AGCT	REV	3060116..3060119	3060119	Yes	modified_base	21	65	463	'SIVHX_3275' [3059923..3060582]; 'Transcriptional regulator, ArsR family'
+AGCT	REV	3057257..3057260	3057260	Yes	modified_base	32	77	562	'SIVHX_3271' [3056896..3057822]; 'Zincin superfamily protease'
+TCGA	DIR	3057257..3057260	3057257	Yes	modified_base	28	73	n/a	non-coding
+AGCT	REV	3056861..3056864	3056864	Yes	modified_base	22	77	n/a	non-coding
+AGCT	REV	2999362..2999365	2999365	Yes	modified_base	22	62	271	'SIVHX_3203' [2998974..2999636]; 'Uncharacterized protein'
+TCGA	DIR	2999405..2999408	2999405	Yes	modified_base	21	67	n/a	non-coding
+AGCT	REV	3764619..3764622	3764622	Yes	modified_base	21	106	354	'SIVHX_5104' [3764401..3764976]; 'ArsR'; 'Transcriptional regulator containing HTH domain, ArsR family
+TCGA	DIR	2966122..2966125	2966122	Yes	modified_base	22	66	n/a	non-coding
+TCGA	DIR	2966461..2966464	2966461	Yes	modified_base	23	61	n/a	non-coding
+TCGA	DIR	2966719..2966722	2966719	Yes	modified_base	23	63	n/a	non-coding
+AGCT	REV	2967436..2967439	2967439	Yes	modified_base	22	67	253	'SIVHX_3156' [2965758..2967692]; 'ArsA'; 'Arsenite-transporting ATPase'
+TCGA	DIR	2993100..2993103	2993100	Yes	modified_base	22	54	n/a	non-coding
+AGCT	REV	2993013..2993016	2993016	Yes	modified_base	26	61	529	'SIVHX_3196' [2992358..2993545]; 'SUA7'; 'Transcription initiation factor TFIIB, Brf1 subunit/Transcription initiation factor TFIIB
+TCGA	DIR	2992786..2992789	2992786	Yes	modified_base	22	55	n/a	non-coding
+TCGA	DIR	2992745..2992748	2992745	Yes	modified_base	21	52	n/a	non-coding
+AGCT	REV	2987606..2987609	2987609	Yes	modified_base	31	77	88	'SIVHX_3187' [2987512..2987697]; 'Uncharacterized protein'
+AGCT	REV	2987570..2987573	2987573	Yes	modified_base	25	77	124	'SIVHX_3187' [2987512..2987697]; 'Uncharacterized protein'
+TCGA	DIR	2953791..2953794	2953791	Yes	modified_base	23	93	n/a	non-coding
+AGCT	REV	2958150..2958153	2958153	Yes	modified_base	23	76	n/a	non-coding
+TCGA	DIR	2958255..2958258	2958255	Yes	modified_base	23	71	607	'SIVHX_3147' [2957648..2961553]; 'Signal transduction histidine kinase with PAS and REC domains
+TCGA	DIR	2959011..2959014	2959011	Yes	modified_base	25	71	1363	'SIVHX_3147' [2957648..2961553]; 'Signal transduction histidine kinase with PAS and REC domains
+AGCT	REV	2959570..2959573	2959573	Yes	modified_base	25	76	n/a	non-coding
+TCGA	DIR	2960538..2960541	2960538	Yes	modified_base	22	76	2890	'SIVHX_3147' [2957648..2961553]; 'Signal transduction histidine kinase with PAS and REC domains
+AGCT	REV	3101731..3101734	3101734	Yes	modified_base	24	78	242	'SIVHX_3322' [3101071..3101976]; 'PetE'; 'Halocyanin'
+TCGA	DIR	3101666..3101669	3101666	Yes	modified_base	21	62	n/a	non-coding
+AGCT	REV	3101516..3101519	3101519	Yes	modified_base	21	76	457	'SIVHX_3322' [3101071..3101976]; 'PetE'; 'Halocyanin'
+TCGA	DIR	3101516..3101519	3101516	Yes	modified_base	33	58	n/a	non-coding
+TCGA	DIR	2661275..2661278	2661275	Yes	modified_base	23	84	n/a	non-coding
+AGCT	REV	2661389..2661392	2661392	Yes	modified_base	25	80	-75,1120	'SIVHX_2818' [2659998..2661317]; 'Uncharacterized secreted protein'|'SIVHX_2819' [2661367..2662512]; 'Predicted transciptional regulator, contains Fic and DeoR-like domains
+AGCT	REV	2663273..2663276	2663276	Yes	modified_base	24	74	n/a	non-coding
+AGCT	REV	2664048..2664051	2664051	Yes	modified_base	30	76	n/a	non-coding
+AGCT	REV	2664117..2664120	2664120	Yes	modified_base	21	71	n/a	non-coding
+TCGA	DIR	2665610..2665613	2665610	Yes	modified_base	26	72	n/a	non-coding
+AGCT	REV	2667912..2667915	2667915	Yes	modified_base	32	58	349	'SIVHX_2822' [2667605..2668264]; 'HpxA'; 'Hydantoin racemase'
+AGCT	REV	2669278..2669281	2669281	Yes	modified_base	26	47	-40,904	'SIVHX_2823' [2668264..2669241]; 'NfnB'; 'Nitroreductase'|'SIVHX_2824' [2669238..2670185]; 'AmpS'; 'Leucyl aminopeptidase (aminopeptidase T)'
+TCGA	DIR	2669545..2669548	2669545	Yes	modified_base	23	56	n/a	non-coding
+TCGA	DIR	2669623..2669626	2669623	Yes	modified_base	22	52	n/a	non-coding
+TCGA	DIR	2670052..2670055	2670052	Yes	modified_base	21	52	n/a	non-coding
+TCGA	DIR	2672062..2672065	2672062	Yes	modified_base	22	56	n/a	non-coding
+AGCT	REV	2674996..2674999	2674999	Yes	modified_base	22	68	502	'SIVHX_2830' [2674359..2675501]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+AGCT	REV	2675416..2675419	2675419	Yes	modified_base	23	58	82	'SIVHX_2830' [2674359..2675501]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+TCGA	DIR	2682617..2682620	2682617	Yes	modified_base	27	61	424	'SIVHX_2838' [2682193..2683155]; 'Uncharacterized protein'
+AGCT	REV	2683599..2683602	2683602	Yes	modified_base	29	54	628	'SIVHX_2839' [2683229..2684230]; 'Flippase-like domain-containing protein'
+AGCT	REV	2688592..2688595	2688595	Yes	modified_base	29	67	154	'SIVHX_2844' [2687763..2688749]; 'TrxB'; 'Thioredoxin reductase'
+AGCT	REV	2693161..2693164	2693164	Yes	modified_base	21	60	n/a	non-coding
+AGCT	REV	2696556..2696559	2696559	Yes	modified_base	24	64	76	'SIVHX_2855' [2696450..2696635]; 'hypothetical protein'
+TCGA	DIR	2696650..2696653	2696650	Yes	modified_base	25	65	n/a	non-coding
+AGCT	REV	2707384..2707387	2707387	Yes	modified_base	23	64	1315	'SIVHX_2865' [2706090..2708702]; 'ValS'; 'Valyl-tRNA synthetase'
+TCGA	DIR	2709038..2709041	2709038	Yes	modified_base	26	63	n/a	non-coding
+TCGA	DIR	2715801..2715804	2715801	Yes	modified_base	21	43	781	'SIVHX_2870' [2715020..2716069]; 'Ala'; 'Alanine dehydrogenase'
+AGCT	REV	2718347..2718350	2718350	Yes	modified_base	30	49	349	'SIVHX_2872' [2717680..2718699]; 'EndA'; 'tRNA splicing endonuclease'
+AGCT	REV	2722306..2722309	2722309	Yes	modified_base	25	64	478	'SIVHX_2875' [2720439..2722787]; 'Replicative superfamily II helicase'
+AGCT	REV	2727149..2727152	2727152	Yes	modified_base	24	64	n/a	non-coding
+TCGA	DIR	2728831..2728834	2728831	Yes	modified_base	21	68	517	'SIVHX_2880' [2728314..2729741]; 'PdhD'; 'Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
+TCGA	DIR	2729188..2729191	2729188	Yes	modified_base	22	66	874	'SIVHX_2880' [2728314..2729741]; 'PdhD'; 'Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
+AGCT	REV	2736849..2736852	2736852	Yes	modified_base	24	53	118	'SIVHX_2890' [2736599..2736970]; 'Transcriptional regulator, contains HTH domain'
+AGCT	REV	2740011..2740014	2740014	Yes	modified_base	21	43	1351	'SIVHX_2896' [2739542..2741365]; 'CstA'; 'Carbon starvation protein, predicted membrane protein
+AGCT	REV	2743199..2743202	2743202	Yes	modified_base	22	56	n/a	non-coding
+TCGA	DIR	2745093..2745096	2745093	Yes	modified_base	28	74	601	'SIVHX_2901' [2744492..2745172]; 'Upp'; 'Uracil phosphoribosyltransferase'
+AGCT	REV	2752305..2752308	2752308	Yes	modified_base	25	58	-33	'SIVHX_2913' [2751907..2752275]; 'HisI'; 'Phosphoribosyl-AMP cyclohydrolase'
+AGCT	REV	2759795..2759798	2759798	Yes	modified_base	21	56	490	'SIVHX_2920' [2758969..2760288]; 'MetY'; 'O-acetylhomoserine (thiol)-lyase'
+TCGA	DIR	2761256..2761259	2761256	Yes	modified_base	21	55	790	'SIVHX_2921' [2760466..2762565]; 'LigA'; 'NAD-dependent DNA ligase'
+TCGA	DIR	2763838..2763841	2763838	Yes	modified_base	24	60	n/a	non-coding
+AGCT	REV	2771088..2771091	2771091	Yes	modified_base	26	67	2452	'SIVHX_2931' [2770967..2773543]; 'MPH1'; 'ERCC4-like helicase'
+TCGA	DIR	2771367..2771370	2771367	Yes	modified_base	22	55	n/a	non-coding
+AGCT	REV	2771839..2771842	2771842	Yes	modified_base	21	65	1701	'SIVHX_2931' [2770967..2773543]; 'MPH1'; 'ERCC4-like helicase'
+TCGA	DIR	2772648..2772651	2772648	Yes	modified_base	31	57	n/a	non-coding
+TCGA	DIR	3541700..3541703	3541700	Yes	modified_base	22	53	162	'SIVHX_4187' [3541538..3542494]; 'KdgK'; '2-dehydro-3-deoxygluconokinase'
+AGCT	REV	3539888..3539891	3539891	Yes	modified_base	21	64	1414	'SIVHX_4186' [3539314..3541305]; 'BgaH'; 'Beta-galactosidase, glycosyl hydrolase family 42
+AGCT	REV	3539366..3539369	3539369	Yes	modified_base	29	70	1936	'SIVHX_4186' [3539314..3541305]; 'BgaH'; 'Beta-galactosidase, glycosyl hydrolase family 42
+AGCT	REV	3537264..3537267	3537267	Yes	modified_base	29	71	n/a	non-coding
+AGCT	REV	3536887..3536890	3536890	Yes	modified_base	25	69	n/a	non-coding
+AGCT	REV	3511362..3511365	3511365	Yes	modified_base	21	45	511	'SIVHX_4157' [3511172..3511876]; 'Predicted esterase'
+TCGA	DIR	3498142..3498145	3498142	Yes	modified_base	23	31	n/a	non-coding
+TCGA	DIR	3477846..3477849	3477846	Yes	modified_base	21	47	n/a	non-coding
+AGCT	REV	3477395..3477398	3477398	Yes	modified_base	21	48	301	'SIVHX_4122' [3477256..3477699]; 'PaaD'; 'Metal-sulfur cluster biosynthetic enzyme'
+AGCT	REV	3476681..3476684	3476684	Yes	modified_base	31	53	n/a	non-coding
+AGCT	REV	3466795..3466798	3466798	Yes	modified_base	21	34	n/a	non-coding
+TCGA	DIR	3463618..3463621	3463618	Yes	modified_base	24	39	n/a	non-coding
+AGCT	REV	3451342..3451345	3451345	Yes	modified_base	21	39	n/a	non-coding
+TCGA	DIR	3424555..3424558	3424555	Yes	modified_base	22	32	526	'SIVHX_4069' [3424029..3424979]; 'HutG'; 'Formiminoglutamase'
+TCGA	DIR	3417359..3417362	3417359	Yes	modified_base	24	41	691	'SIVHX_4062' [3416668..3417627]; 'HmgL'; 'Hydroxymethylglutaryl-CoA lyase'
+AGCT	REV	3415755..3415758	3415758	Yes	modified_base	29	54	n/a	non-coding
+TCGA	DIR	3404808..3404811	3404808	Yes	modified_base	21	53	n/a	non-coding
+TCGA	DIR	3398525..3398528	3398525	Yes	modified_base	22	50	n/a	non-coding
+TCGA	DIR	3397268..3397271	3397268	Yes	modified_base	22	41	n/a	non-coding
+TCGA	DIR	3386296..3386299	3386296	Yes	modified_base	27	52	n/a	non-coding
+TCGA	DIR	3382782..3382785	3382782	Yes	modified_base	25	48	109	'SIVHX_4029' [3382673..3383314]; 'Fno'; '8-hydroxy-5-deazaflavin:NADPH oxidoreductase'
+AGCT	REV	3381236..3381239	3381239	Yes	modified_base	24	47	n/a	non-coding
+AGCT	REV	3369150..3369153	3369153	Yes	modified_base	23	33	442	'SIVHX_4015' [3369023..3369595]; 'Uncharacterized protein'
+AGCT	REV	3355612..3355615	3355615	Yes	modified_base	21	37	691	'SIVHX_4002' [3355191..3356306]; 'SufS'; 'Cysteine desulfurase/selenocysteine lyase'
+AGCT	REV	3637280..3637283	3637283	Yes	modified_base	22	39	946	'SIVHX_4263' [3636955..3638229]; 'CDC6'; 'Cdc6-related protein, AAA superfamily ATPase'
+TCGA	DIR	3609379..3609382	3609379	Yes	modified_base	22	53	n/a	non-coding
+TCGA	DIR	3607798..3607801	3607798	Yes	modified_base	21	42	n/a	non-coding
+TCGA	DIR	3606787..3606790	3606787	Yes	modified_base	23	39	844	'SIVHX_4239' [3605943..3606992]; 'Membrane associated protein with extracellular Ig-like domain, a component of a putative secretion system
+AGCT	REV	3580190..3580193	3580193	Yes	modified_base	22	46	805	'SIVHX_4215' [3578872..3580998]; 'NrfD'; 'Formate-dependent nitrite reductase, membrane component
+AGCT	REV	3566780..3566783	3566783	Yes	modified_base	23	52	n/a	non-coding
+AGCT	REV	3564371..3564374	3564374	Yes	modified_base	25	49	n/a	non-coding
+TCGA	DIR	3562712..3562715	3562712	Yes	modified_base	21	41	1201	'SIVHX_4203' [3561511..3562758]; 'XerD/XerC family integrase'
+AGCT	REV	3561180..3561183	3561183	Yes	modified_base	27	45	121	'SIVHX_4202' [3559835..3561304]; 'PotE'; 'Amino acid transporter'
+TCGA	DIR	3559631..3559634	3559631	Yes	modified_base	22	43	n/a	non-coding
+TCGA	DIR	3556719..3556722	3556719	Yes	modified_base	21	41	1054	'SIVHX_4199' [3555665..3556912]; 'Amidase (hydantoinase/carbamoylase family)'
+TCGA	DIR	3556575..3556578	3556575	Yes	modified_base	24	40	910	'SIVHX_4199' [3555665..3556912]; 'Amidase (hydantoinase/carbamoylase family)'
+AGCT	REV	3551497..3551500	3551500	Yes	modified_base	26	38	211	'SIVHX_4195' [3549558..3551711]; 'DppD'; 'ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+AGCT	REV	3545039..3545042	3545042	Yes	modified_base	30	52	n/a	non-coding
+AGCT	REV	3545006..3545009	3545009	Yes	modified_base	22	52	n/a	non-coding

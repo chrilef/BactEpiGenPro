@@ -1,0 +1,19 @@
+66e41e83db528_filtered_S.aureus_150.gbk
+
+Number of motifs found in reference sequence: 60
+Number of filtered motifs in reference sequence after masking: 60
+Expected number of methylated sites: 180
+Number of sites found in GFF file: 4
+Number of masked sites taken from GFF file: 0
+Number of sites prdecited in GFF file and not found: 0
+Number of sites found in GFF file, which were not present in the reference sequence: 0
+Total number of instances: 60
+Total number of modified sites: 4
+	metylated at location 1 = 4
+CRGTGATC modified at 1,6 and 7; 	4/60	
+
+Motif	Strand	Location	Match	Description	Location relative to TSS	Annotation
+CGGTGATC	DIR	1111513..1111520	Yes	modified_base	DIR	41	158	211	'SA150_1025' [1111302..1111976]; 'Pyridoxal phosphate-containing protein YggS'
+CGGTGATC	DIR	1848900..1848907	Yes	modified_base	DIR	26	151	398	'SA150_1713' [1848502..1850112]; 'hypothetical protein( EC:3.4.24.69 )'
+CGGTGATC	DIR	2568288..2568295	Yes	modified_base	DIR	35	197	n/a	non-coding
+CAGTGATC	DIR	563794..563801	Yes	modified_base	DIR	32	168	1249	'SA150_0483' [562545..564017]; 'Probable poly(Glycerol-phosphate) alpha-glucosyltransferase (EC 2.4.1.52)

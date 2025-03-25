@@ -1,0 +1,39 @@
+
+############################################################
+STATISTICS: CP042865, 38423 modified nucleotides
+	filtered by motifs A,C GatC,2,-2.
+
+		Locations of modified bases were VERIFIED
+	Genome properties:
+		GC	correlation SP	0.38 [from 0.34 to 0.42] with p-value = 0.000
+		GCS	correlation SP	-0.04 [from -0.07 to 0.01] with p-value = 0.087
+
+	Distribution across MGE:
+		[80442..88275];
+		[228483..231798];
+		[693527..697823];
+		[887622..899371];
+		[1096980..1107072];
+		[1397250..1403041];
+		[1414701..1418708];
+		[1777613..1784360];
+		[2664639..2675498];
+		[2684710..2688209];
+		[3080792..3084592];
+		[3351501..3370070];
+		[3644001..3654007];
+
+	Z-score: -9.31 ± 0.03 with p-value = 0.000
+			expected / observed: 825 / 558
+
+	Distribution across coding:
+		Z-score: 8.96 ± 0.01 with p-value = 0.000
+			expected / observed: 16771 / 17932
+
+	Distribution across promoter:
+		Z-score: -18.03 ± 0.03 with p-value = 0.000
+			expected / observed: 1047 / 464
+
+	Distribution across noncoding:
+		Z-score: -4.02 ± 0.01 with p-value = 0.000
+			expected / observed: 20604 / 20027

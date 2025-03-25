@@ -1,0 +1,16 @@
+
+Genome Haloferax
+Motif CRGKGATC is modified at sites 6, 2, 1, -1;
+7 modified sites were identified out of 297 found motifs;
+	modified at location 6 = 1; modified at location 2 = 1; modified at location 1 = 3; modified at location -1 = 2;
+
+
+
+Motif	Strand	Location	Site	Match	Description	Score	Coverage	Site location relative to TSC	Annotation
+GATCACCG	REV	1394492..1394499	1394498	Yes	modified_base	23	47	987	'SIVHX_1501' [1394157..1395485]; 'GckA'; 'Glycerate kinase'
+CAGGGATC	DIR	3071461..3071468	3071461	Yes	modified_base	22	87	347	'SIVHX_3292' [3071114..3072364]; 'MgtE'; 'Mg/Co/Ni transporter MgtE (contains CBS domain)'
+CTAGTGGC	REV	3443804..3443811	3443811	Yes	modified_base	36	38	149	'SIVHX_4087' [3443469..3443960]; 'Transposase'
+CTAGGGAC	REV	2407800..2407807	2407807	Yes	modified_base	22	116	14	'SIVHX_2548' [2407462..2407821]; 'MazF'; 'Toxin-antitoxin addiction module toxin component MazF (an endoRNAse)
+CGGTGATC	DIR	2898286..2898293	2898286	Yes	modified_base	21	61	n/a	non-coding
+CGGTGATC	DIR	3230215..3230222	3230215	Yes	modified_base	23	45	641	'SIVHX_3431' [3229574..3231412]; 'IucC'; 'IucA/IucC family siderophore biosynthesis protein
+CAGGGATC	DIR	3071461..3071468	3071466	Yes	modified_base	33	89	352	'SIVHX_3292' [3071114..3072364]; 'MgtE'; 'Mg/Co/Ni transporter MgtE (contains CBS domain)'

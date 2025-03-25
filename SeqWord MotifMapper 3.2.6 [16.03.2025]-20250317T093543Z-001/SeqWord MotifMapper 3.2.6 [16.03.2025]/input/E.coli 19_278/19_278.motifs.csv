@@ -1,0 +1,2 @@
+motifString,centerPos,modificationType,fraction,nDetected,nGenome,groupTag,partnerMotifString,meanScore,meanIpdRatio,meanCoverage,objectiveScore
+GATC,2,m6A,0.998458,40793,40856,GATC,GATC,200.80794,5.4141636,123.104355,8180189.0

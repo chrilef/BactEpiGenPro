@@ -1,0 +1,52 @@
+
+Genome CP042865
+Motif cRGKGatCMCYg is modified at sites 6, 1, -1, -6;
+22 modified sites were identified out of 72 found motifs;
+	modified at location 6 = 9; modified at location 1 = 2; modified at location -1 = 2; modified at location -6 = 9;
+
+
+
+############################################################
+STATISTICS: CP042865, 22 modified nucleotides
+	filtered by motifs cRGKGatCMCYg,1,6,-1,-6.
+
+		Locations of modified bases were VERIFIED
+	Genome properties:
+		GC	correlation SP	0.01 [from -0.03 to 0.06] with p-value = 0.484
+		GCS	correlation SP	0.04 [from -0.01 to 0.08] with p-value = 0.076
+
+	Distribution across coding:
+		Z-score: -0.84 ± 0.32 with p-value = 0.401
+			expected / observed: 10 / 7
+
+	Distribution across promoter:
+		Z-score: 1.81 ± 1.29 with p-value = 0.071
+			expected / observed: 1 / 2
+
+	Distribution across noncoding:
+		Z-score: 0.35 ± 0.29 with p-value = 0.726
+			expected / observed: 12 / 13
+
+Motif	Strand	Location	Site	Match	Description	Score	Coverage	Site location relative to TSC	Annotation
+CGGGGATCACTG	DIR	38368..38379	38368	Yes	m4C	122	127	n/a	non-coding
+CGGTGATCACCG	DIR	2821322..2821333	2821322	Yes	m4C	84	114	n/a	non-coding
+CGGTGATCCCCG	REV	476720..476731	476731	Yes	m4C	96	128	886	'BAA196NC_0457' [476166..477617]; 'panF'; 'Sodium/panthothenate symporter'
+CGGGGATCACCG	REV	748174..748185	748185	Yes	m4C	40	106	n/a	non-coding
+CGGGGATCACTG	DIR	38368..38379	38373	Yes	m6A	188	130	n/a	non-coding
+CGGGGATCACCG	DIR	476720..476731	476725	Yes	m6A	212	139	n/a	non-coding
+CAGTGATCCCTG	DIR	490800..490811	490805	Yes	m6A	195	128	1839	'BAA196NC_0469' [488966..492766]; 'yhdP'; 'Uncharacterized protein'
+CAGGGATCACCG	DIR	502028..502039	502033	Yes	m6A	149	109	n/a	non-coding
+CGGTGATCCCCG	DIR	748174..748185	748179	Yes	m6A	209	129	1479	'BAA196NC_0717' [746700..748559]; 'gss'; 'Fused glutathionylspermidine amidase/glutathionylspermidine synthetase
+CAGTGATCACCG	DIR	2240980..2240991	2240985	Yes	m6A	155	96	n/a	non-coding
+CGGTGATCACCG	DIR	2821322..2821333	2821327	Yes	m6A	155	114	n/a	non-coding
+CGGTGATCCCTG	DIR	4163484..4163495	4163489	Yes	m6A	191	119	n/a	non-coding
+CAGTGATCCCTG	DIR	4677883..4677894	4677888	Yes	m6A	178	126	n/a	non-coding
+CAGTGATCCCCG	REV	38368..38379	38374	Yes	m6A	244	141	1686	'BAA196NC_0038' [38294..40060]; 'ade'; 'Cryptic adenine deaminase'
+CGGTGATCCCCG	REV	476720..476731	476726	Yes	m6A	179	123	891	'BAA196NC_0457' [476166..477617]; 'panF'; 'Sodium/panthothenate symporter'
+CAGGGATCACTG	REV	490800..490811	490806	Yes	m6A	178	122	n/a	non-coding
+CGGTGATCCCTG	REV	502028..502039	502034	Yes	m6A	237	122	990	'BAA196NC_0479' [501957..503024]; 'degS'; 'Outer membrane stress sensor protease'
+CGGGGATCACCG	REV	748174..748185	748180	Yes	m6A	160	121	n/a	non-coding
+CGGTGATCACTG	REV	2240980..2240991	2240986	Yes	m6A	160	109	n/a	non-coding
+CGGTGATCACCG	REV	2821322..2821333	2821328	Yes	m6A	130	92	456	'BAA196NC_2679' [2820543..2821784]; 'agp'; 'Glucose-1-phosphatase'
+CAGGGATCACCG	REV	4163484..4163495	4163490	Yes	m6A	220	136	-30	'BAA196NC_3950' [4162201..4163460]; 'hflK'; 'Uncharacterized protein'
+CAGGGATCACTG	REV	4677883..4677894	4677889	Yes	m6A	143	120	-34	'BAA196NC_4415' [4676440..4677855]; 'tnaA'; 'Tryptophanase'

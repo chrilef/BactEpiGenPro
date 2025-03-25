@@ -1,0 +1,628 @@
+
+Genome 598_chr
+Motif GWaGNNNNNGAt is modified at sites 3;
+598 modified sites were identified out of 1204 found motifs;
+	modified at location 3 = 598;
+
+
+
+############################################################
+STATISTICS: 598_chr, 598 modified nucleotides
+	filtered by motifs GWaGNNNNNGAt,3.
+
+		Locations of modified bases were VERIFIED
+	Genome properties:
+		GC	correlation SP	0.08 [from 0.02 to 0.13] with p-value = 0.003
+		GCS	correlation SP	0.56 [from 0.52 to 0.59] with p-value = 0.000
+
+	Distribution across coding:
+		Z-score: 15.53 ± 0.06 with p-value = 0.000
+			expected / observed: 246 / 490
+
+	Distribution across promoter:
+		Z-score: -2.36 ± 0.27 with p-value = 0.018
+			expected / observed: 14 / 5
+
+	Distribution across noncoding:
+		Z-score: -12.78 ± 0.05 with p-value = 0.000
+			expected / observed: 338 / 103
+
+Motif	Strand	Location	Site	Match	Description	Score	Coverage	Site location relative to TSC	Annotation
+GAAGACATTGAT	DIR	2397..2408	2399	Yes	m6A	499	394	659	[1740..2873]; 'DNA polymerase III beta subunit (EC 2.7.7.7)'
+GAAGAAGTTGAT	DIR	2676..2687	2678	Yes	m6A	513	394	938	[1740..2873]; 'DNA polymerase III beta subunit (EC 2.7.7.7)'
+GAAGACAAAGAT	DIR	5563..5574	5565	Yes	m6A	438	335	947	[4618..6552]; 'DNA gyrase subunit B (EC 5.99.1.3)'
+GAAGGTCCTGAT	DIR	7228..7239	7230	Yes	m6A	338	344	641	[6589..9249]; 'DNA gyrase subunit A (EC 5.99.1.3)'
+GTAGGGCTTGAT	DIR	8692..8703	8694	Yes	m6A	431	354	2105	[6589..9249]; 'DNA gyrase subunit A (EC 5.99.1.3)'
+GAAGTGATTGAT	DIR	9136..9147	9138	Yes	m6A	321	355	2549	[6589..9249]; 'DNA gyrase subunit A (EC 5.99.1.3)'
+GAAGTAAATGAT	DIR	9151..9162	9153	Yes	m6A	472	358	2564	[6589..9249]; 'DNA gyrase subunit A (EC 5.99.1.3)'
+GAAGAAAAGGAT	DIR	10973..10984	10975	Yes	m6A	402	357	500	[10475..11989]; 'Histidine ammonia-lyase (EC 4.3.1.3)'
+GAAGCAGAAGAT	DIR	11102..11113	11104	Yes	m6A	494	356	629	[10475..11989]; 'Histidine ammonia-lyase (EC 4.3.1.3)'
+GAAGTCATAGAT	DIR	15737..15748	15739	Yes	m6A	421	352	59	[15680..16648]; 'Homoserine O-acetyltransferase (EC 2.3.1.31)'
+GAAGAGCTTGAT	DIR	20855..20866	20857	Yes	m6A	440	313	521	[20336..21736]; 'Replicative DNA helicase (DnaB) (EC 3.6.4.12)'
+GTAGTTGATGAT	DIR	24505..24516	24507	Yes	m6A	399	337	20	[24487..25188]; 'Two-component response regulator SA14-24'
+GAAGGATACGAT	DIR	24559..24570	24561	Yes	m6A	383	339	74	[24487..25188]; 'Two-component response regulator SA14-24'
+GAAGACGGTGAT	DIR	27004..27015	27006	Yes	m6A	432	363	1805,-14	[25201..27027]; 'Two-component sensor kinase SA14-24'|[27020..28354]; 'Two-component system YycFG regulatory protein YycH
+GTAGAATATGAT	DIR	28304..28315	28306	Yes	m6A	446	341	1286,-49	[27020..28354]; 'Two-component system YycFG regulatory protein YycH|[28355..29143]; 'Two-component system YycFG regulatory protein YycI
+GAAGTTTACGAT	DIR	29950..29961	29952	Yes	m6A	411	355	412	[29540..30331]; 'Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication
+GTAGGTTATGAT	DIR	31197..31208	31199	Yes	m6A	511	351	641	[30558..32876]; 'Virulence-associated cell-wall-anchored protein SasH (LPXTG motif); 5'-nucleotidase (EC 3.1.3.5)
+GAAGGTTCTGAT	DIR	32670..32681	32672	Yes	m6A	401	359	2114	[30558..32876]; 'Virulence-associated cell-wall-anchored protein SasH (LPXTG motif); 5'-nucleotidase (EC 3.1.3.5)
+GAAGTAAAAGAT	DIR	41236..41247	41238	Yes	m6A	465	358	188,-25	[41050..41253]; 'FIG01108447: hypothetical protein'|[41263..41628]; 'FIG01108442: hypothetical protein'
+GAAGATTTGGAT	DIR	48067..48078	48069	Yes	m6A	413	374	1622	[46447..49599]; 'Superfamily I DNA/RNA helicase protein'
+GAAGTGTACGAT	DIR	54576..54587	54578	Yes	m6A	361	352	2138	[52440..54677]; 'Transcriptional regulator, AraC family'
+GAAGGGATAGAT	DIR	61348..61359	61350	Yes	m6A	345	348	n/a	non-coding
+GAAGAACCTGAT	DIR	71304..71315	71306	Yes	m6A	474	393	359	[70947..71927]; 'Siderophore staphylobactin biosynthesis protein SbnA
+GAAGACGATGAT	DIR	72809..72820	72811	Yes	m6A	550	407	887	[71924..72934]; 'Siderophore staphylobactin biosynthesis protein SbnB, cyclodeaminase
+GAAGGAAATGAT	DIR	77791..77802	77793	Yes	m6A	517	379	128	[77665..79443]; 'Siderophore staphylobactin biosynthesis protein SbnF @ Siderophore synthetase superfamily, group C
+GAAGATGAAGAT	DIR	80063..80074	80065	Yes	m6A	506	396	647	[79418..80194]; 'Siderophore staphylobactin biosynthesis protein SbnG
+GAAGATGAAGAT	DIR	80572..80583	80574	Yes	m6A	560	389	380	[80194..81396]; 'Siderophore staphylobactin biosynthesis protein SbnH
+GAAGTTGATGAT	DIR	80686..80697	80688	Yes	m6A	488	388	494	[80194..81396]; 'Siderophore staphylobactin biosynthesis protein SbnH
+GAAGCAGATGAT	DIR	81502..81513	81504	Yes	m6A	551	390	104	[81400..82164]; 'Siderophore staphylobactin biosynthesis protein SbnI
+GTAGGTGCAGAT	DIR	95610..95621	95612	Yes	m6A	428	373	518	[95094..95756]; 'Deoxyribose-phosphate aldolase (EC 4.1.2.4)'
+GAAGGCTTCGAT	DIR	95901..95912	95903	Yes	m6A	472	381	119	[95784..96962]; 'Phosphopentomutase (EC 5.4.2.7)'
+GTAGACTTTGAT	DIR	96630..96641	96632	Yes	m6A	542	390	848	[95784..96962]; 'Phosphopentomutase (EC 5.4.2.7)'
+GAAGATAACGAT	DIR	104901..104912	104903	Yes	m6A	338	322	746,-36	[104157..104933]; 'hypothetical protein'|[104939..106114]; 'Zn peptidase with DNA binding'
+GTAGTCATTGAT	DIR	107289..107300	107291	Yes	m6A	359	313	791	[106500..109109]; 'Acetaldehyde dehydrogenase (EC 1.2.1.10) / Alcohol dehydrogenase (EC 1.1.1.1)
+GAAGTAGAAGAT	DIR	112382..112393	112384	Yes	m6A	372	302	773	[111611..113434]; 'Probable polysaccharide biosynthesis protein EpsC
+GAAGTACTAGAT	DIR	116496..116507	116498	Yes	m6A	370	282	920	[115578..116702]; 'UDP-N-acetyl-L-fucosamine synthase (EC 5.1.3.28)'
+GAAGTCTAGGAT	DIR	120221..120232	120223	Yes	m6A	429	297	489	[119734..120972]; 'O-antigen flippase Wzx'
+GTAGCGTATGAT	DIR	122672..122683	122674	Yes	m6A	443	305	452	[122222..122779]; 'Capsular polysaccharide synthesis enzyme Cap8M'
+GAAGCATCTGAT	DIR	123930..123941	123932	Yes	m6A	449	347	212	[123720..124982]; 'UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+GAAGCAATTGAT	DIR	128630..128641	128632	Yes	m6A	498	347	1220	[127412..128899]; 'Aldehyde dehydrogenase B (EC 1.2.1.22)'
+GTAGAAGTTGAT	DIR	134348..134359	134350	Yes	m6A	396	308	50	[134300..135334]; 'Butyryl-CoA dehydrogenase (EC 1.3.8.1)'
+GAAGACTTAGAT	DIR	136216..136227	136218	Yes	m6A	380	311	287	[135931..137106]; 'NAD-dependent formate dehydrogenase (EC 1.2.1.2)'
+GAAGATTGCGAT	DIR	143278..143289	143280	Yes	m6A	481	392	4091	[139189..146364]; 'Polyketide synthase modules and related proteins'
+GAAGTAGTCGAT	DIR	157768..157779	157770	Yes	m6A	480	375	n/a	non-coding
+GAAGTGTTTGAT	DIR	160176..160187	160178	Yes	m6A	446	388	719	[159459..160514]; 'Outer surface protein of unknown function, cellobiose operon
+GAAGTTTTTGAT	DIR	163801..163812	163803	Yes	m6A	596	400	n/a	non-coding
+GAAGCAATTGAT	DIR	165820..165831	165822	Yes	m6A	510	401	1379	[164443..167232]; 'Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)
+GTAGCTATGGAT	DIR	167426..167437	167428	Yes	m6A	559	397	-4	[167432..168295]; 'hypothetical protein'
+GTAGGGATAGAT	DIR	172701..172712	172703	Yes	m6A	404	375	-10	[172713..174488]; 'RGD-containing lipoprotein'
+GTAGTGAAAGAT	DIR	178919..178930	178921	Yes	m6A	394	346	56	[178865..179962]; 'Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19); Maltodextrin ABC transporter, ATP-binding protein MsmX
+GAAGATATTGAT	DIR	180056..180067	180058	Yes	m6A	429	354	83	[179975..181246]; 'Maltodextrin ABC transporter, substrate-binding protein MdxE
+GAAGCAGCAGAT	DIR	182176..182187	182178	Yes	m6A	550	363	929	[181249..182517]; 'Maltodextrin ABC transporter, permease protein MdxF
+GAAGGTAATGAT	DIR	193494..193505	193496	Yes	m6A	292	353	113	[193383..195632]; 'Pyruvate formate-lyase (EC 2.3.1.54)'
+GAAGCGCCCGAT	DIR	196333..196344	196335	Yes	m6A	459	345	680	[195655..196410]; 'Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+GAAGAAGGAGAT	DIR	197479..197490	197481	Yes	m6A	461	339	749	[196732..198495]; 'membrane-anchoring domain / Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+GTAGTTTCAGAT	DIR	198903..198914	198905	Yes	m6A	434	306	n/a	non-coding
+GAAGCTGTTGAT	DIR	199649..199660	199651	Yes	m6A	485	324	458	[199193..201022]; 'Staphylocoagulase'
+GAAGAAACGGAT	DIR	210190..210201	210192	Yes	m6A	390	402	131	[210061..210732]; 'Glutamine amidotransferase, class I'
+GTAGGTTGGGAT	DIR	210382..210393	210384	Yes	m6A	575	410	323	[210061..210732]; 'Glutamine amidotransferase, class I'
+GAAGCGTTCGAT	DIR	216994..217005	216996	Yes	m6A	488	392	485	[216511..217464]; 'L-lactate dehydrogenase (EC 1.1.1.27)'
+GAAGGCATGGAT	DIR	218274..218285	218276	Yes	m6A	399	386	n/a	non-coding
+GAAGCAATTGAT	DIR	228519..228530	228521	Yes	m6A	567	363	419	[228102..228818]; 'Sugar-phosphate cytidylyltransferase'
+GAAGGCGTAGAT	DIR	229936..229947	229938	Yes	m6A	410	378	80	[229858..231552]; 'CDP-ribitol ribitolphosphotransferase (EC 2.7.8.14)
+GTAGATTTTGAT	DIR	230578..230589	230580	Yes	m6A	468	365	722	[229858..231552]; 'CDP-ribitol ribitolphosphotransferase (EC 2.7.8.14)
+GAAGTTAACGAT	DIR	231235..231246	231237	Yes	m6A	322	372	1379	[229858..231552]; 'CDP-ribitol ribitolphosphotransferase (EC 2.7.8.14)
+GAAGTTAATGAT	DIR	237094..237105	237096	Yes	m6A	412	364	1373	[235723..237411]; 'CDP-ribitol ribitolphosphotransferase (EC 2.7.8.14)
+GAAGGCATTGAT	DIR	238482..238493	238484	Yes	m6A	403	345	1040	[237444..239168]; 'Glycosyl transferase family protein, putative'
+GTAGTAACTGAT	DIR	239338..239349	239340	Yes	m6A	450	352	32	[239308..239982]; 'Repair of Iron Centers di-iron protein'
+GTAGTAGACGAT	DIR	239761..239772	239763	Yes	m6A	473	353	455	[239308..239982]; 'Repair of Iron Centers di-iron protein'
+GTAGTTAAAGAT	DIR	244681..244692	244683	Yes	m6A	525	353	362	[244321..246612]; 'Nitric-oxide reductase (EC 1.7.99.7), quinol-dependent
+GAAGTAAGAGAT	DIR	248070..248081	248072	Yes	m6A	377	339	383	[247689..248480]; 'PTS system, N-acetylglucosamine-specific IIA component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIB component (EC 2.7.1.193) / PTS system, N-acetylglucosamine-specific IIC component
+GAAGGTATTGAT	DIR	248676..248687	248678	Yes	m6A	343	331	182	[248496..249932]; '6-phospho-beta-glucosidase (EC 3.2.1.86)'
+GAAGTGGTAGAT	DIR	249648..249659	249650	Yes	m6A	296	342	1154	[248496..249932]; '6-phospho-beta-glucosidase (EC 3.2.1.86)'
+GAAGCAGTTGAT	DIR	249720..249731	249722	Yes	m6A	452	343	1226	[248496..249932]; '6-phospho-beta-glucosidase (EC 3.2.1.86)'
+GAAGTTGAAGAT	DIR	273682..273693	273684	Yes	m6A	477	368	2678	[271006..275454]; 'FtsK/SpoIIIE family protein, putative EssC/YukB component of Type VII secretion system
+GTAGAAACAGAT	DIR	273904..273915	273906	Yes	m6A	466	365	2900	[271006..275454]; 'FtsK/SpoIIIE family protein, putative EssC/YukB component of Type VII secretion system
+GAAGTCCAGGAT	DIR	274046..274057	274048	Yes	m6A	403	358	3042	[271006..275454]; 'FtsK/SpoIIIE family protein, putative EssC/YukB component of Type VII secretion system
+GAAGCATATGAT	DIR	274786..274797	274788	Yes	m6A	476	356	3782	[271006..275454]; 'FtsK/SpoIIIE family protein, putative EssC/YukB component of Type VII secretion system
+GTAGATTTGGAT	DIR	278916..278927	278918	Yes	m6A	394	358	425,-23	[278493..278948]; 'FIG01108876: hypothetical protein'|[278941..279399]; 'FIG01108312: hypothetical protein'
+GAAGGCATTGAT	DIR	288577..288588	288579	Yes	m6A	449	378	134	[288445..289494]; 'ABC transporter, permease protein'
+GTAGGTGATGAT	DIR	293779..293790	293781	Yes	m6A	404	390	922,-12	[292859..293782]; 'Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)|[293793..295013]; 'Probable pyrimidine nucleoside transport protein associated with pseudouridine catabolism
+GTAGATAACGAT	DIR	296225..296236	296227	Yes	m6A	504	404	n/a	non-coding
+GAAGAAGGTGAT	DIR	298335..298346	298337	Yes	m6A	511	405	608	[297729..298589]; 'N-acetylmannosamine kinase (EC 2.7.1.60)'
+GAAGGTGATGAT	DIR	298338..298349	298340	Yes	m6A	416	402	611	[297729..298589]; 'N-acetylmannosamine kinase (EC 2.7.1.60)'
+GAAGGTAAAGAT	DIR	302594..302605	302596	Yes	m6A	409	329	266	[302330..304405]; 'Lipase precursor (EC 3.1.1.3)'
+GAAGGTAAGGAT	DIR	307093..307104	307095	Yes	m6A	289	322	41	[307054..308055]; 'Luciferase-like monooxygenase in lipoylation-related cluster
+GAAGCAATGGAT	DIR	310617..310628	310619	Yes	m6A	542	361	485	[310134..311156]; 'Lipoate-protein ligase A'
+GAAGCACTGGAT	DIR	310707..310718	310709	Yes	m6A	555	362	575	[310134..311156]; 'Lipoate-protein ligase A'
+GAAGTGAAAGAT	DIR	310915..310926	310917	Yes	m6A	342	357	783	[310134..311156]; 'Lipoate-protein ligase A'
+GAAGAGGTAGAT	DIR	332055..332066	332057	Yes	m6A	411	348	230	[331827..332540]; 'hypothetical protein'
+GAAGAAACAGAT	DIR	332070..332081	332072	Yes	m6A	379	352	245	[331827..332540]; 'hypothetical protein'
+GTAGTGTTTGAT	DIR	332808..332819	332810	Yes	m6A	502	365	245	[332565..333407]; 'Efflux ABC transporter, ATP-binding protein'
+GAAGCTATTGAT	DIR	333014..333025	333016	Yes	m6A	554	367	451	[332565..333407]; 'Efflux ABC transporter, ATP-binding protein'
+GAAGATAAAGAT	DIR	333246..333257	333248	Yes	m6A	506	383	683	[332565..333407]; 'Efflux ABC transporter, ATP-binding protein'
+GTAGACGTTGAT	DIR	334422..334433	334424	Yes	m6A	495	350	n/a	non-coding
+GAAGACCATGAT	DIR	335257..335268	335259	Yes	m6A	438	375	n/a	non-coding
+GAAGAACAAGAT	DIR	336594..336605	336596	Yes	m6A	464	348	518	[336078..337259]; '3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+GTAGTGAACGAT	DIR	338262..338273	338264	Yes	m6A	216	366	n/a	non-coding
+GTAGCGAATGAT	DIR	344227..344238	344229	Yes	m6A	446	321	n/a	non-coding
+GAAGTGCCAGAT	DIR	347353..347364	347355	Yes	m6A	336	273	134	[347221..348318]; 'GTP-binding and nucleic acid-binding protein YchF
+GTAGCTAATGAT	DIR	361154..361165	361156	Yes	m6A	484	294	194	[360962..361303]; 'Hypothetical SAV0799 homolog in superantigen-encoding pathogenicity islands SaPI
+GAAGCTGTGGAT	DIR	370273..370284	370275	Yes	m6A	463	338	533	[369742..370323]; 'Phosphoglycerate mutase family protein'
+GTAGTCGATGAT	DIR	375777..375788	375779	Yes	m6A	471	328	n/a	non-coding
+GAAGTAAATGAT	DIR	390081..390092	390083	Yes	m6A	420	354	n/a	non-coding
+GAAGGTAAAGAT	DIR	393579..393590	393581	Yes	m6A	418	302	188	[393393..394073]; 'Exotoxin 6'
+GAAGATTTAGAT	DIR	399641..399652	399643	Yes	m6A	325	268	431	[399212..399907]; 'Exotoxin 1'
+GTAGAAATTGAT	DIR	399806..399817	399808	Yes	m6A	314	266	596	[399212..399907]; 'Exotoxin 1'
+GTAGAAAACGAT	DIR	401095..401106	401097	Yes	m6A	341	269	n/a	non-coding
+GAAGTCATAGAT	DIR	401942..401953	401944	Yes	m6A	277	281	635	[401309..401992]; 'Exotoxin 4'
+GAAGGGTTAGAT	DIR	405709..405720	405711	Yes	m6A	297	288	293	[405418..406116]; 'Exotoxin 15'
+GAAGATATCGAT	DIR	407050..407061	407052	Yes	m6A	374	282	917	[406135..407622]; 'Hypothetical protein within Pathogenicity island SaPIn2
+GAAGTAAAAGAT	DIR	409656..409667	409658	Yes	m6A	405	315	425	[409233..410006]; 'Tandem lipoprotein within Pathogenicity island'
+GAAGATAGGGAT	DIR	411591..411602	411593	Yes	m6A	434	327	716	[410877..411647]; 'Tandem lipoprotein within Pathogenicity island'
+GAAGATAGCGAT	DIR	412849..412860	412851	Yes	m6A	409	321	353	[412498..413292]; 'Tandem lipoprotein within Pathogenicity island'
+GTAGGTGAAGAT	DIR	415372..415383	415374	Yes	m6A	410	364	983	[414391..415599]; 'hypothetical protein'
+GTAGATAAAGAT	DIR	415552..415563	415554	Yes	m6A	450	361	1163,-42	[414391..415599]; 'hypothetical protein'|[415596..415919]; 'hypothetical protein'
+GAAGGCAGAGAT	DIR	426506..426517	426508	Yes	m6A	353	308	680	[425828..426562]; 'Esterase/lipase family protein'
+GTAGCGATCGAT	DIR	429385..429396	429387	Yes	m6A	386	348	849,-49	[428538..429443]; 'Cystathionine beta-synthase (EC 4.2.1.22)'|[429436..430578]; 'Cystathionine gamma-lyase (EC 4.4.1.1)'
+GTAGACATTGAT	DIR	432547..432558	432549	Yes	m6A	387	306	651,-45	[431898..432557]; 'Methionine ABC transporter permease protein'|[432594..433436]; 'Methionine ABC transporter substrate-binding protein
+GAAGCGAATGAT	DIR	440446..440457	440448	Yes	m6A	375	327	533	[439915..443994]; 'Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+GAAGCAGTGGAT	DIR	441274..441285	441276	Yes	m6A	512	354	1361	[439915..443994]; 'Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+GTAGGCGTTGAT	DIR	444684..444695	444686	Yes	m6A	325	335	674	[444012..445475]; 'Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+GAAGACAATGAT	DIR	445661..445672	445663	Yes	m6A	416	346	n/a	non-coding
+GAAGCGTTGGAT	DIR	452149..452160	452151	Yes	m6A	427	285	740	[451411..453108]; 'DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+GAAGGCGATGAT	DIR	453004..453015	453006	Yes	m6A	340	289	1595	[451411..453108]; 'DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+GTAGACCCAGAT	DIR	453381..453392	453383	Yes	m6A	354	283	185	[453198..453515]; 'Nucleoid-associated protein YaaK'
+GTAGGTGGCGAT	DIR	454047..454058	454049	Yes	m6A	300	280	527	[453522..454118]; 'Recombination protein RecR'
+GAAGGTGGGGAT	DIR	456292..456303	456294	Yes	m6A	304	273	n/a	non-coding
+GAAGCTGTGGAT	DIR	458280..458291	458282	Yes	m6A	472	302	n/a	non-coding
+GAAGCGTGCGAT	DIR	458569..458580	458571	Yes	m6A	396	303	n/a	non-coding
+GAAGCTGTTGAT	DIR	461492..461503	461494	Yes	m6A	443	291	880	[460614..461951]; 'Uncharacterized protein YaaO'
+GAAGGCAATGAT	DIR	462109..462120	462111	Yes	m6A	241	295	158	[461953..462570]; 'Thymidylate kinase (EC 2.7.4.9)'
+GAAGGTGATGAT	DIR	463207..463218	463209	Yes	m6A	470	333	68	[463141..464067]; 'DNA polymerase III delta prime subunit (EC 2.7.7.7)
+GAAGAATTTGAT	DIR	463699..463710	463701	Yes	m6A	446	341	560	[463141..464067]; 'DNA polymerase III delta prime subunit (EC 2.7.7.7)
+GTAGAGTTAGAT	DIR	464140..464151	464142	Yes	m6A	418	353	74	[464068..464871]; 'Stage 0 sporulation protein YaaT'
+GTAGACTTAGAT	DIR	469353..469364	469355	Yes	m6A	472	385	1754	[467601..469574]; 'Methionyl-tRNA synthetase (EC 6.1.1.10)'
+GAAGGACGAGAT	DIR	470572..470583	470574	Yes	m6A	476	400	29	[470545..471081]; 'Ribonuclease M5 (EC 3.1.26.8)'
+GTAGTACCAGAT	DIR	475069..475080	475071	Yes	m6A	452	332	257	[474814..475116]; 'DNA-binding protein SpoVG'
+GAAGAGAAAGAT	DIR	475918..475929	475920	Yes	m6A	393	321	461	[475459..476811]; 'N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+GAAGTCGTTGAT	DIR	479106..479117	479108	Yes	m6A	414	331	71	[479037..479609]; 'Peptidyl-tRNA hydrolase (EC 3.1.1.29)'
+GAAGAAGTCGAT	DIR	480254..480265	480256	Yes	m6A	381	331	647	[479609..483115]; 'Transcription-repair coupling factor'
+GTAGAGTCTGAT	DIR	480566..480577	480568	Yes	m6A	412	326	959	[479609..483115]; 'Transcription-repair coupling factor'
+GAAGATGCAGAT	DIR	482318..482329	482320	Yes	m6A	403	337	2711	[479609..483115]; 'Transcription-repair coupling factor'
+GAAGACGTTGAT	DIR	484621..484632	484623	Yes	m6A	380	292	1518,-8	[483105..484631]; 'FIG006789: Stage V sporulation protein'|[484631..485824]; 'possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+GAAGTGATTGAT	DIR	485348..485359	485350	Yes	m6A	324	298	719	[484631..485824]; 'possible tetrapyrrole methyltransferase domain / Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+GAAGACAAAGAT	DIR	486453..486464	486455	Yes	m6A	427	303	353	[486102..486494]; 'Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage
+GAAGTCGCAGAT	DIR	486707..486718	486709	Yes	m6A	376	300	110	[486599..487000]; 'RNA binding protein, contains ribosomal protein S1 domain
+GAAGAAAAAGAT	DIR	491245..491256	491247	Yes	m6A	330	308	1970	[489277..491370]; 'Cell division-associated, ATP-dependent zinc metalloprotease FtsH
+GTAGGAAATGAT	DIR	493576..493587	493578	Yes	m6A	457	330	734	[492844..493776]; 'Cysteine synthase (EC 2.5.1.47)'
+GAAGGTGGGGAT	DIR	500355..500366	500357	Yes	m6A	250	299	n/a	non-coding
+GAAGCTGTGGAT	DIR	502378..502389	502380	Yes	m6A	419	276	n/a	non-coding
+GAAGCGTGCGAT	DIR	502667..502678	502669	Yes	m6A	374	264	n/a	non-coding
+GAAGGTGGGGAT	DIR	505688..505699	505690	Yes	m6A	252	271	n/a	non-coding
+GAAGCTGTGGAT	DIR	507674..507685	507676	Yes	m6A	426	283	n/a	non-coding
+GAAGCGTGCGAT	DIR	507963..507974	507965	Yes	m6A	397	286	n/a	non-coding
+GAAGCAAGCGAT	DIR	509780..509791	509782	Yes	m6A	465	305	n/a	non-coding
+GAAGGATATGAT	DIR	518979..518990	518981	Yes	m6A	381	326	2261	[516720..519176]; 'ATP-dependent Clp protease, ATP-binding subunit ClpC
+GTAGATCATGAT	DIR	519099..519110	519101	Yes	m6A	435	326	2381	[516720..519176]; 'ATP-dependent Clp protease, ATP-binding subunit ClpC
+GTAGTTGTTGAT	DIR	521997..522008	521999	Yes	m6A	494	346	950	[521049..522122]; 'Membrane-associated protein containing RNA-binding TRAM domain and ribonuclease PIN-domain, YacL B.subtilis ortholog
+GAAGATACTGAT	DIR	522808..522819	522810	Yes	m6A	444	355	131	[522679..524133]; 'Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+GTAGCTATAGAT	DIR	523276..523287	523278	Yes	m6A	495	340	599	[522679..524133]; 'Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+GAAGTAATTGAT	DIR	526348..526359	526350	Yes	m6A	521	353	1163	[525187..526587]; 'Cysteinyl-tRNA synthetase (EC 6.1.1.16)'
+GAAGAAATGGAT	DIR	526796..526807	526798	Yes	m6A	399	342	218	[526580..526984]; 'Mini-ribonuclease III'
+GAAGGCTTAGAT	DIR	531951..531962	531953	Yes	m6A	473	346	209	[531744..532244]; 'LSU ribosomal protein L10p (P0)'
+GAAGCACGTGAT	DIR	536041..536052	536043	Yes	m6A	564	387	2390	[533653..537204]; 'DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+GAAGTAAAAGAT	DIR	536152..536163	536154	Yes	m6A	495	378	2501	[533653..537204]; 'DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+GAAGTTAGAGAT	DIR	536260..536271	536262	Yes	m6A	532	380	2609	[533653..537204]; 'DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+GAAGTTACTGAT	DIR	537190..537201	537192	Yes	m6A	394	374	3539	[533653..537204]; 'DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+GAAGAGATTGAT	DIR	537878..537889	537880	Yes	m6A	436	376	539	[537341..540964]; 'DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+GAAGCAGGTGAT	DIR	540596..540607	540598	Yes	m6A	534	362	3257	[537341..540964]; 'DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+GAAGCTGTAGAT	DIR	545402..545413	545404	Yes	m6A	472	329	581	[544823..546007]; 'Translation elongation factor Tu'
+GAAGCGGGCGAT	DIR	550670..550681	550672	Yes	m6A	375	279	539	[550133..551770]; 'Hypothetical sugar kinase similar to L-Ribulokinase (FGGY family)
+GAAGTGTTAGAT	DIR	552477..552488	552479	Yes	m6A	353	275	495	[551984..552949]; 'L-threonine 3-dehydrogenase (EC 1.1.1.103)'
+GAAGCAGACGAT	DIR	552662..552673	552664	Yes	m6A	401	281	680	[551984..552949]; 'L-threonine 3-dehydrogenase (EC 1.1.1.103)'
+GAAGTACGTGAT	DIR	557570..557581	557572	Yes	m6A	453	330	206	[557366..558235]; 'Hydrolase, HAD superfamily'
+GAAGTGACAGAT	DIR	560407..560418	560409	Yes	m6A	454	366	1157	[559252..561960]; 'Adhesin of unknown specificity SdrC'
+GTAGATTCTGAT	DIR	560959..560970	560961	Yes	m6A	479	362	1709	[559252..561960]; 'Adhesin of unknown specificity SdrC'
+GAAGAATTAGAT	DIR	564249..564260	564251	Yes	m6A	481	329	1928	[562323..566777]; 'Adhesin of unknown specificity SdrD'
+GAAGGTATAGAT	DIR	564912..564923	564914	Yes	m6A	418	327	2591	[562323..566777]; 'Adhesin of unknown specificity SdrD'
+GAAGGTATAGAT	DIR	565242..565253	565244	Yes	m6A	403	332	2921	[562323..566777]; 'Adhesin of unknown specificity SdrD'
+GAAGACGTTGAT	DIR	569004..569015	569006	Yes	m6A	449	355	1832	[567174..570569]; 'Adhesin of unknown specificity SdrE, similar to bone sialoprotein-binding protein Bbp
+GAAGATAAAGAT	DIR	569556..569567	569558	Yes	m6A	525	355	2384	[567174..570569]; 'Adhesin of unknown specificity SdrE, similar to bone sialoprotein-binding protein Bbp
+GTAGGTGTTGAT	DIR	583680..583691	583682	Yes	m6A	367	369	812	[582870..584009]; '3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+GTAGAGCGGGAT	DIR	585191..585202	585193	Yes	m6A	440	357	n/a	non-coding
+GAAGTTGATGAT	DIR	589632..589643	589634	Yes	m6A	394	299	1439	[588195..589679]; 'Cationic amino acid transporter'
+GAAGAACAAGAT	DIR	598389..598400	598391	Yes	m6A	411	302	287	[598104..598445]; 'DUF1450 superfamily protein'
+GAAGATAATGAT	DIR	616556..616567	616558	Yes	m6A	375	289	173	[616385..617104]; 'L-2-haloalkanoic acid dehalogenase'
+GAAGAAGTTGAT	DIR	617006..617017	617008	Yes	m6A	326	285	623	[616385..617104]; 'L-2-haloalkanoic acid dehalogenase'
+GAAGTAGCTGAT	DIR	617748..617759	617750	Yes	m6A	359	281	662	[617088..617888]; 'Predicted hydrolase'
+GTAGAGAAAGAT	DIR	631861..631872	631863	Yes	m6A	399	340	1451	[630412..632454]; 'Na+/H+ antiporter'
+GTAGCTAAAGAT	DIR	646732..646743	646734	Yes	m6A	556	329	n/a	non-coding
+GAAGAAAAAGAT	DIR	651519..651530	651521	Yes	m6A	416	324	689	[650832..651665]; 'UPF0750 membrane protein YxkD'
+GAAGTAGCAGAT	DIR	652205..652216	652207	Yes	m6A	362	310	260	[651947..652744]; 'Ferrichrome transport ATP-binding protein FhuC'
+GAAGTAAAGGAT	DIR	655697..655708	655699	Yes	m6A	370	334	668	[655031..655999]; 'Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), dihydroxyacetone binding subunit DhaK
+GAAGGGTGAGAT	DIR	670051..670062	670053	Yes	m6A	443	328	n/a	non-coding
+GTAGAATGTGAT	DIR	672308..672319	672310	Yes	m6A	448	310	n/a	non-coding
+GTAGATGAAGAT	DIR	677399..677410	677401	Yes	m6A	346	273	368	[677033..677677]; 'hypothetical protein'
+GTAGAAATTGAT	DIR	678533..678544	678535	Yes	m6A	417	269	740	[677795..678661]; 'Catabolite control protein E (CcpE), LysR family'
+GAAGATGGAGAT	DIR	681275..681286	681277	Yes	m6A	396	275	557	[680720..681958]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	681302..681313	681304	Yes	m6A	396	274	584	[680720..681958]; 'Transposase, IS4 family'
+GTAGATATTGAT	DIR	685404..685415	685406	Yes	m6A	369	286	164	[685242..685637]; 'Arsenate reductase (EC 1.20.4.4) thioredoxin-coupled, LMWP family
+GAAGATGGAGAT	DIR	690189..690200	690191	Yes	m6A	387	263	557	[689634..691280]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	690216..690227	690218	Yes	m6A	392	263	584	[689634..691280]; 'Transposase, IS4 family'
+GAAGATGATGAT	DIR	693262..693273	693264	Yes	m6A	375	250	254	[693010..693870]; 'Replication protein Rep'
+GAAGAAAACGAT	DIR	696563..696574	696565	Yes	m6A	305	284	356	[696209..696694]; 'Replication initiation protein A'
+GAAGATGATGAT	DIR	699583..699594	699585	Yes	m6A	462	311	n/a	non-coding
+GTAGAACTTGAT	DIR	701826..701837	701828	Yes	m6A	406	342	n/a	non-coding
+GAAGATGGAGAT	DIR	711446..711457	711448	Yes	m6A	355	285	557	[710891..712537]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	711473..711484	711475	Yes	m6A	386	285	584	[710891..712537]; 'Transposase, IS4 family'
+GAAGTGAAAGAT	DIR	715985..715996	715987	Yes	m6A	371	296	194	[715793..716182]; 'hypothetical protein'
+GTAGATAAGGAT	DIR	721966..721977	721968	Yes	m6A	416	288	26	[721942..723615]; 'Efflux ABC transporter for glutathione/L-cysteine, essential for assembly of bd-type respiratory oxidases => CydC subunit
+GAAGACATTGAT	DIR	728671..728682	728673	Yes	m6A	291	281	80	[728593..729966]; 'Deoxyribodipyrimidine photolyase (EC 4.1.99.3)'
+GAAGAATATGAT	DIR	728896..728907	728898	Yes	m6A	398	287	305	[728593..729966]; 'Deoxyribodipyrimidine photolyase (EC 4.1.99.3)'
+GTAGGCGTAGAT	DIR	736598..736609	736600	Yes	m6A	423	338	254	[736346..738304]; 'PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component
+GAAGTGGATGAT	DIR	738709..738720	738711	Yes	m6A	386	338	104	[738607..739788]; 'N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+GAAGTGAATGAT	DIR	741053..741064	741055	Yes	m6A	212	352	1046	[740009..741358]; 'Hemolysins and related proteins containing CBS domains
+GAAGGCTATGAT	DIR	742888..742899	742890	Yes	m6A	544	380	347	[742543..743526]; 'CsbB stress response protein'
+GAAGCTGAAGAT	DIR	750905..750916	750907	Yes	m6A	526	401	641	[750266..751417]; 'Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+GTAGAAGGGGAT	DIR	753131..753142	753133	Yes	m6A	447	384	54	[753079..754083]; 'Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)'
+GAAGAAATTGAT	DIR	758506..758517	758508	Yes	m6A	366	349	1733	[756775..758652]; 'Bis-ABC ATPase Uup'
+GAAGTGAAAGAT	DIR	762431..762442	762433	Yes	m6A	303	305	797	[761636..763150]; 'Glycine betaine ABC transport system, permease protein OpuAB / Glycine betaine ABC transport system, glycine betaine-binding protein OpuAC
+GAAGTTAATGAT	DIR	763825..763836	763827	Yes	m6A	374	327	437	[763390..764448]; 'Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)
+GAAGTAAATGAT	DIR	767566..767577	767568	Yes	m6A	394	321	n/a	non-coding
+GAAGTAAAAGAT	DIR	771405..771416	771407	Yes	m6A	457	330	125	[771282..773387]; 'Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+GTAGACAACGAT	DIR	771462..771473	771464	Yes	m6A	471	328	182	[771282..773387]; 'Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+GAAGCAAAAGAT	DIR	772731..772742	772733	Yes	m6A	452	314	1451	[771282..773387]; 'Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+GAAGGATGCGAT	DIR	781363..781374	781365	Yes	m6A	343	304	358	[781007..781885]; 'hypothetical protein'
+GTAGCCATGGAT	DIR	782796..782807	782798	Yes	m6A	473	324	14	[782784..783908]; 'Glycerate kinase (EC 2.7.1.31)'
+GTAGTAGAAGAT	DIR	795492..795503	795494	Yes	m6A	436	315	1271	[794223..796754]; 'Protein translocase subunit SecA'
+GAAGAATTTGAT	DIR	797331..797342	797333	Yes	m6A	400	331	146	[797187..798179]; 'Peptide chain release factor 2 @ programmed frameshift-containing
+GAAGGTAAAGAT	DIR	800324..800335	800326	Yes	m6A	333	301	365	[799961..800611]; 'Nucleotidase YfbR, HD superfamily'
+GAAGGTATTGAT	DIR	805128..805139	805130	Yes	m6A	362	287	2024	[803106..805952]; 'Excinuclease ABC subunit A'
+GAAGTGTGTGAT	DIR	805389..805400	805391	Yes	m6A	349	292	2285	[803106..805952]; 'Excinuclease ABC subunit A'
+GAAGTGAAGGAT	DIR	805961..805972	805963	Yes	m6A	288	273	n/a	non-coding
+GTAGCAGATGAT	DIR	807076..807087	807078	Yes	m6A	497	269	515	[806563..807495]; 'HPr kinase/phosphorylase'
+GAAGTTCAAGAT	DIR	809354..809365	809356	Yes	m6A	407	287	512	[808844..810283]; 'TPR domain protein'
+GAAGCAATCGAT	DIR	813465..813476	813467	Yes	m6A	391	265	506	[812961..813956]; 'FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like
+GTAGTAACAGAT	DIR	816761..816772	816763	Yes	m6A	359	279	416	[816347..817981]; 'Malolactic enzyme (EC 1.-.-.-)'
+GAAGAGAATGAT	DIR	820162..820173	820164	Yes	m6A	319	280	371	[819793..820422]; 'hypothetical protein'
+GAAGAAAGTGAT	DIR	823323..823334	823325	Yes	m6A	386	314	194	[823131..824321]; 'Phosphoglycerate kinase (EC 2.7.2.3)'
+GTAGTTAACGAT	DIR	823686..823697	823688	Yes	m6A	332	310	557	[823131..824321]; 'Phosphoglycerate kinase (EC 2.7.2.3)'
+GAAGGTATGGAT	DIR	824007..824018	824009	Yes	m6A	329	312	878	[823131..824321]; 'Phosphoglycerate kinase (EC 2.7.2.3)'
+GAAGACGGTGAT	DIR	825465..825476	825467	Yes	m6A	435	318	260	[825207..826724]; '2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+GAAGTTAAAGAT	DIR	826320..826331	826322	Yes	m6A	435	308	1115	[825207..826724]; '2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+GAAGCGGTTGAT	DIR	826443..826454	826445	Yes	m6A	459	314	1238	[825207..826724]; '2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+GAAGTGGTTGAT	DIR	826467..826478	826469	Yes	m6A	356	314	1262	[825207..826724]; '2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.12)
+GTAGGTGACGAT	DIR	827799..827810	827801	Yes	m6A	286	317	947	[826854..828158]; 'Enolase (EC 4.2.1.11)'
+GAAGCATTAGAT	DIR	829877..829888	829879	Yes	m6A	429	307	497	[829382..830122]; 'Carboxyesterase precursor-like protein'
+GAAGCTTATGAT	DIR	831071..831082	831073	Yes	m6A	469	321	917	[830156..832528]; '3'-to-5' exoribonuclease RNase R'
+GAAGCGATTGAT	DIR	837159..837170	837161	Yes	m6A	370	289	292	[836869..837399]; 'hypothetical protein'
+GTAGCTGCAGAT	DIR	838323..838334	838325	Yes	m6A	427	306	662	[837663..840716]; 'Clumping factor ClfA, fibrinogen-binding protein'
+GAAGTAGAAGAT	DIR	841500..841511	841502	Yes	m6A	380	286	113	[841389..842444]; 'Secreted von Willebrand factor-binding protein VWbp; truncated
+GAAGCGCGTGAT	DIR	842270..842281	842272	Yes	m6A	416	290	883	[841389..842444]; 'Secreted von Willebrand factor-binding protein VWbp; truncated
+GTAGAGAATGAT	DIR	846845..846856	846847	Yes	m6A	342	282	n/a	non-coding
+GAAGACGCGGAT	DIR	860299..860310	860301	Yes	m6A	367	293	584	[859717..860538]; 'Methionine ABC transporter substrate-binding protein
+GAAGAGGGCGAT	DIR	865581..865592	865583	Yes	m6A	345	322	341	[865242..866483]
+GAAGACGTTGAT	DIR	866418..866429	866420	Yes	m6A	393	308	1178,-53	[865242..866483]|[866473..866937]; 'Putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+GAAGAATTTGAT	DIR	876078..876089	876080	Yes	m6A	393	309	-5	[876085..876468]; 'Hypothetical DUF1027 domain protein'
+GTAGACAAAGAT	DIR	876920..876931	876922	Yes	m6A	464	291	11	[876911..877345]; 'BH3430 unknown conserved protein'
+GTAGGTATGGAT	DIR	877999..878010	878001	Yes	m6A	310	282	656	[877345..878124]; 'Hypothetical NagD-like phosphatase'
+GTAGAAGCAGAT	DIR	878532..878543	878534	Yes	m6A	345	284	377	[878157..879116]; 'Glyoxylate reductase (EC 1.1.1.79) @ Glyoxylate reductase (EC 1.1.1.26) @ Hydroxypyruvate reductase (EC 1.1.1.81)
+GAAGTAAAAGAT	DIR	886443..886454	886445	Yes	m6A	351	304	38	[886407..886766]; 'Uncharacterized protein SufA'
+GAAGTATTAGAT	DIR	903964..903975	903966	Yes	m6A	376	299	815	[903151..904341]; 'Ornithine aminotransferase (EC 2.6.1.13)'
+GTAGGTACTGAT	DIR	906939..906950	906941	Yes	m6A	181	310	n/a	non-coding
+GAAGAAATTGAT	DIR	915254..915265	915256	Yes	m6A	417	328	1559	[913697..917173]; 'ATP-dependent helicase/nuclease AddAB, subunit B'
+GAAGTATTTGAT	DIR	915350..915361	915352	Yes	m6A	424	331	1655	[913697..917173]; 'ATP-dependent helicase/nuclease AddAB, subunit B'
+GAAGCTGATGAT	DIR	918146..918157	918148	Yes	m6A	453	305	974	[917174..920827]; 'ATP-dependent helicase/nuclease AddAB, subunit A'
+GAAGCAGCAGAT	DIR	919178..919189	919180	Yes	m6A	403	294	2006	[917174..920827]; 'ATP-dependent helicase/nuclease AddAB, subunit A'
+GAAGTAGTTGAT	DIR	922023..922034	922025	Yes	m6A	364	290	n/a	non-coding
+GAAGATGGAGAT	DIR	923542..923553	923544	Yes	m6A	342	280	557	[922987..924633]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	923569..923580	923571	Yes	m6A	319	279	584	[922987..924633]; 'Transposase, IS4 family'
+GAAGATTCAGAT	DIR	931488..931499	931490	Yes	m6A	374	268	1574	[929916..932525]; 'Chaperone protein ClpB (ATP-dependent unfoldase)'
+GTAGGTCAAGAT	DIR	931638..931649	931640	Yes	m6A	312	265	1724	[929916..932525]; 'Chaperone protein ClpB (ATP-dependent unfoldase)'
+GAAGTTTCTGAT	DIR	932313..932324	932315	Yes	m6A	360	265	2399	[929916..932525]; 'Chaperone protein ClpB (ATP-dependent unfoldase)'
+GAAGAAATTGAT	DIR	934580..934591	934582	Yes	m6A	403	308	125	[934457..934708]; 'hypothetical protein'
+GAAGTTTTGGAT	DIR	935919..935930	935921	Yes	m6A	328	309	595	[935326..936444]; 'Putative uncharacterized protein MW0861'
+GAAGATATAGAT	DIR	938635..938646	938637	Yes	m6A	366	315	212	[938425..939366]; '3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)
+GAAGGTATTGAT	DIR	944717..944728	944719	Yes	m6A	270	306	344	[944375..945316]; 'Oligopeptide ABC transporter, ATP-binding protein OppF (TC 3.A.1.5.1)
+GTAGATACAGAT	DIR	948298..948309	948300	Yes	m6A	354	280	n/a	non-coding
+GTAGGCATTGAT	DIR	949806..949817	949808	Yes	m6A	312	273	1172	[948636..949991]; 'Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)
+GAAGAAATAGAT	DIR	956081..956092	956083	Yes	m6A	418	264	584	[955499..957145]; 'Transposase, IS4 family'
+GAAGAAGAAGAT	DIR	959369..959380	959371	Yes	m6A	420	294	149	[959222..959941]; 'ClpCP protease substrate adapter protein MecA'
+GAAGGTGAAGAT	DIR	959543..959554	959545	Yes	m6A	414	303	323	[959222..959941]; 'ClpCP protease substrate adapter protein MecA'
+GTAGAAACTGAT	DIR	962599..962610	962601	Yes	m6A	406	326	1505	[961096..962904]; 'Oligoendopeptidase F'
+GAAGATATTGAT	DIR	966051..966062	966053	Yes	m6A	453	333	248	[965805..966440]; 'GTP pyrophosphokinase (EC 2.7.6.5)'
+GAAGAACGAGAT	DIR	966108..966119	966110	Yes	m6A	410	331	305	[965805..966440]; 'GTP pyrophosphokinase (EC 2.7.6.5)'
+GTAGAAAGGGAT	DIR	969677..969688	969679	Yes	m6A	461	359	146	[969533..971377]; 'Na+/H+ antiporter'
+GAAGACGTTGAT	DIR	975996..976007	975998	Yes	m6A	353	303	239	[975759..976517]; 'Putative acetyl esterase YjcH (EC 3.1.1.-)'
+GAAGCTCTTGAT	DIR	977683..977694	977685	Yes	m6A	497	321	275	[977410..978261]; 'FIG01108616: hypothetical protein'
+GAAGCGGTGGAT	DIR	979045..979056	979047	Yes	m6A	439	347	44	[979003..979512]; '2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+GAAGATGGTGAT	DIR	979132..979143	979134	Yes	m6A	483	348	131	[979003..979512]; '2H phosphoesterase superfamily protein Bsu1186 (yjcG)
+GAAGCAGTTGAT	DIR	982892..982903	982894	Yes	m6A	456	325	494	[982400..983884]; 'UDP-N-acetylmuramoy-dipeptide--L-lysine ligase (EC 6.3.2.7)
+GAAGTTTTAGAT	DIR	983408..983419	983410	Yes	m6A	414	322	1010	[982400..983884]; 'UDP-N-acetylmuramoy-dipeptide--L-lysine ligase (EC 6.3.2.7)
+GAAGCCTTTGAT	DIR	984818..984829	984820	Yes	m6A	475	340	695	[984125..985687]; 'Peptide chain release factor 3'
+GTAGCAGGCGAT	DIR	985184..985195	985186	Yes	m6A	525	329	1061	[984125..985687]; 'Peptide chain release factor 3'
+GAAGCTGGAGAT	DIR	986301..986312	986303	Yes	m6A	467	319	314	[985989..986792]; 'Toxic anion resistance protein'
+GTAGACCAAGAT	DIR	987371..987382	987373	Yes	m6A	427	289	347	[987026..989335]; 'Serine protease, DegP/HtrA, do-like (EC 3.4.21.-)
+GAAGAGCCGGAT	DIR	991398..991409	991400	Yes	m6A	352	247	554	[990846..992360]; '2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+GTAGGTCAAGAT	DIR	991557..991568	991559	Yes	m6A	325	245	713	[990846..992360]; '2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16)
+GTAGATAAAGAT	DIR	997486..997497	997488	Yes	m6A	340	256	239	[997249..999213]; 'Putative membrane-spanning protein'
+GAAGATAGTGAT	DIR	1010656..1010667	1010658	Yes	m6A	463	344	743,-53	[1009915..1010718]; '2-succinyl-6-hydroxy-2,4-cyclohexadiene-1- carboxylate synthase (EC 4.2.99.20)|[1010711..1011532]; 'Naphthoate synthase (EC 4.1.3.36)'
+GAAGCTTTAGAT	DIR	1011254..1011265	1011256	Yes	m6A	491	340	545	[1010711..1011532]; 'Naphthoate synthase (EC 4.1.3.36)'
+GAAGGCCGTGAT	DIR	1011467..1011478	1011469	Yes	m6A	338	341	758	[1010711..1011532]; 'Naphthoate synthase (EC 4.1.3.36)'
+GTAGCTATCGAT	DIR	1016891..1016902	1016893	Yes	m6A	465	319	n/a	non-coding
+GTAGCCTTTGAT	DIR	1018192..1018203	1018194	Yes	m6A	427	303	n/a	non-coding
+GTAGGTGTTGAT	DIR	1020092..1020103	1020094	Yes	m6A	318	301	n/a	non-coding
+GTAGTTGTAGAT	DIR	1020647..1020658	1020649	Yes	m6A	392	287	n/a	non-coding
+GAAGTTAGGGAT	DIR	1028163..1028174	1028165	Yes	m6A	346	273	n/a	non-coding
+GAAGTAACAGAT	DIR	1037487..1037498	1037489	Yes	m6A	393	295	1049	[1036440..1038629]; 'Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+GAAGTAGATGAT	DIR	1050013..1050024	1050015	Yes	m6A	301	236	n/a	non-coding
+GAAGAAGAGGAT	DIR	1050154..1050165	1050156	Yes	m6A	295	231	65	[1050091..1051263]; 'Putative ribosomal RNA large subunit methyltransferase YwbD
+GAAGTATCAGAT	DIR	1062053..1062064	1062055	Yes	m6A	424	320	554	[1061501..1062127]; 'hypothetical protein'
+GAAGTATTTGAT	DIR	1063678..1063689	1063680	Yes	m6A	369	309	266	[1063414..1064391]; 'Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+GAAGAAGACGAT	DIR	1064572..1064583	1064574	Yes	m6A	395	302	92	[1064482..1065774]; 'Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+GAAGAAGTAGAT	DIR	1064827..1064838	1064829	Yes	m6A	389	301	347	[1064482..1065774]; 'Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+GAAGATGTAGAT	DIR	1064947..1064958	1064949	Yes	m6A	392	302	467	[1064482..1065774]; 'Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+GTAGTTGGAGAT	DIR	1065781..1065792	1065783	Yes	m6A	374	289	5	[1065778..1067184]; 'Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+GAAGAAACAGAT	DIR	1066507..1066518	1066509	Yes	m6A	382	295	731	[1065778..1067184]; 'Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+GAAGCAATTGAT	DIR	1066777..1066788	1066779	Yes	m6A	454	287	1001	[1065778..1067184]; 'Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex (EC 1.8.1.4)
+GAAGAGTTTGAT	DIR	1069370..1069381	1069372	Yes	m6A	369	273	1046,-41	[1068326..1069420]; 'Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)|[1069413..1070210]; 'Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
+GAAGTTTTAGAT	DIR	1077991..1078002	1077993	Yes	m6A	404	296	437	[1077556..1079403]; 'GTP-binding protein TypA/BipA'
+GAAGCAAACGAT	DIR	1078018..1078029	1078020	Yes	m6A	451	296	464	[1077556..1079403]; 'GTP-binding protein TypA/BipA'
+GAAGTACTAGAT	DIR	1080460..1080471	1080462	Yes	m6A	338	301	128	[1080334..1080609]; 'UPF0358 protein YlaN'
+GTAGAATTGGAT	DIR	1080901..1080912	1080903	Yes	m6A	354	282	-20	[1080923..1082149]; 'FtsW-like protein YlaO'
+GAAGTCAAAGAT	DIR	1085270..1085281	1085272	Yes	m6A	359	300	2570	[1082702..1086154]; 'Pyruvate carboxylase (EC 6.4.1.1)'
+GTAGTTGGTGAT	DIR	1085342..1085353	1085344	Yes	m6A	368	295	2642	[1082702..1086154]; 'Pyruvate carboxylase (EC 6.4.1.1)'
+GAAGTATTTGAT	DIR	1095546..1095557	1095548	Yes	m6A	453	343	248	[1095300..1095857]; 'FIG01269488: protein, clustered with ribosomal protein L32p
+GAAGTAATCGAT	DIR	1095735..1095746	1095737	Yes	m6A	370	343	437	[1095300..1095857]; 'FIG01269488: protein, clustered with ribosomal protein L32p
+GAAGCAAAAGAT	DIR	1100524..1100535	1100526	Yes	m6A	500	337	137	[1100389..1101465]; 'Heme transporter IsdDEF, membrane component IsdD'
+GTAGCAACTGAT	DIR	1102002..1102013	1102004	Yes	m6A	460	331	542	[1101462..1102340]; 'Heme transporter IsdDEF, lipoprotein IsdE'
+GAAGCAGTGGAT	DIR	1102491..1102502	1102493	Yes	m6A	492	350	143	[1102350..1103318]; 'Heme transporter IsdDEF, permease component IsdF'
+GAAGGCTTTGAT	DIR	1104229..1104240	1104231	Yes	m6A	422	355	98	[1104133..1104456]; 'Heme-degrading monooxygenase, staphylobilin-producing (EC 1.14.99.48)
+GAAGATTTTGAT	DIR	1104271..1104282	1104273	Yes	m6A	417	362	140	[1104133..1104456]; 'Heme-degrading monooxygenase, staphylobilin-producing (EC 1.14.99.48)
+GAAGCAAATGAT	DIR	1106018..1106029	1106020	Yes	m6A	530	360	59	[1105961..1107019]; 'Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+GTAGAAGTTGAT	DIR	1106741..1106752	1106743	Yes	m6A	458	353	782	[1105961..1107019]; 'Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+GAAGTGGATGAT	DIR	1107109..1107120	1107111	Yes	m6A	337	364	92	[1107019..1109421]; 'Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+GAAGAAACGGAT	DIR	1113761..1113772	1113763	Yes	m6A	334	291	143	[1113620..1115968]; 'Recombination inhibitory protein MutS2'
+GTAGAATTTGAT	DIR	1115024..1115035	1115026	Yes	m6A	371	284	1406	[1113620..1115968]; 'Recombination inhibitory protein MutS2'
+GAAGCTGACGAT	DIR	1115378..1115389	1115380	Yes	m6A	442	292	1760	[1113620..1115968]; 'Recombination inhibitory protein MutS2'
+GAAGTTTTAGAT	DIR	1116432..1116443	1116434	Yes	m6A	382	312	293	[1116141..1116455]; 'Thioredoxin'
+GAAGATGTTGAT	DIR	1116688..1116699	1116690	Yes	m6A	510	317	n/a	non-coding
+GAAGCATTCGAT	DIR	1117931..1117942	1117933	Yes	m6A	479	336	1154	[1116779..1118560]; 'Excinuclease ABC subunit C'
+GTAGATTATGAT	DIR	1120627..1120638	1120629	Yes	m6A	454	316	1079	[1119550..1121316]; 'Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+GAAGATATTGAT	DIR	1121008..1121019	1121010	Yes	m6A	381	318	1460	[1119550..1121316]; 'Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+GAAGATGGAGAT	DIR	1132785..1132796	1132787	Yes	m6A	318	240	557	[1132230..1133876]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	1132812..1132823	1132814	Yes	m6A	331	240	584	[1132230..1133876]; 'Transposase, IS4 family'
+GAAGTTACAGAT	DIR	1137952..1137963	1137954	Yes	m6A	290	223	893	[1137061..1138062]; 'Ornithine carbamoyltransferase (EC 2.1.3.3)'
+GAAGCGGTTGAT	DIR	1139560..1139571	1139562	Yes	m6A	430	252	374	[1139188..1140744]; 'Arginine/ornithine antiporter ArcD'
+GAAGACAAAGAT	DIR	1140031..1140042	1140033	Yes	m6A	357	259	845	[1139188..1140744]; 'Arginine/ornithine antiporter ArcD'
+GAAGATCATGAT	DIR	1145970..1145981	1145972	Yes	m6A	364	272	392	[1145580..1147193]; 'Glucosaminyl-malate:cysteine ligase'
+GAAGGCGATGAT	DIR	1146392..1146403	1146394	Yes	m6A	401	272	814	[1145580..1147193]; 'Glucosaminyl-malate:cysteine ligase'
+GTAGAACTTGAT	DIR	1147571..1147582	1147573	Yes	m6A	432	289	236	[1147337..1147768]; 'Transcriptional regulator MraZ'
+GAAGATTTAGAT	DIR	1148654..1148665	1148656	Yes	m6A	371	283	872	[1147784..1148719]; '16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+GAAGATAAAGAT	DIR	1154012..1154023	1154014	Yes	m6A	363	248	41	[1153973..1155292]; 'Cell division protein FtsQ'
+GAAGTTTATGAT	DIR	1155647..1155658	1155649	Yes	m6A	400	251	251	[1155398..1156804]; 'Cell division protein FtsA'
+GTAGATGCTGAT	DIR	1156064..1156075	1156066	Yes	m6A	381	242	668	[1155398..1156804]; 'Cell division protein FtsA'
+GAAGTATTTGAT	DIR	1156304..1156315	1156306	Yes	m6A	353	241	908	[1155398..1156804]; 'Cell division protein FtsA'
+GTAGCACTGGAT	DIR	1157816..1157827	1157818	Yes	m6A	331	242	981	[1156837..1158009]; 'Cell division protein FtsZ'
+GAAGATGTTGAT	DIR	1159475..1159486	1159477	Yes	m6A	476	276	401	[1159076..1159750]; 'Pyridoxal phosphate-containing protein YggS'
+GTAGGTACTGAT	DIR	1160215..1160226	1160217	Yes	m6A	211	277	470	[1159747..1160310]; 'SepF, FtsZ-interacting protein related to cell division
+GAAGAGAGAGAT	DIR	1161675..1161686	1161677	Yes	m6A	319	282	152	[1161525..1162121]; 'Cell division initiation protein DivIVA'
+GAAGATTGGGAT	DIR	1161960..1161971	1161962	Yes	m6A	381	280	437	[1161525..1162121]; 'Cell division initiation protein DivIVA'
+GAAGCACTGGAT	DIR	1163158..1163169	1163160	Yes	m6A	464	296	818	[1162342..1165095]; 'Isoleucyl-tRNA synthetase (EC 6.1.1.5)'
+GTAGAAGTAGAT	DIR	1164703..1164714	1164705	Yes	m6A	367	292	2363	[1162342..1165095]; 'Isoleucyl-tRNA synthetase (EC 6.1.1.5)'
+GTAGATACAGAT	DIR	1166043..1166054	1166045	Yes	m6A	366	286	n/a	non-coding
+GAAGTTGAAGAT	DIR	1167209..1167220	1167211	Yes	m6A	432	296	785	[1166426..1167223]; 'Predicted ring-cleavage extradiol dioxygenase'
+GAAGAAATGGAT	DIR	1169771..1169782	1169773	Yes	m6A	314	297	491	[1169282..1169809]; 'Pyrimidine operon regulatory protein PyrR'
+GAAGATATTGAT	DIR	1173945..1173956	1173947	Yes	m6A	355	281	410	[1173537..1174637]; 'Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+GAAGTTAAAGAT	DIR	1177420..1177431	1177422	Yes	m6A	374	254	2792	[1174630..1177803]; 'Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+GTAGAAAGAGAT	DIR	1177672..1177683	1177674	Yes	m6A	336	254	3044	[1174630..1177803]; 'Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+GAAGGTCATGAT	DIR	1182816..1182827	1182818	Yes	m6A	310	260	287	[1182531..1183154]; 'Guanylate kinase (EC 2.7.4.8)'
+GTAGTTAATGAT	DIR	1183032..1183043	1183034	Yes	m6A	406	268	503	[1182531..1183154]; 'Guanylate kinase (EC 2.7.4.8)'
+GAAGTTATCGAT	DIR	1184188..1184199	1184190	Yes	m6A	340	258	602	[1183588..1184787]; 'Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+GAAGTGAAAGAT	DIR	1184994..1185005	1184996	Yes	m6A	360	251	209	[1184787..1187195]; 'Helicase PriA essential for oriC/DnaA-independent DNA replication
+GAAGAGAAAGAT	DIR	1187833..1187844	1187835	Yes	m6A	274	259	137	[1187698..1188651]; 'hypothetical protein'
+GTAGATCCAGAT	DIR	1188145..1188156	1188147	Yes	m6A	328	259	449	[1187698..1188651]; 'hypothetical protein'
+GTAGGGATGGAT	DIR	1188529..1188540	1188531	Yes	m6A	374	266	833	[1187698..1188651]; 'hypothetical protein'
+GAAGAAAATGAT	DIR	1190262..1190273	1190264	Yes	m6A	372	280	467	[1189797..1190732]; 'Methionyl-tRNA formyltransferase (EC 2.1.2.9)'
+GTAGTTGGAGAT	DIR	1196216..1196227	1196218	Yes	m6A	483	345	116	[1196102..1196977]; 'Ribosome small subunit biogenesis RbfA-release protein RsgA
+GAAGTTATCGAT	DIR	1198004..1198015	1198006	Yes	m6A	379	329	377	[1197629..1198270]; 'Thiamin pyrophosphokinase (EC 2.7.6.2)'
+GTAGTTACCGAT	DIR	1204998..1205009	1205000	Yes	m6A	347	331	653	[1204347..1205333]; 'Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+GTAGACGCTGAT	DIR	1207333..1207344	1207335	Yes	m6A	426	292	50	[1207285..1207518]; 'Acyl carrier protein'
+GAAGCTCAAGAT	DIR	1209535..1209546	1209537	Yes	m6A	432	310	1025	[1208512..1212078]; 'Chromosome partition protein smc'
+GAAGCACACGAT	DIR	1209628..1209639	1209630	Yes	m6A	439	309	1118	[1208512..1212078]; 'Chromosome partition protein smc'
+GTAGCGACTGAT	DIR	1210270..1210281	1210272	Yes	m6A	359	297	1760	[1208512..1212078]; 'Chromosome partition protein smc'
+GAAGATGTCGAT	DIR	1211439..1211450	1211441	Yes	m6A	393	287	2929	[1208512..1212078]; 'Chromosome partition protein smc'
+GAAGGTTCTGAT	DIR	1212822..1212833	1212824	Yes	m6A	336	259	746	[1212078..1213328]; 'Signal recognition particle receptor FtsY'
+GAAGAAAATGAT	DIR	1214941..1214952	1214943	Yes	m6A	359	266	1270	[1213673..1215040]; 'Signal recognition particle protein Ffh'
+GTAGTAGCAGAT	DIR	1215535..1215546	1215537	Yes	m6A	361	258	62	[1215475..1215750]; 'SSU ribosomal protein S16p'
+GAAGACTTAGAT	DIR	1216654..1216665	1216656	Yes	m6A	350	270	215	[1216441..1217178]; 'tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+GAAGGTTACGAT	DIR	1216780..1216791	1216782	Yes	m6A	340	265	341	[1216441..1217178]; 'tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)
+GAAGAAATAGAT	DIR	1222161..1222172	1222163	Yes	m6A	335	256	413	[1221750..1222517]; 'Ribonuclease HII (EC 3.1.26.4)'
+GAAGAAGAAGAT	DIR	1223331..1223342	1223333	Yes	m6A	359	253	707	[1222626..1223792]; 'Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)
+GAAGCAGCTGAT	DIR	1224063..1224074	1224065	Yes	m6A	357	248	251	[1223814..1224722]; 'Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+GTAGTTATGGAT	DIR	1225694..1225705	1225696	Yes	m6A	357	247	747	[1224949..1226067]; 'Putative cell wall hydrolase'
+GAAGGTATAGAT	DIR	1229409..1229420	1229411	Yes	m6A	286	264	854	[1228557..1230632]; 'DNA topoisomerase I (EC 5.99.1.2)'
+GAAGCGGCTGAT	DIR	1231028..1231039	1231030	Yes	m6A	384	250	242	[1230788..1232095]; 'Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO (EC 2.1.1.74)
+GTAGCGGCTGAT	DIR	1233895..1233906	1233897	Yes	m6A	460	294	491	[1233406..1233951]; 'ATP-dependent protease subunit HslV (EC 3.4.25.2)
+GTAGGACGAGAT	DIR	1234302..1234313	1234304	Yes	m6A	394	283	287	[1234017..1235420]; 'ATP-dependent hsl protease ATP-binding subunit HslU
+GAAGCGCGCGAT	DIR	1235937..1235948	1235939	Yes	m6A	420	302	494	[1235445..1236218]; 'GTP-sensing transcriptional pleiotropic repressor CodY
+GTAGCTAGTGAT	DIR	1240381..1240392	1240383	Yes	m6A	435	272	188	[1240195..1240965]; 'Undecaprenyl diphosphate synthase (EC 2.5.1.31)'
+GTAGTTGCAGAT	DIR	1243854..1243865	1243856	Yes	m6A	395	288	584	[1243272..1244975]; 'Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+GAAGGACAAGAT	DIR	1248068..1248079	1248070	Yes	m6A	356	259	2837	[1245233..1249549]; 'DNA polymerase III polC-type (EC 2.7.7.7)'
+GTAGTACCTGAT	DIR	1248374..1248385	1248376	Yes	m6A	273	260	3143	[1245233..1249549]; 'DNA polymerase III polC-type (EC 2.7.7.7)'
+GAAGTGCCGGAT	DIR	1248971..1248982	1248973	Yes	m6A	347	276	3740	[1245233..1249549]; 'DNA polymerase III polC-type (EC 2.7.7.7)'
+GAAGCTATGGAT	DIR	1250019..1250030	1250021	Yes	m6A	415	280	182	[1249839..1250306]; 'Bacterial ribosome SSU maturation protein RimP'
+GAAGCTGGCGAT	DIR	1251011..1251022	1251013	Yes	m6A	448	276	686	[1250327..1251502]; 'Transcription termination protein NusA'
+GAAGTAGACGAT	DIR	1260224..1260235	1260226	Yes	m6A	298	206	89	[1260137..1261810]; 'Ribonuclease J2 (endoribonuclease in RNA processing)
+GAAGAAGGCGAT	DIR	1261109..1261120	1261111	Yes	m6A	288	224	974	[1260137..1261810]; 'Ribonuclease J2 (endoribonuclease in RNA processing)
+GAAGTTTTAGAT	DIR	1263360..1263371	1263362	Yes	m6A	364	247	1295	[1262067..1264436]; 'DNA translocase FtsK'
+GAAGAAGTTGAT	DIR	1265899..1265910	1265901	Yes	m6A	378	275	716	[1265185..1266450]; 'FIG001621: Zinc protease'
+GAAGAAACAGAT	DIR	1267323..1267334	1267325	Yes	m6A	282	267	875	[1266450..1267736]; 'Uncharacterized zinc protease YmfH'
+GAAGAACCAGAT	DIR	1267437..1267448	1267439	Yes	m6A	328	282	989	[1266450..1267736]; 'Uncharacterized zinc protease YmfH'
+GTAGCATCTGAT	DIR	1270530..1270541	1270532	Yes	m6A	413	289	n/a	non-coding
+GTAGATATCGAT	DIR	1272257..1272268	1272259	Yes	m6A	414	303	323	[1271936..1272979]; 'RecA protein'
+GAAGAAATTGAT	DIR	1272881..1272892	1272883	Yes	m6A	357	299	947	[1271936..1272979]; 'RecA protein'
+GAAGTAGACGAT	DIR	1274209..1274220	1274211	Yes	m6A	371	294	878	[1273333..1274892]; 'Ribonuclease Y'
+GAAGAAATTGAT	DIR	1274758..1274769	1274760	Yes	m6A	334	283	1427	[1273333..1274892]; 'Ribonuclease Y'
+GAAGAAGATGAT	DIR	1279619..1279630	1279621	Yes	m6A	441	291	1190	[1278431..1280191]; '2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+GAAGATGCAGAT	DIR	1279850..1279861	1279852	Yes	m6A	412	289	1421	[1278431..1280191]; '2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)
+GAAGCGGAAGAT	DIR	1288856..1288867	1288858	Yes	m6A	331	232	1916	[1286942..1288951]; 'DNA mismatch repair protein MutL'
+GTAGCTGGTGAT	DIR	1291642..1291653	1291644	Yes	m6A	423	253	722	[1290922..1292418]; 'Glycerol kinase (EC 2.7.1.30)'
+GAAGACAGAGAT	DIR	1293506..1293517	1293508	Yes	m6A	344	252	932	[1292576..1294249]; 'Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+GAAGAAATGGAT	DIR	1295496..1295507	1295498	Yes	m6A	315	257	167	[1295331..1296266]; 'tRNA dimethylallyltransferase (EC 2.5.1.75)'
+GAAGTTAGAGAT	DIR	1297821..1297832	1297823	Yes	m6A	364	268	499	[1297324..1298562]; 'Ribosome LSU-associated GTP-binding protein HflX'
+GAAGAATCAGAT	DIR	1300645..1300656	1300647	Yes	m6A	320	259	197	[1300450..1301790]; 'Glutamine synthetase type I (EC 6.3.1.2)'
+GTAGATACAGAT	DIR	1319697..1319708	1319699	Yes	m6A	341	268	n/a	non-coding
+GAAGCACTTGAT	DIR	1339710..1339721	1339712	Yes	m6A	261	218	533	[1339179..1340459]; 'Homoserine dehydrogenase (EC 1.1.1.3)'
+GAAGGGGTAGAT	DIR	1339770..1339781	1339772	Yes	m6A	266	215	593	[1339179..1340459]; 'Homoserine dehydrogenase (EC 1.1.1.3)'
+GAAGCACCTGAT	DIR	1340996..1341007	1340998	Yes	m6A	385	228	533	[1340465..1341526]; 'Threonine synthase (EC 4.2.3.1)'
+GTAGAACTTGAT	DIR	1350812..1350823	1350814	Yes	m6A	327	234	728	[1350086..1351063]; 'GMP reductase (EC 1.7.1.7)'
+GAAGGTAATGAT	DIR	1353790..1353801	1353792	Yes	m6A	312	258	176	[1353616..1353855]; 'hypothetical protein'
+GAAGAAATTGAT	DIR	1354642..1354653	1354644	Yes	m6A	367	270	668	[1353976..1355964]; 'Transketolase (EC 2.2.1.1)'
+GTAGGTGAAGAT	DIR	1355368..1355379	1355370	Yes	m6A	349	272	1394	[1353976..1355964]; 'Transketolase (EC 2.2.1.1)'
+GAAGTCTAGGAT	DIR	1355992..1356003	1355994	Yes	m6A	444	276	n/a	non-coding
+GAAGAACCTGAT	DIR	1357365..1357376	1357367	Yes	m6A	386	300	113	[1357254..1358375]; 'Exonuclease SbcD'
+GAAGAAATTGAT	DIR	1358427..1358438	1358429	Yes	m6A	399	318	50	[1358379..1361408]; 'Exonuclease SbcC'
+GAAGAAAATGAT	DIR	1358559..1358570	1358561	Yes	m6A	418	325	182	[1358379..1361408]; 'Exonuclease SbcC'
+GAAGAAAAAGAT	DIR	1360218..1360229	1360220	Yes	m6A	405	317	1841	[1358379..1361408]; 'Exonuclease SbcC'
+GAAGTTTCAGAT	DIR	1366059..1366070	1366061	Yes	m6A	394	295	1802	[1364259..1366964]; 'Aconitate hydratase (EC 4.2.1.3)'
+GAAGTACGTGAT	DIR	1372158..1372169	1372160	Yes	m6A	333	268	860	[1371300..1373702]; 'DNA topoisomerase IV subunit A (EC 5.99.1.3)'
+GTAGATACCGAT	DIR	1373655..1373666	1373657	Yes	m6A	269	254	2357	[1371300..1373702]; 'DNA topoisomerase IV subunit A (EC 5.99.1.3)'
+GAAGATAGGGAT	DIR	1385296..1385307	1385298	Yes	m6A	321	244	23	[1385275..1386537]; 'Putative UV-damage repair protein UvrX'
+GAAGTACATGAT	DIR	1392912..1392923	1392914	Yes	m6A	336	270	488	[1392426..1393208]; 'Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+GAAGAGCGTGAT	DIR	1396849..1396860	1396851	Yes	m6A	298	271	761	[1396090..1397352]; 'tRNA-dependent lipid II-Gly glycyltransferase (EC 2.3.2.17) @ tRNA-dependent lipid II-GlyGly glycyltransferase (EC 2.3.2.17) @ FemA, factor essential for methicillin resistance
+GTAGACCCTGAT	DIR	1405721..1405732	1405723	Yes	m6A	366	271	917	[1404806..1406620]; 'Oligoendopeptidase F-like protein'
+GAAGCATACGAT	DIR	1405823..1405834	1405825	Yes	m6A	445	271	1019	[1404806..1406620]; 'Oligoendopeptidase F-like protein'
+GAAGATATTGAT	DIR	1416715..1416726	1416717	Yes	m6A	327	249	305	[1416412..1417401]; 'Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+GAAGATACAGAT	DIR	1418225..1418236	1418227	Yes	m6A	392	254	824,-60	[1417403..1418290]; '4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)|[1418287..1419009]; '4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
+GAAGCAGATGAT	DIR	1419195..1419206	1419197	Yes	m6A	420	268	161	[1419036..1419755]; '2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+GAAGTACAAGAT	DIR	1419699..1419710	1419701	Yes	m6A	340	253	665	[1419036..1419755]; '2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
+GAAGAAGCAGAT	DIR	1423134..1423145	1423136	Yes	m6A	344	274	1007	[1422129..1423394]; 'Diaminopimelate decarboxylase (EC 4.1.1.20)'
+GTAGCTTGCGAT	DIR	1449574..1449585	1449576	Yes	m6A	400	259	n/a	non-coding
+GAAGGACTAGAT	DIR	1450826..1450837	1450828	Yes	m6A	312	275	n/a	non-coding
+GTAGTCGTTGAT	DIR	1457351..1457362	1457353	Yes	m6A	399	296	n/a	non-coding
+GAAGTGCTTGAT	DIR	1458533..1458544	1458535	Yes	m6A	317	302	n/a	non-coding
+GTAGTTACTGAT	DIR	1477921..1477932	1477923	Yes	m6A	390	301	n/a	non-coding
+GAAGAGAACGAT	DIR	1503367..1503378	1503369	Yes	m6A	203	269	85	[1503284..1505434]; 'Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-) / Penicillin-binding protein 1A/1B (PBP1)
+GTAGTAATTGAT	DIR	1520347..1520358	1520349	Yes	m6A	409	295	n/a	non-coding
+GAAGGTATCGAT	DIR	1533252..1533263	1533254	Yes	m6A	248	303	677	[1532577..1533545]; 'L-asparaginase (EC 3.5.1.1)'
+GTAGATTTTGAT	DIR	1535347..1535358	1535349	Yes	m6A	367	281	n/a	non-coding
+GAAGCCGTTGAT	DIR	1547400..1547411	1547402	Yes	m6A	394	310	n/a	non-coding
+GAAGAGACAGAT	DIR	1559853..1559864	1559855	Yes	m6A	325	272	398	[1559457..1560323]; 'Transcription regulator AraC/XylS family'
+GAAGTTTTCGAT	DIR	1582963..1582974	1582965	Yes	m6A	306	242	n/a	non-coding
+GAAGAACTTGAT	DIR	1629932..1629943	1629934	Yes	m6A	335	276	n/a	non-coding
+GAAGGTGAAGAT	DIR	1671667..1671678	1671669	Yes	m6A	339	276	44	[1671625..1672638]; 'Flavin-utilizing monoxygenase'
+GAAGCTGGAGAT	DIR	1674654..1674665	1674656	Yes	m6A	512	288	806	[1673850..1675124]; 'Replication-associated recombination protein RarA
+GAAGAAACTGAT	DIR	1685313..1685324	1685315	Yes	m6A	390	290	n/a	non-coding
+GAAGGCCCTGAT	DIR	1692757..1692768	1692759	Yes	m6A	336	251	n/a	non-coding
+GAAGCTTATGAT	DIR	1721372..1721383	1721374	Yes	m6A	384	253	n/a	non-coding
+GTAGCAGGAGAT	DIR	1727038..1727049	1727040	Yes	m6A	373	249	n/a	non-coding
+GAAGGATAAGAT	DIR	1730833..1730844	1730835	Yes	m6A	391	280	n/a	non-coding
+GTAGAGATTGAT	DIR	1752633..1752644	1752635	Yes	m6A	345	331	n/a	non-coding
+GTAGTGATTGAT	DIR	1754869..1754880	1754871	Yes	m6A	313	296	n/a	non-coding
+GAAGCAAGCGAT	DIR	1756286..1756297	1756288	Yes	m6A	466	314	180	[1756108..1756521]; 'Universal stress protein family'
+GAAGTTTATGAT	DIR	1760463..1760474	1760465	Yes	m6A	324	259	149	[1760316..1760816]; 'Universal stress protein family'
+GAAGCTGTAGAT	DIR	1772638..1772649	1772640	Yes	m6A	367	241	341	[1772299..1773459]; 'Phosphoserine aminotransferase, putative (EC 2.6.1.52)
+GTAGAACCTGAT	DIR	1789114..1789125	1789116	Yes	m6A	379	284	n/a	non-coding
+GTAGAACTTGAT	DIR	1809575..1809586	1809577	Yes	m6A	336	254	n/a	non-coding
+GAAGAGTTAGAT	DIR	1812141..1812152	1812143	Yes	m6A	313	246	n/a	non-coding
+GTAGGAAAAGAT	DIR	1812686..1812697	1812688	Yes	m6A	279	259	311	[1812377..1813222]
+GAAGACGTAGAT	DIR	1838227..1838238	1838229	Yes	m6A	347	338	593	[1837636..1838637]; 'Proline dehydrogenase (EC 1.5.5.2)'
+GAAGCCGAAGAT	DIR	1866552..1866563	1866554	Yes	m6A	361	274	170	[1866384..1867010]; 'Hypothetical protein SAV1801'
+GAAGCCCTAGAT	DIR	1874021..1874032	1874023	Yes	m6A	388	267	437	[1873586..1876006]; 'Hyaluronate lyase precursor (EC 4.2.2.1)'
+GAAGATGTAGAT	DIR	1874357..1874368	1874359	Yes	m6A	352	266	773	[1873586..1876006]; 'Hyaluronate lyase precursor (EC 4.2.2.1)'
+GAAGAAAAAGAT	DIR	1878774..1878785	1878776	Yes	m6A	282	223	1565,-60	[1877211..1878821]; 'hypothetical protein( EC:3.4.24.69 )'|[1878836..1879135]; 'FIG01108389: hypothetical protein'
+GAAGAAAGCGAT	DIR	1878789..1878800	1878791	Yes	m6A	310	225	1580,-45	[1877211..1878821]; 'hypothetical protein( EC:3.4.24.69 )'|[1878836..1879135]; 'FIG01108389: hypothetical protein'
+GTAGAACCCGAT	DIR	1890451..1890462	1890453	Yes	m6A	319	253	149	[1890304..1891650]; 'Chromosome segregation ATPase'
+GAAGGCTTAGAT	DIR	1910820..1910831	1910822	Yes	m6A	349	295	476	[1910346..1911308]; 'Foldase protein PrsA precursor (EC 5.2.1.8) @ Foldase clustered with pyrimidine conversion
+GAAGATGATGAT	DIR	1922069..1922080	1922071	Yes	m6A	437	318	236	[1921835..1922656]; 'Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+GAAGACAATGAT	DIR	1922279..1922290	1922281	Yes	m6A	384	316	446	[1921835..1922656]; 'Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+GAAGTAATAGAT	DIR	1930017..1930028	1930019	Yes	m6A	337	318	n/a	non-coding
+GAAGGAGCGGAT	DIR	1933067..1933078	1933069	Yes	m6A	298	303	n/a	non-coding
+GAAGACTTTGAT	DIR	1945408..1945419	1945410	Yes	m6A	380	325	1079	[1944331..1945425]; 'Putative lipoprotein SAV1865'
+GTAGCTTTAGAT	DIR	1978665..1978676	1978667	Yes	m6A	504	358	n/a	non-coding
+GAAGAAGTTGAT	DIR	1999090..1999101	1999092	Yes	m6A	424	300	398	[1998694..1999215]; 'hypothetical protein'
+GAAGAATTTGAT	DIR	2000249..2000260	2000251	Yes	m6A	438	312	503	[1999748..2000794]; 'Phage integrase'
+GAAGCGACAGAT	DIR	2004689..2004700	2004691	Yes	m6A	422	295	221	[2004470..2004934]; 'Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+GAAGAGAGTGAT	DIR	2004809..2004820	2004811	Yes	m6A	309	298	341	[2004470..2004934]; 'Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+GTAGTGCTTGAT	DIR	2009517..2009528	2009519	Yes	m6A	289	272	n/a	non-coding
+GAAGCTTCTGAT	DIR	2024097..2024108	2024099	Yes	m6A	510	311	n/a	non-coding
+GTAGTAATGGAT	DIR	2043799..2043810	2043801	Yes	m6A	446	352	n/a	non-coding
+GAAGAAACTGAT	DIR	2051584..2051595	2051586	Yes	m6A	388	316	17	[2051569..2051970]; 'hypothetical protein'
+GAAGATGTTGAT	DIR	2090462..2090473	2090464	Yes	m6A	64	30	475	[2089989..2090921]; 'Phage DNA helicase'
+GAAGTTTCAGAT	DIR	2115303..2115314	2115305	Yes	m6A	529	459	n/a	non-coding
+GAAGATGTTGAT	DIR	2134418..2134429	2134420	Yes	m6A	391	298	475	[2133945..2134877]; 'Phage DNA helicase'
+GAAGCATTTGAT	DIR	2137416..2137427	2137418	Yes	m6A	410	304	107	[2137311..2138153]; 'Sphingomyelinase (EC 3.1.4.12)'
+GAAGTTTTAGAT	DIR	2149032..2149043	2149034	Yes	m6A	437	305	191	[2148843..2149547]; 'Toxic shock syndrome toxin 1 (TSST-1)'
+GTAGCACAAGAT	DIR	2172385..2172396	2172387	Yes	m6A	478	310	n/a	non-coding
+GAAGAAACAGAT	DIR	2180479..2180490	2180481	Yes	m6A	408	381	308	[2180173..2182101]; 'Bis-ABC ATPase YheS'
+GAAGTTAATGAT	DIR	2183219..2183230	2183221	Yes	m6A	380	357	752	[2182469..2184079]; 'MutS-related protein, family 1'
+GTAGCCAATGAT	DIR	2183492..2183503	2183494	Yes	m6A	461	354	1025	[2182469..2184079]; 'MutS-related protein, family 1'
+GAAGCAATTGAT	DIR	2188225..2188236	2188227	Yes	m6A	424	305	764	[2187463..2189151]; 'Dihydroxy-acid dehydratase (EC 4.2.1.9)'
+GAAGATGGAGAT	DIR	2188951..2188962	2188953	Yes	m6A	421	299	1490	[2187463..2189151]; 'Dihydroxy-acid dehydratase (EC 4.2.1.9)'
+GTAGTGATTGAT	DIR	2189737..2189748	2189739	Yes	m6A	289	288	560	[2189179..2190948]; 'Acetolactate synthase large subunit (EC 2.2.1.6)'
+GTAGATATTGAT	DIR	2190169..2190180	2190171	Yes	m6A	355	281	992	[2189179..2190948]; 'Acetolactate synthase large subunit (EC 2.2.1.6)'
+GAAGGTACTGAT	DIR	2193738..2193749	2193740	Yes	m6A	225	280	1367	[2192373..2193902]; '2-isopropylmalate synthase (EC 2.3.3.13)'
+GAAGGCACAGAT	DIR	2194274..2194285	2194276	Yes	m6A	302	287	371	[2193905..2194951]; '3-isopropylmalate dehydrogenase (EC 1.1.1.85)'
+GAAGTCGTAGAT	DIR	2221048..2221059	2221050	Yes	m6A	509	385	506	[2220544..2223201]; 'Osmosensitive K+ channel histidine kinase KdpD'
+GAAGAAATCGAT	DIR	2222752..2222763	2222754	Yes	m6A	476	377	2210	[2220544..2223201]; 'Osmosensitive K+ channel histidine kinase KdpD'
+GTAGTTGCGGAT	DIR	2236303..2236314	2236305	Yes	m6A	463	329	n/a	non-coding
+GTAGTGTGTGAT	DIR	2241089..2241100	2241091	Yes	m6A	457	334	n/a	non-coding
+GAAGTTACTGAT	DIR	2245682..2245693	2245684	Yes	m6A	366	332	n/a	non-coding
+GTAGCATTTGAT	DIR	2247599..2247610	2247601	Yes	m6A	511	330	n/a	non-coding
+GTAGGGCCTGAT	DIR	2262588..2262599	2262590	Yes	m6A	411	343	n/a	non-coding
+GAAGATTACGAT	DIR	2267149..2267160	2267151	Yes	m6A	377	296	419	[2266732..2267253]; 'Hypothetical protein MW2050'
+GTAGAGTTTGAT	DIR	2271438..2271449	2271440	Yes	m6A	373	309	206	[2271234..2272037]; 'Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)
+GTAGACATAGAT	DIR	2280330..2280341	2280332	Yes	m6A	463	332	20	[2280312..2281040]; 'Mobile element protein'
+GTAGAAAATGAT	DIR	2290498..2290509	2290500	Yes	m6A	455	317	971	[2289529..2290620]; 'Lytic regulatory protein'
+GAAGATGGAGAT	DIR	2291463..2291474	2291465	Yes	m6A	419	319	557	[2290908..2292554]; 'Transposase, IS4 family'
+GAAGAAATAGAT	DIR	2291490..2291501	2291492	Yes	m6A	434	319	584	[2290908..2292554]; 'Transposase, IS4 family'
+GAAGCAAAAGAT	DIR	2292832..2292843	2292834	Yes	m6A	510	351	n/a	non-coding
+GAAGATGTTGAT	DIR	2300227..2300238	2300229	Yes	m6A	360	291	1223	[2299006..2300544]; 'PTS system, mannitol-specific IIC component / PTS system, mannitol-specific IIB component (EC 2.7.1.197)
+GAAGCAATCGAT	DIR	2300806..2300817	2300808	Yes	m6A	420	286	229	[2300579..2302711]; 'Mannitol operon activator, BglG family'
+GTAGCTGGAGAT	DIR	2304829..2304840	2304831	Yes	m6A	443	297	n/a	non-coding
+GAAGGAGCGGAT	DIR	2316812..2316823	2316814	Yes	m6A	339	286	n/a	non-coding
+GTAGCTAAAGAT	DIR	2329672..2329683	2329674	Yes	m6A	482	288	n/a	non-coding
+GAAGCACCAGAT	DIR	2340200..2340211	2340202	Yes	m6A	426	310	425	[2339777..2341753]; 'Uncharacterized siderophore biosynthesis protein near heme transporter HtsABC @ Siderophore synthetase superfamily, group B
+GTAGTAATTGAT	DIR	2349496..2349507	2349498	Yes	m6A	429	333	n/a	non-coding
+GAAGACAAAGAT	DIR	2361436..2361447	2361438	Yes	m6A	389	282	770	[2360668..2363094]; 'Hyaluronate lyase precursor (EC 4.2.2.1)'
+GTAGAGTCAGAT	DIR	2361874..2361885	2361876	Yes	m6A	396	287	1208	[2360668..2363094]; 'Hyaluronate lyase precursor (EC 4.2.2.1)'
+GAAGGGAGTGAT	DIR	2368785..2368796	2368787	Yes	m6A	408	350	n/a	non-coding
+GTAGACATAGAT	DIR	2376845..2376856	2376847	Yes	m6A	421	319	20	[2376827..2377555]; 'Mobile element protein'
+GTAGCAACAGAT	DIR	2396282..2396293	2396284	Yes	m6A	495	366	n/a	non-coding
+GAAGGTTTGGAT	DIR	2430673..2430684	2430675	Yes	m6A	373	277	554,-60	[2430121..2430735]; 'Urease accessory protein UreG'|[2430735..2431571]; 'Urease accessory protein UreD'
+GAAGTTATCGAT	DIR	2430685..2430696	2430687	Yes	m6A	332	279	566,-48	[2430121..2430735]; 'Urease accessory protein UreG'|[2430735..2431571]; 'Urease accessory protein UreD'
+GTAGATTTAGAT	DIR	2442409..2442420	2442411	Yes	m6A	456	308	572	[2441839..2442792]; 'Glyoxylate reductase (EC 1.1.1.79) @ Glyoxylate reductase (EC 1.1.1.26) @ Hydroxypyruvate reductase (EC 1.1.1.81)
+GAAGACTCGGAT	DIR	2445793..2445804	2445795	Yes	m6A	364	317	n/a	non-coding
+GTAGGCATAGAT	DIR	2457900..2457911	2457902	Yes	m6A	346	315	125	[2457777..2457962]; 'Hypothetical protein SAV2318'
+GTAGTCCTTGAT	DIR	2470868..2470879	2470870	Yes	m6A	388	290	n/a	non-coding
+GTAGAAACAGAT	DIR	2472864..2472875	2472866	Yes	m6A	410	296	644	[2472222..2473106]; 'Transcriptional regulator, LysR family'
+GAAGAAAAAGAT	DIR	2473498..2473509	2473500	Yes	m6A	377	301	152	[2473348..2473767]; 'Fosfomycin resistance protein FosB'
+GAAGTTACAGAT	DIR	2475365..2475376	2475367	Yes	m6A	345	302	131	[2475236..2476495]; 'hypothetical protein'
+GAAGCCAAAGAT	DIR	2495356..2495367	2495358	Yes	m6A	518	365	n/a	non-coding
+GAAGATTTTGAT	DIR	2511607..2511618	2511609	Yes	m6A	457	366	446	[2511163..2512836]; 'Putative glycosyl/glycerophosphate transferase in teichoic acid biosynthesis
+GAAGTTATCGAT	DIR	2515234..2515245	2515236	Yes	m6A	378	354	596	[2514640..2515644]; 'Acryloyl-CoA reductase AcuI/YhdH (EC 1.3.1.84)'
+GTAGTCTGCGAT	DIR	2516288..2516299	2516290	Yes	m6A	417	367	n/a	non-coding
+GAAGATATAGAT	DIR	2520676..2520687	2520678	Yes	m6A	472	346	26	[2520652..2521596]; 'Magnesium and cobalt transport protein CorA'
+GAAGTGGTTGAT	DIR	2522859..2522870	2522861	Yes	m6A	261	345	n/a	non-coding
+GAAGTGATTGAT	DIR	2527627..2527638	2527629	Yes	m6A	230	324	275	[2527354..2527776]; 'General stress protein 26'
+GAAGAGAAAGAT	DIR	2533050..2533061	2533052	Yes	m6A	395	342	260	[2532792..2533238]; 'Transcriptional regulator SarZ (Staphylococcal accessory regulator Z)
+GAAGCTGTTGAT	DIR	2533764..2533775	2533766	Yes	m6A	428	332	305	[2533461..2533883]; 'Molecular chaperone, small heat shock protein'
+GTAGTCATAGAT	DIR	2590536..2590547	2590538	Yes	m6A	452	371	890	[2589648..2591726]; 'Na+/H+ antiporter'
+GAAGCCCCTGAT	DIR	2593019..2593030	2593021	Yes	m6A	610	368	n/a	non-coding
+GTAGCACTTGAT	DIR	2599863..2599874	2599865	Yes	m6A	507	373	n/a	non-coding
+GAAGCCATGGAT	DIR	2604159..2604170	2604161	Yes	m6A	501	397	n/a	non-coding
+GTAGGGCTTGAT	DIR	2613263..2613274	2613265	Yes	m6A	402	369	n/a	non-coding
+GTAGACATAGAT	DIR	2614631..2614642	2614633	Yes	m6A	512	394	20	[2614613..2615341]; 'Mobile element protein'
+GAAGTTGGCGAT	DIR	2644093..2644104	2644095	Yes	m6A	456	347	506	[2643589..2645226]; 'Phosphoglucosamine mutase (EC 5.4.2.10) / Phosphomannomutase (EC 5.4.2.8)
+GAAGAAAAAGAT	DIR	2701184..2701195	2701186	Yes	m6A	485	378	1745	[2699441..2701546]; 'ClpE-like protein'
+GAAGGTTATGAT	DIR	2701391..2701402	2701393	Yes	m6A	499	386	1952	[2699441..2701546]; 'ClpE-like protein'
+GAAGATATTGAT	DIR	2707379..2707390	2707381	Yes	m6A	441	367	500	[2706881..2707429]; 'Transcriptional regulator, AcrR family'
+GAAGAAACAGAT	DIR	2711142..2711153	2711144	Yes	m6A	376	331	356	[2710788..2713196]; 'Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+GTAGGCATAGAT	DIR	2712756..2712767	2712758	Yes	m6A	290	328	1970	[2710788..2713196]; 'Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+GAAGGTTGCGAT	DIR	2712836..2712847	2712838	Yes	m6A	383	335	2050	[2710788..2713196]; 'Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+GAAGCGGCTGAT	DIR	2712933..2712944	2712935	Yes	m6A	473	338	2147	[2710788..2713196]; 'Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+GTAGCTGTCGAT	DIR	2715884..2715895	2715886	Yes	m6A	506	348	n/a	non-coding
+GAAGCACCTGAT	DIR	2726298..2726309	2726300	Yes	m6A	505	359	n/a	non-coding
+GAAGATACTGAT	DIR	2728911..2728922	2728913	Yes	m6A	398	341	-30	[2728943..2729530]; 'Transcriptional regulator, AcrR family'
+GTAGCCGTTGAT	DIR	2735031..2735042	2735033	Yes	m6A	544	390	146	[2734887..2735717]; 'Predicted hydrolase/acyltransferase'
+GAAGATGCTGAT	DIR	2745027..2745038	2745029	Yes	m6A	528	351	278	[2744751..2745200]; 'PhnB protein; putative DNA binding 3-demethylubiquinone-9 3-methyltransferase domain protein
+GAAGCGGAAGAT	DIR	2746434..2746445	2746436	Yes	m6A	441	339	425	[2746011..2747693]; 'Predicted acyl esterase/dipeptidyl-peptidase'
+GAAGTTAGAGAT	DIR	2747016..2747027	2747018	Yes	m6A	482	348	1007	[2746011..2747693]; 'Predicted acyl esterase/dipeptidyl-peptidase'
+GAAGGTAAAGAT	DIR	2754745..2754756	2754747	Yes	m6A	381	351	1232	[2753515..2754963]; 'Uncharacterized amino acid permease, GabP family'
+GAAGCGACTGAT	DIR	2755396..2755407	2755398	Yes	m6A	451	371	n/a	non-coding
+GAAGAATTCGAT	DIR	2757995..2758006	2757997	Yes	m6A	499	385	824	[2757173..2758063]; 'Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+GAAGCGATTGAT	DIR	2801647..2801658	2801649	Yes	m6A	436	286	1037	[2800612..2802486]; 'Activator of the mannose operon (transcriptional antiterminator), BglG family
+GAAGCAATCGAT	DIR	2804132..2804143	2804134	Yes	m6A	479	303	1571	[2802563..2804515]; 'PTS system, mannose-specific IIB component (EC 2.7.1.191) / PTS system, mannose-specific IIC component / PTS system, mannose-specific IIA component (EC 2.7.1.191)
+GAAGATGAGGAT	DIR	2805408..2805419	2805410	Yes	m6A	373	309	881	[2804529..2805467]; 'Mannose-6-phosphate isomerase (EC 5.3.1.8)'
+GTAGACATAGAT	DIR	2810767..2810778	2810769	Yes	m6A	454	347	20	[2810749..2811477]; 'Mobile element protein'
+GTAGACTGAGAT	DIR	2826260..2826271	2826262	Yes	m6A	500	384	n/a	non-coding
+GTAGTATTTGAT	DIR	2829500..2829511	2829502	Yes	m6A	527	386	n/a	non-coding
+GTAGTAATTGAT	DIR	2843593..2843604	2843595	Yes	m6A	471	362	n/a	non-coding
+GTAGTCCATGAT	DIR	2847857..2847868	2847859	Yes	m6A	412	352	n/a	non-coding
+GAAGCACGTGAT	DIR	2859656..2859667	2859658	Yes	m6A	511	354	185	[2859473..2859988]; 'hypothetical protein'
+GAAGACGTCGAT	DIR	2861649..2861660	2861651	Yes	m6A	458	343	302	[2861349..2862305]; 'Rhodanese domain protein UPF0176, Firmicutes subgroup
+GTAGATATCGAT	DIR	2872436..2872447	2872438	Yes	m6A	451	346	152	[2872286..2873086]; 'N-hydroxyarylamine O-acetyltransferase (EC 2.3.1.118)
+GAAGAATTCGAT	DIR	2872844..2872855	2872846	Yes	m6A	476	351	560	[2872286..2873086]; 'N-hydroxyarylamine O-acetyltransferase (EC 2.3.1.118)

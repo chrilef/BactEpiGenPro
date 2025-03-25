@@ -1,0 +1,28 @@
+
+Genome CP042865
+Motif GATC is modified at sites 3, 2;
+19 unmodified sites were identified out of 38442 found motifs;
+	unmodified at location 3 = 11; unmodified at location 2 = 8;
+
+
+
+Motif	Strand	Location	Site	Match	Description	Score	Coverage	Site location relative to TSC	Annotation
+GATC	REV	511585..511588	511587	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	1059470..1059473	1059471	None	unmodified	0	n/a	-66	'BAA196NC_1005' [1059537..1060727]; 'mltB'; 'Membrane-bound lytic murein transglycosylase B'
+GATC	REV	1059470..1059473	1059472	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	1816399..1816402	1816400	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	1816399..1816402	1816401	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	1816412..1816415	1816413	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	1816412..1816415	1816414	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	1816431..1816434	1816432	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	1816431..1816434	1816433	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	2025544..2025547	2025545	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	2025544..2025547	2025546	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	3171230..3171233	3171231	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	3171230..3171233	3171232	None	unmodified	0	n/a	-68	'BAA196NC_3016' [3169248..3171164]; 'mngA'; 'Fused 2-O-a-mannosyl-D-glycerate specific PTS enzymes: IIA component/IIB component/IIC component
+GATC	REV	3314978..3314981	3314980	None	unmodified	0	n/a	-72	'BAA196NC_3152' [3313658..3314908]; 'ybdA'; 'Enterobactin exporter'
+GATC	REV	4024353..4024356	4024355	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	4060678..4060681	4060679	None	unmodified	0	n/a	n/a	non-coding
+GATC	REV	4465043..4465046	4465045	None	unmodified	0	n/a	n/a	non-coding
+GATC	DIR	4492945..4492948	4492946	None	unmodified	0	n/a	-69	'BAA196NC_4248' [4493015..4493911]; 'yihU'; '3-sulfolactaldehyde reductase'
+GATC	REV	4492945..4492948	4492947	None	unmodified	0	n/a	n/a	non-coding
