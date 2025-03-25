@@ -1,0 +1,35 @@
+-d	K.pneumoniae 20_245
+-i	20_245.dnamod.gff
+-g	20_245_dnamod_filtered.gbk
+-ft	
+-ogf	HTML
+-dpi	300
+-m	
+-p	75
+-r	10000
+-n	2
+-z	Yes
+-std	off
+-u	input
+-o	output
+-tmp	.\lib\bin\tmp
+-x	.\lib\bin
+-mm	Y
+-w	CRGKGATC,1,6,-2
+-f	M
+-s	sites
+-wl	8000
+-ws	2000
+-c	21
+-cmt	
+-dp	N
+-dpn	A,C
+-dpm	
+-dpf	
+-dpc	21
+-dpw	0
+-dps	0
+-dpt	
+-sp	Y
+-tsk	gc, gcs
+-spt	
