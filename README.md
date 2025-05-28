@@ -21,6 +21,27 @@ pip3 install SciPy
 <li>Ghostscript</li>
 <li>GTK</li> 
 </ul>
+Windows:
+
+```
+winget poppler
+winget ghostscript
+winget gtk
+```
+Linux:
+
+```
+wget poppler
+wget ghostscript
+wget gtk
+
+```
+macOS:
+```
+brew install poppler
+brew install ghostscript
+brew install gtk
+```
 <p>And Python3 packages: </p>
 
 ```
