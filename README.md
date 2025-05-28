@@ -24,17 +24,16 @@ pip3 install SciPy
 Windows:
 
 ```
-winget poppler
-winget ghostscript
-winget gtk
+winget install poppler
+winget install ghostscript
+winget install gtk
 ```
 Linux:
 
 ```
-wget poppler
-wget ghostscript
-wget gtk
-
+apt-get install poppler
+apt-get install ghostscript
+apt-get install gtk
 ```
 macOS:
 ```
