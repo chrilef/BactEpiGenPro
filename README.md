@@ -6,7 +6,18 @@
   <p> Worked examples can be found at <a href='https://begp.bi.up.ac.za/usage.html'>https://begp.bi.up.ac.za/usage.html</a> and in the paper at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5232247. </p> 
   <p> If you have found SWMM to be useful for your studies, please remember to cite the paper. </p>
   
-   <h2>Required Dependencies</h2>
+<h2>Installation</h2>
+<h3>Option 1 - Conda Installation</h3>
+<p>Download and install Conda from <a href='https://www.anaconda.com/download/success'>https://www.anaconda.com/download/success</a> .</p>
+<p>In the command line, navigate into the SWMM program folder and run the following commands:</p>
+
+```
+conda env create -f environment_minimal.yml -n swmm
+conda activate swmm
+```
+<h3>Option 2 - Manual Installation</h3>
+
+<h4>Required Dependencies</h4>
    <p>Install Python 3.9+ on Linux, macOS, or Windows.</p>
    <p>Use the Python3 package manager, typically aliased as pip or pip3, to install the following dependencies:</p>
    
@@ -14,7 +25,7 @@
 pip3 install NumPy 
 pip3 install SciPy 
 ```
-<h2>Optional Dependencies</h2>
+<h4>Optional Dependencies</h4>
 <p>For SWMM to generate plots in different formats (e.g., EPS, PDF, raster), install the following packages using the appropriate package manager on your computer: </p>
 <ul>
 <li>Poppler</li>
@@ -50,13 +61,11 @@ pip3 install CairoSVG
 pip3 install PyGTK
 ```
 
-   
-   <h2>Command Line Usage</h2>
+ <h2>Command line Usage</h2>
+ <p>Navigate into the SWMM project directory, then use the commands below to guide your run. </p>
   <p><code>python run.py [-arguments]</code></p>
   <p><code>python run.py -h / -H / --help</code> - Show this help</p>
   <p><code>python run.py -v / -V / --version</code> - Show version</p>
-
-
   <h2>Example Usage</h2>
   <p><code>python program.py -i input.gff -g genome.gbk -d example -mm Y -w GATC,2,-2 -p 100 -sp Y</code></p>
   
