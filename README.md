@@ -7,6 +7,7 @@
   <p> If you have found SWMM to be useful for your studies, please remember to cite the paper. </p>
   
 <h2>Installation</h2>
+Download the .zip file from GitHub https://github.com/chrilef/BactEpiGenPro/archive/refs/heads/main.zip. Then install the dependencies described below.
 <h3>Option 1 - Conda Installation</h3>
 <p>Download and install Conda from <a href='https://www.anaconda.com/download/success'>https://www.anaconda.com/download/success</a> .</p>
 <p>In the command line, navigate into the SWMM program folder and run the following commands:</p>
