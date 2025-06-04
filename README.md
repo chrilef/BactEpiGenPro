@@ -12,6 +12,8 @@ Download the .zip file from GitHub https://github.com/chrilef/BactEpiGenPro/arch
 <p>In the command line, navigate into the SWMM program folder and run the following commands:</p>
 
 ```
+conda init
+source activate base
 conda env create -f environment_minimal.yml -n swmm
 conda activate swmm
 ```
